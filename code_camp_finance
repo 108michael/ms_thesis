@@ -1,0 +1,14 @@
+import pandas as pd
+import glob
+
+
+
+dfy = pd.concat((pd.read_csv(f, sep='|', low_memory=False, header=None, names=['cmte_id', '2', '3', '4','5', 'trans_typ', 'entity_typ', '8', '9', 'state', '11', 'employer', 'occupation', 'date', 'amount', 'fec_id', 'cand_id', '18', '19', '20', '21', '22'], usecols= ['date', 'cmte_id', 'trans_typ', 'entity_typ', 'state', 'amount', 'fec_id', 'cand_id'], dtype={'date': str}) for f in glob.glob('/home/jayaramdas/anaconda3/Thesis/FEC_data/itpas2_data/itpas2**.txt')), ignore_index=True) 
+
+dfy['date'] = pd.to_datetime(dfy['date'], format='%m%d%Y')
+
+dfy = dfy[(dfy['date'].notnull()) & (dfy['date'] > '2007-01-01') & (dfy['date'] < '2014-12-31') ]
+
+df = dfy.set_index(['date'])
+
+df.drop(['cand_id'], axis=1, inplace=True)
