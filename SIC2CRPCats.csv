@@ -1,0 +1,1008 @@
+﻿SICcode        Catcode        Category        SICname        MultSIC
+0111        A1500        Wheat, corn, soybeans and cash grain        Wheat        X
+0112        A1600        Other commodities (incl rice, peanuts, honey)        Rice        X
+0115        A1500        Wheat, corn, soybeans and cash grain        Corn        X
+0116        A1500        Wheat, corn, soybeans and cash grain        Soybeans        X
+0119        A1500        Wheat, corn, soybeans and cash grain        Cash grains, NEC        X
+0131        A1100        Cotton        Cotton        X
+0132        A1300        Tobacco & Tobacco products        Tobacco        X
+0133        A1200        Sugar cane & sugar beets        Sugarcane and sugar beets        X
+0134        A1400        Vegetables, fruits and tree nut        Irish potatoes        X
+0139        A1500        Wheat, corn, soybeans and cash grain        Field crops, except cash grains, NEC        X
+0161        A1400        Vegetables, fruits and tree nut        Vegetables and melons        X
+0171        A1400        Vegetables, fruits and tree nut        Berry crops        X
+0172        A1400        Vegetables, fruits and tree nut        Grapes        X
+0173        A1400        Vegetables, fruits and tree nut        Tree nuts        X
+0174        A1400        Vegetables, fruits and tree nut        Citrus fruits        X
+0175        A1400        Vegetables, fruits and tree nut        Deciduous tree fruits        X
+0179        A1400        Vegetables, fruits and tree nut        Fruits and tree nuts, NEC        X
+0181        A8000        Florists & Nursery Services        Ornamental nursery products        X
+0182        A1400        Vegetables, fruits and tree nut        Food crops grown under cover        X
+0191        A1000        Crop production & basic processing        General farms, primarily crop        X
+0211        A3300        Feedlots & related livestock services        Beef cattle feedlots        
+0212        A3000        Livestock        Beef cattle, except feedlots        X
+0213        A3000        Livestock        Hogs        X
+0214        A3200        Sheep and Wool Producers        Sheep and goats        
+0219        A3000        Livestock        General livestock, NEC        X
+0241        A2000        Milk & dairy producers        Dairy farms        X
+0251        A2300        Poultry & eggs        Broiler, fryer and roaster chickens        X
+0252        A2300        Poultry & eggs        Chicken eggs        X
+0253        A2300        Poultry & eggs        Turkeys and turkey eggs        X
+0254        A2300        Poultry & eggs        Poultry hatcheries        X
+0259        A2300        Poultry & eggs        Poultry & eggs, NEC        X
+0271        A3000        Livestock        Furbearing animals and rabbits        X
+0272        A3500        Horse Breeders        Horses and other equines        
+0273        E4100        Fishing        Animal aquaculture        X
+0279        A3000        Livestock        Animal specialties, NEC        X
+0291        A3000        Livestock        General farms, primarily animal        X
+0711        A4000        Agricultural services & related industries        Soil preparation services        X
+0721        A4000        Agricultural services & related industries        Crop planting and protecting        X
+0722        A4000        Agricultural services & related industries        Crop harvesting        X
+0723        A1000        Crop production & basic processing        Crop preparation services for market        X
+0724        A1100        Cotton        Cotton ginning        X
+0741        A4500        Veterinarians        Veterinary Services for Livestock        X
+0742        A4500        Veterinarians        Veterinary services, specialties        X
+0751        A3000        Livestock        Livestock services, exc specialties        X
+0752        A3000        Livestock        Animal specialty services        X
+0761        A4000        Agricultural services & related industries        Farm labor contractors        X
+0762        A1000        Crop production & basic processing        Farm management services        X
+0781        B3600        Landscaping & Excavation Svcs        Landscape counseling and planning        X
+0782        B3600        Landscaping & Excavation Svcs        Lawn and garden services        X
+0783        A8000        Florists & Nursery Services        Ornamental shrub and tree services        X
+0811        A5000        Forestry & Forest Products        Timber tracts        X
+0831        A5000        Forestry & Forest Products        Forest products        X
+0851        A5000        Forestry & Forest Products        Forestry services        X
+0912        E4100        Fishing        Finfish        X
+0913        E4100        Fishing        Shellfish        X
+0919        E4100        Fishing        Miscellaneous marine products        X
+0921        E4100        Fishing        Fish hatcheries and preserves        X
+0971        E4200        Hunting & wildlife        Hunting, trapping, game propagation        
+1011        E1220        Metal mining & processing        Iron ores        X
+1021        E1220        Metal mining & processing        Copper ores        X
+1031        E1220        Metal mining & processing        Lead and zinc ores        X
+1041        E1220        Metal mining & processing        Gold ores        X
+1044        E1220        Metal mining & processing        Silver ores        X
+1061        E1220        Metal mining & processing        Ferroalloy ores, except vanadium        X
+1081        E1220        Metal mining & processing        Metal mining services        X
+1094        E1220        Metal mining & processing        Uraniumradiumvanadium ores        X
+1099        E1220        Metal mining & processing        Metal ores, NEC        X
+1221        E1210        Coal mining        Bituminous coal & lignitesurface        X
+1222        E1210        Coal mining        Bituminous coalunderground        X
+1231        E1210        Coal mining        Anthracite mining        X
+1241        E1210        Coal mining        Coal mining services        X
+1311        E1120        Independent oil & gas producers        Crude petroleum and natural gas        X
+1321        E1120        Independent oil & gas producers        Natural gas liquids        X
+1381        E1150        Oilfield service, equipment & exploration        Drilling oil and gas wells        X
+1382        E1150        Oilfield service, equipment & exploration        Oil and gas exploration services        X
+1389        E1150        Oilfield service, equipment & exploration        Oil and gas field services, NEC        X
+1411        B5100        Stone, clay, glass & concrete products        Dimension stone        X
+1422        B5100        Stone, clay, glass & concrete products        Crushed and broken limestone        X
+1423        B5100        Stone, clay, glass & concrete products        Crushed and broken granite        X
+1429        B5100        Stone, clay, glass & concrete products        Crushed and broken stone, NEC        X
+1442        B5100        Stone, clay, glass & concrete products        Construction sand and gravel        X
+1446        E1230        Non-metallic mining        Industrial sand        X
+1455        E1230        Non-metallic mining        Kaolin and ball clay        X
+1459        E1230        Non-metallic mining        Clay and related minerals, NEC        X
+1474        E1230        Non-metallic mining        Potash, soda, and borate minerals        X
+1475        E1230        Non-metallic mining        Phosphate rock        X
+1479        A4100        Agricultural chemicals (fertilizers & pesticides)        Chemical and fertilizer mining, nec        X
+1481        E1230        Non-metallic mining        Nonmetallic minerals services        X
+1499        E1230        Non-metallic mining        Miscellaneous nonmetallic minerals        X
+1521        B2000        Residential construction        Singlefamily housing construction        X
+1522        B2000        Residential construction        Residential construction, NEC        X
+1531        B2000        Residential construction        Operative builders        X
+1541        B1000        Public works, industrial & commercial construction        Industrial bldg & warehouse construction        X
+1542        B1000        Public works, industrial & commercial construction        Nonresidential construction, NEC        X
+1611        B1000        Public works, industrial & commercial construction        Highway and street construction        X
+1622        B1000        Public works, industrial & commercial construction        Bridge, tunnel, & elevated highway        X
+1623        B1000        Public works, industrial & commercial construction        Water, sewer, and utility lines        X
+1629        B1000        Public works, industrial & commercial construction        Heavy construction, NEC        X
+1711        B3400        Plumbing, heating & air conditioning        Plumbing, heating, airconditioning        X
+1721        B3000        Special trade contractors        Painting, paper hanging        X
+1731        B3200        Electrical contractors        Electrical work        
+1741        B3000        Special trade contractors        Masonry and other stonework        X
+1742        B3000        Special trade contractors        Plastering, dry wall and insulation        X
+1743        B3000        Special trade contractors        Terrazzo, tile, marble, mosaic work        X
+1751        B3000        Special trade contractors        Carpentering        X
+1752        B3000        Special trade contractors        Floor laying and floor work, NEC        X
+1761        B3000        Special trade contractors        Roofing and sheet metal work        X
+1771        B3000        Special trade contractors        Concrete work        X
+1781        B3000        Special trade contractors        Water well drilling        X
+1791        B3000        Special trade contractors        Structural steel erection        X
+1793        B3000        Special trade contractors        Glass and glazing work        X
+1794        B3600        Landscaping & Excavation Svcs        Excavating and foundation work        X
+1795        B3000        Special trade contractors        Wrecking and demolition work        X
+1796        B3000        Special trade contractors        Installing building equipment, NEC        X
+1799        B3000        Special trade contractors        Special trade contractors, NEC        X
+2011        G2300        Meat processing & products        Meat packing plants        X
+2013        G2300        Meat processing & products        Sausages and other prepared meats        X
+2015        A2300        Poultry & eggs        Poultry slaughtering and processing        X
+2021        A2000        Milk & dairy producers        Creamery butter        X
+2022        A2000        Milk & dairy producers        Cheese, natural and processed        X
+2023        A2000        Milk & dairy producers        Dry, condensed, evaporated dairy prods        X
+2024        A2000        Milk & dairy producers        Ice cream and frozen desserts        X
+2026        A2000        Milk & dairy producers        Fluid milk        X
+2032        G2100        Food and kindred products manufacturing        Canned specialties        X
+2033        G2100        Food and kindred products manufacturing        Fruits and vegetables, canned        X
+2034        G2100        Food and kindred products manufacturing        Dehydrated fruits, vegetables,soups        X
+2035        G2100        Food and kindred products manufacturing        Pickles, sauces, and salad dressings        X
+2037        A1400        Vegetables, fruits and tree nut        Frozen fruits and vegetables        X
+2038        G2100        Food and kindred products manufacturing        Frozen specialties, NEC        X
+2041        A1500        Wheat, corn, soybeans and cash grain        Flour and other grain mill products        X
+2043        G2100        Food and kindred products manufacturing        Cereal breakfast foods        X
+2044        A1600        Other commodities (incl rice, peanuts, honey)        Rice milling        X
+2045        G2100        Food and kindred products manufacturing        Prepared flour mixes and doughs        X
+2046        A1500        Wheat, corn, soybeans and cash grain        Wet corn milling        X
+2047        A3100        Animal feed & health products        Dog and cat food        X
+2048        A3100        Animal feed & health products        Prepared feeds, NEC        X
+2051        G2100        Food and kindred products manufacturing        Bread, cake, and related products        X
+2052        G2100        Food and kindred products manufacturing        Cookies and crackers        X
+2053        G2100        Food and kindred products manufacturing        Frozen bakery products, except bread        X
+2061        A1200        Sugar cane & sugar beets        Raw cane sugar        X
+2062        A1200        Sugar cane & sugar beets        Cane sugar refining        X
+2063        A1200        Sugar cane & sugar beets        Beet sugar        X
+2064        G2200        Confectionary processors & manufacturers        Candy and other confectionery products        X
+2066        G2200        Confectionary processors & manufacturers        Chocolate and cocoa products        X
+2067        G2100        Food and kindred products manufacturing        Chewing gum        X
+2068        G2100        Food and kindred products manufacturing        Salted and roasted nuts and seeds        X
+2074        G2100        Food and kindred products manufacturing        Cottonseed oil mills        X
+2075        G2100        Food and kindred products manufacturing        Soybean oil mills        X
+2076        G2100        Food and kindred products manufacturing        Vegetable oil mills, NEC        X
+2077        G2100        Food and kindred products manufacturing        Animal and marine fats and oils        X
+2079        G2100        Food and kindred products manufacturing        Edible fats and oils, NEC        X
+2082        G2810        Beer        Malt beverages        
+2083        G2100        Food and kindred products manufacturing        Malt        X
+2084        G2820        Wine & distilled spirits manufacturing        Wines, brandy, and brandy spirits        X
+2085        G2820        Wine & distilled spirits manufacturing        Distilled and blended liquors        X
+2086        G2600        Beverages (non-alcoholic)        Soft drinks, bottled and canned        X
+2087        G2100        Food and kindred products manufacturing        Flavoring extracts and syrups, NEC        X
+2091        G2350        Fish Processing        Canned and cured fish and seafoods        X
+2092        G2350        Fish Processing        Fish, fresh or frozen packaged        X
+2095        G2600        Beverages (non-alcoholic)        Coffee, roasted        X
+2096        G2100        Food and kindred products manufacturing        Potato chips and similar snacks        X
+2097        G2100        Food and kindred products manufacturing        Ice, manufactured        X
+2098        G2100        Food and kindred products manufacturing        Macaroni and spaghetti        X
+2099        G2100        Food and kindred products manufacturing        Food preparations, NEC        X
+2111        A1300        Tobacco & Tobacco products        Cigarettes        X
+2121        A1300        Tobacco & Tobacco products        Cigars        X
+2131        A1300        Tobacco & Tobacco products        Chewing and smoking tobacco        X
+2141        A1300        Tobacco & Tobacco products        Tobacco stemming and redrying        X
+2211        M8000        Textiles & fabrics        Broadwoven fabric mills, cotton        X
+2221        M1400        Manmade fibers        Broadwoven fabric mills, manmade        X
+2231        M8000        Textiles & fabrics        Broadwoven fabric mills, wool        X
+2241        M8000        Textiles & fabrics        Narrow fabric mills        X
+2251        M3100        Clothing & accessories        Women's hosiery, except socks        X
+2252        M3100        Clothing & accessories        Hosiery, NEC        X
+2253        M3100        Clothing & accessories        Knit outerwear mills        X
+2254        M3100        Clothing & accessories        Knit underwear mills        X
+2257        M8000        Textiles & fabrics        Weft knit fabric mills        X
+2258        M8000        Textiles & fabrics        Lace and warp knit fabric mills        X
+2259        M3100        Clothing & accessories        Knitting mills, NEC        X
+2261        M8000        Textiles & fabrics        Finishing plants, cotton        X
+2262        M1400        Manmade fibers        Finishing plants, manmade        X
+2269        M8000        Textiles & fabrics        Finishing plants, NEC        X
+2273        M4000        Household & office products        Carpets and rugs        X
+2281        M8000        Textiles & fabrics        Yarn spinning mills        X
+2282        M8000        Textiles & fabrics        Yarn throwing and winding mills        X
+2284        M8000        Textiles & fabrics        Thread mills        X
+2295        M8000        Textiles & fabrics        Coated fabrics, not rubberized        X
+2296        M8000        Textiles & fabrics        Tire cord and fabric        X
+2297        M8000        Textiles & fabrics        Nonwoven fabrics        X
+2298        M8000        Textiles & fabrics        Cordage and twine        X
+2299        M8000        Textiles & fabrics        Textile goods, NEC        X
+2311        M3100        Clothing & accessories        Men's and boys' suits and coats        X
+2321        M3100        Clothing & accessories        Men's and boys' shirts        X
+2322        M3100        Clothing & accessories        Men's and boys' underwear        X
+2323        M3100        Clothing & accessories        Men's and boys' neckwear        X
+2325        M3100        Clothing & accessories        Men's and boys' trousers        X
+2326        M3100        Clothing & accessories        Men's and boys' work clothing        X
+2329        M3100        Clothing & accessories        Men's and boys' clothing, NEC        X
+2331        M3100        Clothing & accessories        Women's & misses' blouses & waists        X
+2335        M3100        Clothing & accessories        Women's, junior's, & misses' dresses        X
+2337        M3100        Clothing & accessories        Women's and misses' suits and coats        X
+2339        M3100        Clothing & accessories        Women's and misses' outerwear, NEC        X
+2341        M3100        Clothing & accessories        Women's and children's underwear        X
+2342        M3100        Clothing & accessories        Bras, girdles, and allied garments        X
+2353        M3100        Clothing & accessories        Hats, caps, and millinery        X
+2361        M3100        Clothing & accessories        Girls' and children's dresses & blouses        X
+2369        M3100        Clothing & accessories        Girls, children's & infants outwear, NEC        X
+2371        M3100        Clothing & accessories        Fur goods        X
+2381        M3100        Clothing & accessories        Gloves, dress and work, fabric        X
+2384        M3100        Clothing & accessories        Robes and dressing gowns        X
+2385        M3100        Clothing & accessories        Waterproof outergarments        X
+2386        M3200        Shoes & leather products        Leather and sheep lined clothing        X
+2387        M3100        Clothing & accessories        Apparel belts        X
+2389        M3100        Clothing & accessories        Apparel and accessories, NEC        X
+2391        M4000        Household & office products        Curtains and draperies        X
+2392        M4000        Household & office products        House furnishings, NEC        X
+2393        M7000        Paper, glass & packaging materials        Textile bags        X
+2394        M8000        Textiles & fabrics        Canvas and related products        X
+2395        M8000        Textiles & fabrics        Pleating and stitching        X
+2396        M2300        Industrial/commercial equipment & materials        Automotive and apparel trimmings        X
+2397        M8000        Textiles & fabrics        Schiffli machine embroideries        X
+2399        M8000        Textiles & fabrics        Fabricated textile products, NEC        X
+2411        A5000        Forestry & Forest Products        Logging        X
+2421        A5000        Forestry & Forest Products        Sawmills and planing mills, general        X
+2426        M4100        Furniture & wood products        Hardwood dimension and flooring        X
+2429        A5000        Forestry & Forest Products        Special product sawmills, NEC        X
+2431        M4100        Furniture & wood products        Millwork        X
+2434        M4100        Furniture & wood products        Wood kitchen cabinets        X
+2435        A5000        Forestry & Forest Products        Hardwood veneer and plywood        X
+2436        A5000        Forestry & Forest Products        Softwood veneer and plywood        X
+2439        A5000        Forestry & Forest Products        Structural wood members, NEC        X
+2441        M4100        Furniture & wood products        Nailed wood boxes and shook        X
+2448        M4100        Furniture & wood products        Wood pallets and skids        X
+2449        M4100        Furniture & wood products        Wood containers, NEC        X
+2451        B2400        Mobile home construction        Mobile homes        
+2452        M4100        Furniture & wood products        Prefabricated wood buildings        X
+2491        A5000        Forestry & Forest Products        Wood preserving        X
+2493        M4100        Furniture & wood products        Reconstituted wood products        X
+2499        M4100        Furniture & wood products        Wood products, NEC        X
+2511        M4100        Furniture & wood products        Wood household furniture        X
+2512        M4100        Furniture & wood products        Upholstered household furniture        X
+2514        M4100        Furniture & wood products        Metal household furniture        X
+2515        M4100        Furniture & wood products        Mattresses and bedsprings        X
+2517        M4100        Furniture & wood products        Wood TV and radio cabinets        X
+2519        M4100        Furniture & wood products        Household furniture, NEC        X
+2521        M4100        Furniture & wood products        Wood office furniture        X
+2522        M4100        Furniture & wood products        Office furniture, except wood        X
+2531        M4100        Furniture & wood products        Public building & related furniture        X
+2541        M4100        Furniture & wood products        Wood partitions and fixtures        X
+2542        M2300        Industrial/commercial equipment & materials        Partitions and fixtures, except wood        X
+2591        M4000        Household & office products        Drapery hardware, blinds & shades        X
+2599        M4100        Furniture & wood products        Furniture and fixtures, NEC        X
+2611        A5200        Paper & pulp mills and paper manufacturing        Pulp mills        X
+2621        A5200        Paper & pulp mills and paper manufacturing        Paper mills        X
+2631        A5200        Paper & pulp mills and paper manufacturing        Paperboard mills        X
+2652        M7100        Paper packaging materials        Setup paperboard boxes        X
+2653        M7100        Paper packaging materials        Corrugated and solid fiber boxes        X
+2655        M7000        Paper, glass & packaging materials        Fiber cans, drums & similar products        X
+2656        M7000        Paper, glass & packaging materials        Sanitary food containers, except folding        X
+2657        M7100        Paper packaging materials        Folding paperboard boxes, incl sanitary        X
+2671        M7100        Paper packaging materials        Paper coated & laminated, packaging        X
+2672        M7100        Paper packaging materials        Paper coated and laminated, NEC        X
+2673        M7000        Paper, glass & packaging materials        Bags: plastics, laminated, & coated        X
+2674        M7100        Paper packaging materials        Bags: uncoated paper & multiwall        X
+2675        M7000        Paper, glass & packaging materials        Diecut paper and board        X
+2676        M7000        Paper, glass & packaging materials        Sanitary paper products        X
+2677        M7000        Paper, glass & packaging materials        Envelopes        X
+2678        M7000        Paper, glass & packaging materials        Stationery products        X
+2679        M7000        Paper, glass & packaging materials        Converted paper products, NEC        X
+2711        C1100        Book, newspaper & periodical publishing        Newspapers        X
+2721        C1100        Book, newspaper & periodical publishing        Periodicals        X
+2731        C1100        Book, newspaper & periodical publishing        Book publishing        X
+2732        C1100        Book, newspaper & periodical publishing        Book printing        X
+2741        C1100        Book, newspaper & periodical publishing        Publishing, misc        X
+2752        C1300        Commercial printing & typesetting        Commercial printing, lithographic        X
+2754        C1300        Commercial printing & typesetting        Commercial printing, gravure        X
+2759        C1300        Commercial printing & typesetting        Commercial Printing, NEC        X
+2761        C1300        Commercial printing & typesetting        Manifold business forms        X
+2771        C1400        Greeting card publishing        Greeting card publishing        
+2782        C1300        Commercial printing & typesetting        Blankbooks and looseleaf binders        X
+2789        C1300        Commercial printing & typesetting        Bookbinding and related work        X
+2791        C1300        Commercial printing & typesetting        Typesetting        X
+2796        C1300        Commercial printing & typesetting        Platemaking and related services        X
+2812        M1000        Chemicals        Alkalies and chlorine        X
+2813        M1000        Chemicals        Industrial gases        X
+2816        M1000        Chemicals        Inorganic pigments        X
+2819        M1000        Chemicals        Industrial inorganic chemicals, NEC        X
+2821        M1500        Plastics & Rubber processing & products        Plastics materials and resins        X
+2822        M1500        Plastics & Rubber processing & products        Synthetic rubber        X
+2823        M1400        Manmade fibers        Cellulosic manmade fibers        X
+2824        M1400        Manmade fibers        Organic fibers, noncellulosic        X
+2833        H4300        Pharmaceutical manufacturing        Medicinals and botanicals        X
+2834        H4300        Pharmaceutical manufacturing        Pharmaceutical preparations        X
+2835        H4300        Pharmaceutical manufacturing        Diagnostic substances        X
+2836        H4300        Pharmaceutical manufacturing        Biological products, exc diagnostic        X
+2841        M1300        Household cleansers & chemicals        Soap and other detergents        X
+2842        M1300        Household cleansers & chemicals        Polishes and sanitation goods        X
+2843        M1000        Chemicals        Surface active agents        X
+2844        M3300        Toiletries & cosmetics        Toilet preparations        
+2851        M1600        Paints, Solvents and Coatings        Paints and allied products        X
+2861        M1000        Chemicals        Gum and wood chemicals        X
+2865        M1000        Chemicals        Cyclic crudes and intermediates        X
+2869        M1000        Chemicals        Industrial organic chemicals, NEC        X
+2873        A4100        Agricultural chemicals (fertilizers & pesticides)        Nitrogenous fertilizers        X
+2874        A4100        Agricultural chemicals (fertilizers & pesticides)        Phosphatic fertilizers        X
+2875        A4100        Agricultural chemicals (fertilizers & pesticides)        Fertilizers, mixing only        X
+2879        A4100        Agricultural chemicals (fertilizers & pesticides)        Agricultural chemicals, NEC        X
+2891        M1700        Adhesives & Sealants        Adhesives and sealants        
+2892        M1100        Explosives        Explosives        
+2893        M1000        Chemicals        Printing ink        X
+2895        M1000        Chemicals        Carbon black        X
+2899        M1000        Chemicals        Chemical preparations, NEC        X
+2911        E1160        Petroleum refining & marketing        Petroleum refining        X
+2951        B5100        Stone, clay, glass & concrete products        Asphalt paving mixtures and blocks        X
+2952        B5000        Building materials        Asphalt felts and coatings        X
+2992        E1160        Petroleum refining & marketing        Lubricating oils and greases        X
+2999        E1160        Petroleum refining & marketing        Petroleum and coal products, NEC        X
+3011        M1500        Plastics & Rubber processing & products        Tires and inner tubes        X
+3021        M3200        Shoes & leather products        Rubber and plastics footwear        X
+3052        M1500        Plastics & Rubber processing & products        Rubber & plastics hose & belting        X
+3053        M2300        Industrial/commercial equipment & materials        Gaskets,packing, and sealing devices        X
+3061        M1500        Plastics & Rubber processing & products        Mechanical rubber goods        X
+3069        M1500        Plastics & Rubber processing & products        Fabricated rubber products, NEC        X
+3081        M1500        Plastics & Rubber processing & products        Unsupported plastics film and sheet        X
+3082        M1500        Plastics & Rubber processing & products        Unsupported plastics profile shapes        X
+3083        M1500        Plastics & Rubber processing & products        Laminated plate & sheet        X
+3084        M1500        Plastics & Rubber processing & products        Plastics pipe        X
+3085        M1500        Plastics & Rubber processing & products        Plastics bottles        X
+3086        M1500        Plastics & Rubber processing & products        Plastics foam products        X
+3087        M1500        Plastics & Rubber processing & products        Custom compound purchased resins        X
+3088        M1500        Plastics & Rubber processing & products        Plastics plumbing fixtures        X
+3089        M1500        Plastics & Rubber processing & products        Plastics products, NEC        X
+3111        M3200        Shoes & leather products        Leather tanning and finishing        X
+3131        M3200        Shoes & leather products        Footwear cut stock        X
+3142        M3200        Shoes & leather products        House slippers        X
+3143        M3200        Shoes & leather products        Men's footwear, except athletic        X
+3144        M3200        Shoes & leather products        Women's footwear, except athletic        X
+3149        M3200        Shoes & leather products        Footwear, except rubber, NEC        X
+3151        M3200        Shoes & leather products        Leather gloves and mittens        X
+3161        M3000        Personal products manufacturing        Luggage        X
+3171        M3000        Personal products manufacturing        Women's handbags and purses        X
+3172        M3200        Shoes & leather products        Personal leather goods, NEC        X
+3199        M3200        Shoes & leather products        Leather goods, NEC        X
+3211        M7200        Glass products        Flat glass        X
+3221        M7200        Glass products        Glass containers        X
+3229        M7200        Glass products        Pressed and blown glass, NEC        X
+3231        M7200        Glass products        Glass products        X
+3241        B5100        Stone, clay, glass & concrete products        Cement, hydraulic        X
+3251        B5100        Stone, clay, glass & concrete products        Brick and structural clay tile        X
+3253        B5400        Other construction-related products        Ceramic wall and floor tile        X
+3255        B5000        Building materials        Clay refractories        X
+3259        B5300        Plumbing & pipe products        Structural clay products, NEC        X
+3261        B5300        Plumbing & pipe products        Vitreous plumbing fixtures        X
+3262        M4000        Household & office products        Vitreous china food utensils        X
+3263        M4000        Household & office products        Fine earthenware food utensils        X
+3264        M2300        Industrial/commercial equipment & materials        Porcelain electrical supplies        X
+3269        M4000        Household & office products        Pottery products, NEC        X
+3271        B5100        Stone, clay, glass & concrete products        Concrete block and brick        X
+3272        B5100        Stone, clay, glass & concrete products        Concrete products, NEC        X
+3273        B5100        Stone, clay, glass & concrete products        Readymixed concrete        X
+3274        B5100        Stone, clay, glass & concrete products        Lime        X
+3275        B5100        Stone, clay, glass & concrete products        Gypsum products        X
+3281        B5100        Stone, clay, glass & concrete products        Cut stone and stone products        X
+3291        B5100        Stone, clay, glass & concrete products        Abrasive products        X
+3292        B5100        Stone, clay, glass & concrete products        Asbestos products        X
+3295        B5100        Stone, clay, glass & concrete products        Minerals, ground or treated        X
+3296        B5100        Stone, clay, glass & concrete products        Mineral wool        X
+3297        B5100        Stone, clay, glass & concrete products        Nonclay refractories        X
+3299        B5100        Stone, clay, glass & concrete products        Nonmetallic mineral products, NEC        X
+3312        M2100        Steel        Blast furnaces and steel mills        X
+3313        M5000        Fabricated metal products        Electrometallurgical products        X
+3315        M5000        Fabricated metal products        Steel wire and related products        X
+3316        M2100        Steel        Cold finishing of steel shapes        X
+3317        M2100        Steel        Steel pipe and tubes        X
+3321        M2000        Heavy industrial manufacturing        Gray iron foundries        X
+3322        M2000        Heavy industrial manufacturing        Malleable iron foundries        X
+3324        M2100        Steel        Steel investment foundries        X
+3325        M2100        Steel        Steel foundries, NEC        X
+3331        M2200        Smelting and non-petroleum refining        Primary copper        X
+3334        E1220        Metal mining & processing        Primary aluminum        X
+3339        M2200        Smelting and non-petroleum refining        Primary nonferrous metals, NEC        X
+3341        M2200        Smelting and non-petroleum refining        Secondary nonferrous metals        X
+3351        M2000        Heavy industrial manufacturing        Copper rolling and drawing        X
+3353        M2000        Heavy industrial manufacturing        Aluminum sheet, plate, and foil        X
+3354        M2000        Heavy industrial manufacturing        Aluminum extruded products        X
+3355        M2000        Heavy industrial manufacturing        Aluminum rolling and drawing, NEC        X
+3356        M2000        Heavy industrial manufacturing        Nonferrous rolling and drawing, NEC        X
+3357        M2000        Heavy industrial manufacturing        Nonferrous wire drawing & insulating        X
+3363        M2000        Heavy industrial manufacturing        Aluminum diecastings        X
+3364        M2000        Heavy industrial manufacturing        Nonferrous diecastings, exc alum        X
+3365        E1220        Metal mining & processing        Aluminum foundries        X
+3366        E1220        Metal mining & processing        Copper foundries        X
+3369        M2000        Heavy industrial manufacturing        Nonferrous foundries, NEC        X
+3398        M2000        Heavy industrial manufacturing        Metal heat treating        X
+3399        M5000        Fabricated metal products        Primary metal products, NEC        X
+3411        M7300        Metal cans & containers        Metal cans        X
+3412        M7300        Metal cans & containers        Metal barrels, drums, and pails        X
+3421        M5000        Fabricated metal products        Cutlery        X
+3423        M5100        Hardware & tools        Hand and edge tools, NEC        X
+3425        M5100        Hardware & tools        Hand saws and saw blades        X
+3429        M5100        Hardware & tools        Hardware, NEC        X
+3431        M5000        Fabricated metal products        Metal sanitary ware        X
+3432        B5300        Plumbing & pipe products        Plumbing fixture fittings and trim        X
+3433        M5000        Fabricated metal products        Heating equipment, except electric        X
+3441        M5000        Fabricated metal products        Fabricated structural metal        X
+3442        B5400        Other construction-related products        Metal doors, sash, and trim        X
+3443        M5000        Fabricated metal products        Fabricated plate work (boiler shops)        X
+3444        M5000        Fabricated metal products        Sheet metal work        X
+3446        M5000        Fabricated metal products        Architectural metal work        X
+3448        M5000        Fabricated metal products        Prefabricated metal buildings        X
+3449        M5000        Fabricated metal products        Miscellaneous structural metalwork        X
+3451        M5000        Fabricated metal products        Screw machine products        X
+3452        M5000        Fabricated metal products        Bolts, nuts, rivets, and washers        X
+3462        M2100        Steel        Iron and steel forgings        X
+3463        M2000        Heavy industrial manufacturing        Nonferrous forgings        X
+3465        T2200        Truck/Automotive parts & accessories        Automotive stampings        X
+3466        M5000        Fabricated metal products        Crowns and closures        X
+3469        M5000        Fabricated metal products        Metal stampings, NEC        X
+3471        M5200        Electroplating, polishing & related services        Plating and polishing        X
+3479        M5200        Electroplating, polishing & related services        Metal coating and allied services        X
+3482        M5300        Small arms & ammunition        Small arms ammunition        X
+3483        M5300        Small arms & ammunition        Ammunition, exc for small arms, NEC        X
+3484        M5300        Small arms & ammunition        Small arms        X
+3489        M5300        Small arms & ammunition        Ordnance and accessories, NEC        X
+3491        M5000        Fabricated metal products        Industrial valves        X
+3492        M5000        Fabricated metal products        Fluid power valves and hose fittings        X
+3493        M5000        Fabricated metal products        Steel springs, except wire        X
+3494        M5000        Fabricated metal products        Valves and pipe fittings,nec        X
+3495        M5000        Fabricated metal products        Wire springs        X
+3496        M5000        Fabricated metal products        Fabricated wire products, misc        X
+3497        M5000        Fabricated metal products        Metal foil and leaf        X
+3498        M5000        Fabricated metal products        Fabricated pipe and fittings        X
+3499        M5000        Fabricated metal products        Fabricated metal products, NEC        X
+3511        M2300        Industrial/commercial equipment & materials        Turbines and turbine generator sets        X
+3519        M2300        Industrial/commercial equipment & materials        Internal combustion engines, NEC        X
+3523        A4200        Farm machinery & equipment        Farm machinery and equipment        X
+3524        M4000        Household & office products        Lawn and garden equipment        X
+3531        B6000        Construction equipment        Construction machinery and equipment        X
+3532        E1240        Mining services & equipment        Mining machinery        
+3533        E1150        Oilfield service, equipment & exploration        Oil and gas field machinery        X
+3534        B5400        Other construction-related products        Elevators and moving stairways        X
+3535        M2300        Industrial/commercial equipment & materials        Conveyors and conveying equipment        X
+3536        M2300        Industrial/commercial equipment & materials        Hoists, cranes and monorails        X
+3537        T3200        Truck & trailer manufacturers        Industrial trucks and tractors        X
+3541        M2300        Industrial/commercial equipment & materials        Machine tools, metal cutting types        X
+3542        M2300        Industrial/commercial equipment & materials        Machine tools, metal forming types        X
+3543        M2300        Industrial/commercial equipment & materials        Industrial patterns        X
+3544        M2300        Industrial/commercial equipment & materials        Special dies, tools, jigs & fixtures        X
+3545        M2300        Industrial/commercial equipment & materials        Machine tool accessories        X
+3546        M5100        Hardware & tools        Powerdriven handtools        X
+3547        M2300        Industrial/commercial equipment & materials        Rolling mill machinery        X
+3548        M2300        Industrial/commercial equipment & materials        Welding apparatus        X
+3549        M2300        Industrial/commercial equipment & materials        Metalworking machinery, NEC        X
+3552        M8000        Textiles & fabrics        Textile machinery        X
+3553        M2300        Industrial/commercial equipment & materials        Woodworking machinery        X
+3554        M2300        Industrial/commercial equipment & materials        Paper industries machinery        X
+3555        M2300        Industrial/commercial equipment & materials        Printing trades machinery        X
+3556        M2300        Industrial/commercial equipment & materials        Food products machinery        X
+3559        M2300        Industrial/commercial equipment & materials        Special industry machinery, NEC        X
+3561        M2300        Industrial/commercial equipment & materials        Pumps and pumping equipment        X
+3562        M5000        Fabricated metal products        Ball and roller bearings        X
+3563        M2300        Industrial/commercial equipment & materials        Air and gas compressors        X
+3564        M2300        Industrial/commercial equipment & materials        Blowers and fans        X
+3565        M2300        Industrial/commercial equipment & materials        Packaging machinery        X
+3566        M2300        Industrial/commercial equipment & materials        Speed changers, drives, and gears        X
+3567        M2300        Industrial/commercial equipment & materials        Industrial process furnaces and ovens        X
+3568        M2300        Industrial/commercial equipment & materials        Power transmission equipment, NEC        X
+3569        M2300        Industrial/commercial equipment & materials        General industrial machinery, NEC        X
+3571        C5110        Computers, components & accessories        Electronic computers        X
+3572        C5110        Computers, components & accessories        Computer storage devices        X
+3575        C5110        Computers, components & accessories        Computer terminals        X
+3577        C5110        Computers, components & accessories        Computer peripheral equipment, NEC        X
+3578        M4200        Office machines        Calculating and accounting equipment        X
+3579        M4200        Office machines        Office machines, NEC        X
+3581        M2300        Industrial/commercial equipment & materials        Automatic vending machines        X
+3582        M2300        Industrial/commercial equipment & materials        Laundry equipment, commercial        X
+3585        M2300        Industrial/commercial equipment & materials        Refrigeration and heating equipment        X
+3586        M2300        Industrial/commercial equipment & materials        Measuring and dispensing pumps        X
+3589        M2300        Industrial/commercial equipment & materials        Service industry machinery, NEC        X
+3592        T2200        Truck/Automotive parts & accessories        Carburetors, pistons, rings, valves        X
+3593        M2300        Industrial/commercial equipment & materials        Fluid power cylinders and actuators        X
+3594        M2300        Industrial/commercial equipment & materials        Fluid power pumps and motors        X
+3596        M2300        Industrial/commercial equipment & materials        Scales & balances, except laboratory        X
+3599        M2300        Industrial/commercial equipment & materials        Industrial machinery, NEC        X
+3612        M2300        Industrial/commercial equipment & materials        Transformers, except electronic        X
+3613        M2300        Industrial/commercial equipment & materials        Switchgear and switchboard apparatus        X
+3621        M2300        Industrial/commercial equipment & materials        Motors and generators        X
+3624        M2300        Industrial/commercial equipment & materials        Carbon and graphite products        X
+3625        M2300        Industrial/commercial equipment & materials        Relays and industrial controls        X
+3629        C5000        Electronics manufacturing & services        Electrical industrial apparatus, NEC        X
+3631        M4000        Household & office products        Household cooking equipment        X
+3632        M4300        Household appliances        Household refrigerators and freezers        X
+3633        M4300        Household appliances        Household laundry equipment        X
+3634        M4300        Household appliances        Electric housewares and fans        X
+3635        M4300        Household appliances        Household vacuum cleaners        X
+3639        M4300        Household appliances        Household appliances, NEC        X
+3641        M6000        Electrical lighting products        Electric lamp bulbs and tubes        X
+3643        C5000        Electronics manufacturing & services        Currentcarrying wiring devices        X
+3644        C5000        Electronics manufacturing & services        Noncurrentcarrying wiring devices        X
+3645        M6000        Electrical lighting products        Residential lighting fixtures        X
+3646        M6000        Electrical lighting products        Commercial lighting fixtures        X
+3647        T2200        Truck/Automotive parts & accessories        Vehicular lighting equipment        X
+3648        M6000        Electrical lighting products        Lighting equipment, NEC        X
+3651        C5000        Electronics manufacturing & services        Household audio and video equipment        X
+3652        C2600        Recorded Music & music production        Prerecorded records and tapes        
+3661        C4600        Telephone & communications equipment        Telephone and telegraph apparatus        X
+3663        C4600        Telephone & communications equipment        Radio & TV communications equipment        X
+3669        C4600        Telephone & communications equipment        Communications equipment, NEC        X
+3671        C5000        Electronics manufacturing & services        Electron tubes        X
+3672        C5000        Electronics manufacturing & services        Printed circuit boards        X
+3674        C5110        Computers, components & accessories        Semiconductors and related devices        X
+3675        C5000        Electronics manufacturing & services        Electronic capacitors        X
+3676        C5000        Electronics manufacturing & services        Electronic resistors        X
+3677        C5000        Electronics manufacturing & services        Electronic coils and transformers        X
+3678        C5000        Electronics manufacturing & services        Electronic connectors        X
+3679        C5000        Electronics manufacturing & services        Electronic components, NEC        X
+3691        M2300        Industrial/commercial equipment & materials        Storage batteries        X
+3692        M2300        Industrial/commercial equipment & materials        Primary batteries, dry and wet        X
+3694        M2300        Industrial/commercial equipment & materials        Engine electrical equipment        X
+3695        M2300        Industrial/commercial equipment & materials        Magnetic and optical recording media        X
+3699        M2300        Industrial/commercial equipment & materials        Electrical equipment and supplies, NEC        X
+3711        T2100        Auto manufacturers        Motor vehicles and car bodies        X
+3713        T3200        Truck & trailer manufacturers        Truck and bus bodies        X
+3714        T2200        Truck/Automotive parts & accessories        Motor vehicle parts and accessories        X
+3715        T3200        Truck & trailer manufacturers        Truck trailers        X
+3716        T8200        Motor homes & camper trailers        Motor homes        X
+3721        T1200        Aircraft manufacturers        Aircraft        
+3724        T1300        Aircraft parts & equipment        Aircraft engines and engine parts        X
+3728        T1300        Aircraft parts & equipment        Aircraft equipment, NEC        X
+3731        T6100        Ship building & repair        Ship building and repairing        X
+3732        T6100        Ship building & repair        Boat building and repairing        X
+3743        T5200        Manufacturers of railroad equipment        Railroad equipment        
+3751        T8100        Motorcycles, snowmobiles & other motorized vehicle        Motorcycles, bicycles, and parts        X
+3761        T1700        Space vehicles & components        Guided missiles and space vehicles        X
+3764        T1700        Space vehicles & components        Space propulsion units and parts        X
+3769        T1700        Space vehicles & components        Space vehicle equipment, NEC        X
+3792        T8200        Motor homes & camper trailers        Travel trailers and campers        X
+3795        D8000        Ground-based & other weapons systems        Tanks and tank components        
+3799        N/A                Transportation equipment, NEC        X
+3812        N/A                Search and navigation equipment        X
+3821        M2300        Industrial/commercial equipment & materials        Lab apparatus & furniture        X
+3822        M2300        Industrial/commercial equipment & materials        Environmental controls        X
+3823        M2300        Industrial/commercial equipment & materials        Process control instruments        X
+3824        M2300        Industrial/commercial equipment & materials        Fluid meters and counting devices        X
+3825        M9000        Precision instruments        Instruments to measure electricity        X
+3826        M9000        Precision instruments        Analytical instruments        X
+3827        M9100        Optical instruments & lenses        Optical instruments and lenses        X
+3829        M9000        Precision instruments        Measuring & controlling devices, NEC        X
+3841        H4100        Medical supplies manufacturing & sales        Surgical and medical instruments        X
+3842        H4100        Medical supplies manufacturing & sales        Surgical appliances and supplies        X
+3843        H4100        Medical supplies manufacturing & sales        Dental equipment and supplies        X
+3844        H4100        Medical supplies manufacturing & sales        Xray apparatus and tubes        X
+3845        H4100        Medical supplies manufacturing & sales        Electromedical equipment        X
+3851        M9100        Optical instruments & lenses        Ophthalmic goods        X
+3861        M9200        Photographic equipment & supplies        Photographic equipment and supplies        X
+3873        M9300        Clocks & watches        Watches, clocks, and watchcases        
+3911        M3400        Jewelry        Jewelry, precious metal        X
+3914        M5000        Fabricated metal products        Silverware and plated ware        X
+3915        M3400        Jewelry        Jewelers' materials & lapidary work        X
+3931        M4000        Household & office products        Musical instruments        X
+3942        M3500        Toys        Dolls and stuffed toys        X
+3944        M3500        Toys        Games, toys, and children's vehicles        X
+3949        M3600        Sporting goods sales & manufacturing        Sporting and athletic goods, NEC        X
+3951        M4000        Household & office products        Pens and mechanical pencils        X
+3952        M4000        Household & office products        Lead pencils and art goods        X
+3953        M4000        Household & office products        Marking devices        X
+3955        M4000        Household & office products        Carbon paper and inked ribbons        X
+3961        M3400        Jewelry        Costume jewelry        X
+3965        M2300        Industrial/commercial equipment & materials        Fasteners, buttons, needles, & pins        X
+3981        N/A                Diversified conglomerate        X
+3991        M4000        Household & office products        Brooms and brushes        X
+3993        G5210        Advertising & public relations services        Signs and advertising displays        X
+3995        M2300        Industrial/commercial equipment & materials        Burial caskets        X
+3996        B5000        Building materials        Hard surface floor coverings        X
+3999        M2300        Industrial/commercial equipment & materials        Manufacturing industries, NEC        X
+4011        T5100        Railroads        Railroads, linehaul operating        
+4013        T5300        Railroad services        Rail switching and terminal services        X
+4111        T4000        Buses & Taxis        Local and suburban transit        X
+4119        T4000        Buses & Taxis        Local passenger transportation, NEC        X
+4121        T4200        Taxicabs        Taxicabs        
+4131        T4100        Bus services        Bus transportation, intercity        X
+4141        T4100        Bus services        Bus charter service, local        X
+4142        T4100        Bus services        Bus charter service, except local        X
+4151        T4100        Bus services        School buses        X
+4173        T4000        Buses & Taxis        Bus terminal and service facilities        X
+4212        T3100        Trucking companies & services        Local trucking without storage        X
+4213        T3100        Trucking companies & services        Trucking, except local        X
+4214        T3100        Trucking companies & services        Trucking and storage, local        X
+4215        T7100        Express delivery services        Courier services, except by air        
+4221        A4000        Agricultural services & related industries        Farm product warehousing and storage        X
+4222        T7200        Warehousing        Refrigerated warehousing        X
+4225        T7200        Warehousing        General warehousing and storage        X
+4226        T7200        Warehousing        Special warehousing & storage, NEC        X
+4231        T3100        Trucking companies & services        Trucking terminal facilities        X
+4311        L1500        US Postal Service unions & associations        U.S. Postal Service        
+4412        T6200        Sea freight & passenger services        Deep sea foreign transportation,freight        X
+4424        T6200        Sea freight & passenger services        Deep sea domestic trans, freight        X
+4432        T6200        Sea freight & passenger services        Freight trans:Great LakesSt. Lawrence        X
+4449        T6200        Sea freight & passenger services        Water transportation of freight, NEC        X
+4481        T6200        Sea freight & passenger services        Deep sea passenger trans, exc ferry        X
+4482        T6200        Sea freight & passenger services        Ferries        X
+4489        T6200        Sea freight & passenger services        Water transportation of passenger, NEC        X
+4491        T6200        Sea freight & passenger services        Marine cargo handling        X
+4492        T6200        Sea freight & passenger services        Towing and tugboat services        X
+4493        T6000        Sea transport        Marinas        
+4499        T6200        Sea freight & passenger services        Water transportation services, NEC        X
+4512        T1100        Airlines        Air transportation, scheduled        
+4513        T1500        Air Freight        Air courier services        
+4522        T1000        Air transport        Air transportation, nonscheduled        
+4581        T1600        Aviation services & airports        Airports, flying fields, & services        
+4612        E1100        Oil & Gas        Crude petroleum pipe lines        X
+4613        E1100        Oil & Gas        Refined petroleum pipe lines        X
+4619        N/A                Pipe lines, NEC        X
+4724        T9400        Travel agents        Travel agencies        X
+4725        T9400        Travel agents        Tour operators        X
+4729        T9400        Travel agents        Passenger transport arrangement, NEC        X
+4731        T0000        Transportation        Freight transportation arrangement        X
+4741        T5300        Railroad services        Rental of railroad cars        X
+4783        T0000        Transportation        Packing and crating        X
+4785        T3100        Trucking companies & services        Inspection & fixed facilities        X
+4789        N/A                Transportation services, NEC        X
+4812        C4100        Telephone utilities        Radiotelephone communications        X
+4813        C4100        Telephone utilities        Telephone communications, exc radio        X
+6163        F1400        Credit agencies & finance companies        Loan brokers        X
+6211        F2100        Security brokers & investment companies        Security brokers and dealers        X
+6221        F2200        Commodity brokers/dealers        Commodity contracts brokers, dealers        
+6231        F2400        Stock exchanges        Security and commodity exchanges        
+6282        F2100        Security brokers & investment companies        Investment advice        X
+6289        F2100        Security brokers & investment companies        Security and commodity services, NEC        X
+6311        F3300        Life insurance        Life insurance        
+6321        F3200        Accident & health insurance        Accident and health insurance        X
+6324        F3200        Accident & health insurance        Hospital and medical service plans        X
+6331        F3400        Property & casualty insurance        Fire, marine, and casualty insurance        
+6341        F3100        Insurance companies, brokers & agents        Insurance Mgmt and holding        X
+6351        F3100        Insurance companies, brokers & agents        Surety insurance        X
+6361        F4300        Title insurance & title abstract offices        Title insurance        X
+6371        F2000        Securities, Diversified        Pension, health, and welfare funds        
+6399        F3100        Insurance companies, brokers & agents        Insurance carriers, NEC        X
+6411        F3100        Insurance companies, brokers & agents        Insurance agents, brokers, & service        X
+6512        F4500        Building operators and managers        Nonresidential building operators        X
+6513        F4500        Building operators and managers        Apartment building operators        X
+6514        F4500        Building operators and managers        Dwelling operators, exc apartments        X
+6515        F4400        Mobile home dealers & parks        Mobile home site operators        X
+6517        T5300        Railroad services        Railroad property lessors        X
+6519        F4500        Building operators and managers        Real property lessors, NEC        X
+6531        F4200        Real estate agents & managers        Real estate agents and managers        
+6541        F4300        Title insurance & title abstract offices        Title abstract offices        X
+6552        F4100        Real Estate developers & subdividers        Subdividers and developers, NEC        X
+6553        G5400        Funeral services        Cemetery subdividers and developers        X
+6712        F1100        Commercial banks & bank holding companies        Bank holding companies        X
+6719        N/A                Holding companies, NEC        X
+6722        F2100        Security brokers & investment companies        Management investment, openend        X
+6726        F2100        Security brokers & investment companies        Investment offices, NEC        X
+6732        X4000        Non-Profits        Educational, religious, etc trusts        X
+6733        F7000        Investors        Trusts, NEC        
+6792        E1120        Independent oil & gas producers        Oil royalty traders        X
+6794        N/A                Patent owners and lessors        X
+4822        C4500        Other Communications Services        Telegraph & other communications        X
+4832        C2100        Commercial TV & radio stations        Radio broadcasting stations        X
+4833        C2100        Commercial TV & radio stations        Television broadcasting stations        X
+4841        C2200        Cable & satellite TV production & distribution        Cable and other pay TV services        
+4899        C4500        Other Communications Services        Communication services, NEC        X
+4911        E1600        Electric Power utilities        Electric services        
+4922        E1140        Natural Gas transmission & distribution        Natural gas transmission        X
+4923        E1140        Natural Gas transmission & distribution        Gas transmission and distribution        X
+4924        E1140        Natural Gas transmission & distribution        Natural gas distribution        X
+4925        E1140        Natural Gas transmission & distribution        Gas production and/or distribution        X
+4931        E1620        Gas & Electric Utilities        Electric and other services combined        X
+4932        E1140        Natural Gas transmission & distribution        Gas and other services combined        X
+4939        E1620        Gas & Electric Utilities        Combination utility services, NEC        X
+4941        E5000        Water Utilities        Water supply        
+4952        E3000        Waste management        Sewerage systems        X
+4953        E3000        Waste management        Refuse systems        X
+4959        E3000        Waste management        Sanitary services, NEC        X
+4961        E1000        Energy production & distribution        Steam and airconditioning supply        
+4971        A4000        Agricultural services & related industries        Irrigation systems        X
+5012        T2100        Auto Manufacturers        Motor vehicles wholesale        X
+5013        T2200        Truck/Automotive parts & accessories        Automotive parts wholesale        X
+5014        T2200        Truck/Automotive parts & accessories        Tires and tubes whsle        X
+5015        T2200        Truck/Automotive parts & accessories        Motor vehicle parts, used        X
+5021        M4100        Furniture & wood products        Furniture wholesale        X
+5023        M4100        Furniture & wood products        Home furnishings wholesale        X
+5031        A5000        Forestry & Forest Products        Lumber wholesale        X
+5032        B5100        Stone, clay, glass & concrete products        Brick, stone, and related construct mtl        X
+5033        B5000        Building materials        Roofing, siding, and insulation materials        X
+5039        B5000        Building materials        Construction mtls, whsle, NEC        X
+5043        M9200        Photographic equipment & supplies        Photographic eqp wholesale        X
+5044        M4000        Household & office products        Office equipment, whsle        X
+5045        C5100        Computer manufacture & services        Computers, peripherals & software, whsle        X
+5046        M2300        Industrial/commercial equipment & materials        Commercial equipment, whsle, NEC        X
+5047        H4100        Medical supplies manufacturing & sales        Medical and hospital equipment, whsle        X
+5048        M9100        Optical instruments & lenses        Ophthalmic goods, whsle        X
+5049        G3000        Wholesale trade        Professional eqp, whsle, NEC        X
+5051        M5000        Fabricated metal products        Metals service centers and offices        X
+5052        E1200        Mining        Coal and minerals whsle        
+5063        E1700        Power plant construction & equipment        Electrical apparatus and eqp, whsle        
+5064        M4300        Household appliances        Appliances wholesale        X
+5065        N/A                Electronic parts and eqp, whsle        X
+5072        M5100        Hardware & tools        Hardware wholesale        X
+5074        B5300        Plumbing & pipe products        Plumbing & heating wholesale        X
+5075        B3400        Plumbing, Heating & Air conditioning        Heating & AC whsle        X
+5078        M2300        Industrial/commercial equipment & materials        Refrigeration eqp whsle        X
+5082        B6000        Construction equipment        Construction eqp whsle        X
+5083        A4200        Farm machinery & equipment        Farm eqp wholesale        X
+5084        M2300        Industrial/commercial equipment & materials        Industrial eqp wholesale        X
+5085        M2300        Industrial/commercial equipment & materials        Industrial supplies whsle        X
+5087        M2300        Industrial/commercial equipment & materials        Service company eqp whsle        X
+5088        N/A                Transportation eqp whsle        X
+5091        M3600        Sporting goods sales & manufacturing        Sporting and recreational goods, whsle        X
+5092        M3500        Toys        Toys, hobby goods and supplies, whsle        X
+5093        M2400        Recycling of metal, paper, plastics, etc.        Scrap and waste materials        
+5094        M3400        Jewelry        Jewelry & watches whsle        X
+5099        G3000        Wholesale trade        Durable goods, NEC, whsle        X
+5111        M7000        Paper, glass & packaging materials        Printing paper wholesale        X
+5112        G3000        Wholesale trade        Stationery supplies whsle        X
+5113        M7000        Paper, glass & packaging materials        Industrial paper whsle        X
+5122        H4400        Pharmaceutical wholesale/retail        Drugs & toiletries whsle        
+5131        G3000        Wholesale trade        Piece goods and notions, whsle        X
+5136        M3100        Clothing & accessories        Men's clothing wholesale        X
+5137        M3100        Clothing & accessories        Women's & children's clothing, whsle        X
+5139        M3200        Shoes & leather products        Footwear wholesale        X
+5141        G2500        Food wholesalers        Groceries whsle, general line        X
+5142        G2500        Food wholesalers        Frozen foods wholesale        X
+5143        A2000        Milk & dairy producers        Dairy products wholesale        X
+5144        A2300        Poultry & eggs        Poultry products wholesale        X
+5145        G2200        Confectionary processors & manufacturers        Confectionery wholesale        X
+5146        G2350        Fish Processing        Fish and seafoods whsle        X
+5147        G2300        Meat processing & products        Meat products wholesale        X
+5148        A1400        Vegetables, fruits and tree nut        Fruits & vegetables whsle        X
+5149        G2500        Food wholesalers        Groceries, NEC, wholesale        X
+5153        A1500        Wheat, corn, soybeans and cash grain        Grain and beans wholesale        X
+5154        A3000        Livestock        Livestock wholesale        X
+5159        A4000        Agricultural services & related industries        Farmprod raw mtls whsle, NEC        X
+5162        M1500        Plastics & Rubber processing & products        Plastics materials and shapes, whsle        X
+5169        M1000        Chemicals        Chemicals & allied products, NEC, whsle        X
+5171        E1160        Petroleum refining & marketing        Petroleum bulk stations & terminals        X
+5172        E1160        Petroleum refining & marketing        Petroleum products whsle, NEC        X
+5181        G2850        Liquor wholesalers        Beer and ale wholesale        X
+5182        G2850        Liquor wholesalers        Wines & spirits wholesale        X
+5191        A4000        Agricultural services & related industries        Farm supplies wholesale        X
+5192        C1100        Book, newspaper & periodical publishing        Books,periodicals,and newspapers, whsle        X
+5193        A8000        Florists & Nursery Services        Flowers and florists' supplies, whsle        X
+5194        A1300        Tobacco & Tobacco products        Tobacco products wholesale        X
+5198        M1600        Paints, Solvents and Coatings        Paint products wholesale        X
+5199        G3000        Wholesale trade        Nondurable goods whsle, NEC        X
+5211        B5200        Lumber and wood products        Lumber & bldg mtls retail        
+5231        G4500        Hardware & building materials stores        Paint, glass, and wallpaper stores        X
+5251        G4500        Hardware & building materials stores        Hardware stores        X
+5261        G4600        Miscellaneous retail stores        Retail nurseries and garden stores        X
+5271        F4400        Mobile home dealers & parks        Mobile home dealers        X
+5311        G4300        Department, variety & convenience stores        Department stores        X
+5331        G4300        Department, variety & convenience stores        Variety stores        X
+5399        G4300        Department, variety & convenience stores        Miscellaneous general merchandise stores        X
+5411        G2400        Food stores        Grocery stores        X
+5421        G2400        Food stores        Meat and fish markets        X
+5431        G2400        Food stores        Fruit and vegetable markets        X
+5441        G4600        Miscellaneous retail stores        Candy, nut, and confectionery stores        X
+5451        A2000        Milk & dairy producers        Dairy products stores        X
+5461        G2100        Food and kindred products manufacturing        Retail bakeries        X
+5499        G4600        Miscellaneous retail stores        Miscellaneous food stores        X
+5511        T2300        Auto dealers, new & used        Car dealers, new and used        X
+5521        T2300        Auto dealers, new & used        Used car dealers        X
+5531        G4600        Miscellaneous retail stores        Auto and home supply stores        X
+5541        E1170        Gasoline service stations        Gasoline service stations        
+5551        T8300        Pleasure boats        Boat dealers        
+5561        T8200        Motor homes & camper trailers        Recreational vehicle dealers        X
+5571        T8100        Motorcycles, snowmobiles & other motorized vehicle        Motorcycle dealers        X
+5599        T8100        Motorcycles, snowmobiles & other motorized vehicle        Automotive dealers, NEC        X
+5611        G4100        Apparel & accessory stores        Men's & boys' clothing stores        X
+5621        G4100        Apparel & accessory stores        Women's clothing stores        X
+5632        G4100        Apparel & accessory stores        Women's accessory and specialty stores        X
+5641        G4100        Apparel & accessory stores        Children's and infants' wear stores        X
+5651        G4100        Apparel & accessory stores        Family clothing stores        X
+5661        G4100        Apparel & accessory stores        Shoe stores        X
+5699        G4100        Apparel & accessory stores        Apparel & accessory stores, misc        X
+5712        G4400        Furniture & appliance stores        Furniture stores        X
+5713        G4500        Hardware & building materials stores        Floor covering stores        X
+5714        G4600        Miscellaneous retail stores        Drapery and upholstery stores        X
+5719        G4600        Miscellaneous retail stores        Misc home furnishings stores        X
+5722        G4400        Furniture & appliance stores        Household appliance stores        X
+5731        G4200        Consumer electronics & computer stores        Radio, TV, & electronic stores        
+5734        G4200        Department, variety & convenience stores        Computer and software stores        X
+5735        G4600        Miscellaneous retail stores        Record and prerecorded tape stores        X
+5736        G4600        Miscellaneous retail stores        Musical instrument stores        X
+5812        G2900        Restaurants & drinking establishments        Eating places        X
+5813        G2900        Restaurants & drinking establishments        Drinking places        X
+5912        G4900        Drug stores        Drug stores and proprietary stores        
+5921        G2840        Liquor stores        Liquor stores        
+5932        G4600        Miscellaneous retail stores        Used merchandise stores        X
+5941        M3600        Sporting goods sales & manufacturing        Sporting goods and bicycle shops        X
+5942        G4600        Miscellaneous retail stores        Book stores        X
+5943        G4600        Miscellaneous retail stores        Stationery stores        X
+5944        G4600        Miscellaneous retail stores        Jewelry stores        X
+5945        G4600        Miscellaneous retail stores        Hobby, toy, and game shops        X
+5946        G4600        Miscellaneous retail stores        Camera & photographic supply stores        X
+5947        G4600        Miscellaneous retail stores        Gift, novelty, and souvenir shops        X
+5948        G4600        Miscellaneous retail stores        Luggage and leather goods stores        X
+5949        G4600        Miscellaneous retail stores        Sewing, needlework, and piece goods        X
+5961        G4700        Catalog & mail order houses        Catalog and mailorder houses        
+5962        G4850        Vending Machine Sales & Services        Vending machine operators        
+5963        G4800        Direct sales        Direct selling organizations        
+5983        E1180        Fuel oil dealers        Fuel oil dealers        X
+5984        E1190        LPG/Liquid Propane dealers & producers        Liquified petroleum gas dealers        
+5989        E1180        Fuel oil dealers        Fuel dealers, NEC        X
+5992        A8000        Florists & Nursery Services        Florists        X
+5993        G4600        Miscellaneous retail stores        Tobacco stores and stands        X
+5994        G4600        Miscellaneous retail stores        News dealers and newsstands        X
+5995        H3300        Optical services (glasses & contact lenses)        Optical goods stores        
+5999        G4600        Miscellaneous retail stores        Retail stores miscellaneous        X
+6011        F1100        Commercial banks & bank holding companies        Federal Reserve banks        X
+6019        F1100        Commercial banks & bank holding companies        Central reserve depository, NEC        X
+6021        F1100        Commercial banks & bank holding companies        National commercial banks        X
+6022        F1100        Commercial banks & bank holding companies        State commercial banks        X
+6029        F1100        Commercial banks & bank holding companies        Commercial banks, NEC        X
+6035        F1200        Savings banks & Savings and Loans        Federal savings institutions        X
+6036        F1200        Savings banks & Savings and Loans        Savings institutions, except federal        X
+6061        F1300        Credit unions        Federal credit unions        X
+6062        F1300        Credit unions        State credit unions        X
+6081        F1100        Commercial banks & bank holding companies        Branches and agencies of foreign banks        X
+6082        F1100        Commercial banks & bank holding companies        Foreign trade and international banks        X
+6091        F1100        Commercial banks & bank holding companies        Nondeposit trust facilities        X
+6099        F1000        Banks & lending institutions        Functions related to deposit banking        
+6111        F1400        Credit agencies & finance companies        Federal & fedsponsored credit agencies        X
+6141        F1400        Credit agencies & finance companies        Personal credit institutions        X
+6153        F1400        Credit agencies & finance companies        Shortterm business credit        X
+6159        F1400        Credit agencies & finance companies        Business credit institutions, misc        X
+6162        F4600        Mortgage bankers and brokers        Mortgage bankers and correspondents        
+6798        F4100        Real Estate developers & subdividers        Real estate investment trusts        X
+6799        F7000        Investors        Investors, NEC        
+7011        T9100        Hotels & motels        Hotels and motels        X
+7021        T9100        Hotels & motels        Rooming and boarding houses        X
+7032        T9000        Lodging & tourism        Sporting and recreational camps        X
+7033        T9000        Lodging & tourism        Trailer parks and campsites        X
+7041        T9100        Hotels & motels        Membershipbasis organization hotels        X
+7211        G5500        Laundries & dry cleaners        Power laundries, family & commercial        X
+7212        G5500        Laundries & dry cleaners        Garment pressing & cleaners' agents        X
+7213        G5500        Laundries & dry cleaners        Linen supply        X
+7215        G5500        Laundries & dry cleaners        Coinoperated laundries and cleaning        X
+7216        G5500        Laundries & dry cleaners        Dry cleaning plants, except rug        X
+7217        G5500        Laundries & dry cleaners        Carpet and upholstery cleaning        X
+7218        G5500        Laundries & dry cleaners        Industrial launderers        X
+7219        G5500        Laundries & dry cleaners        Laundry and garment services, NEC        X
+7221        G5240        Commercial photography, art & graphic design        Photographic studios, portrait        X
+7231        G5100        Beauty & barber shops        Beauty shops        X
+7241        G5100        Beauty & barber shops        Barber shops        X
+7251        G5600        Miscellaneous repair services        Shoe repair and shoeshine parlors        X
+7261        G5400        Funeral services        Funeral service and crematories        X
+7291        F5300        Tax return services        Tax return preparation services        
+7299        G5000        Services        Miscellaneous personal services        X
+7311        G5210        Advertising & public relations services        Advertising agencies        X
+7312        G5230        Outdoor advertising services        Outdoor advertising services        
+7313        G5210        Advertising & public relations services        Radio, TV, publisher representatives        X
+7319        G5210        Advertising & public relations services        Advertising, NEC        X
+7322        F5200        Credit reporting services & collection agencies        Adjustment and collection services        X
+7323        F5200        Credit reporting services & collection agencies        Credit reporting services        X
+7331        G5220        Direct mail advertising services        Direct mail advertising services        
+7334        G5000        Services        Photocopying & duplicating services        X
+7335        G5240        Commercial photography, art & graphic design        Commercial photography        X
+7336        G5240        Commercial photography, art & graphic design        Commercial art and graphic design        X
+7338        G5200        Business services        Secretarial & court reporting        X
+7342        G5700        Pest control        Disinfecting and exterminating        
+7349        G5200        Business services        Building maintenance services, NEC        X
+7352        H4100        Medical supplies manufacturing & sales        Medical equipment rental        X
+7353        B6000        Construction equipment        Heavy construction equipment rental        X
+7359        G5300        Equipment rental & leasing        Equipment rental & leasing, NEC        X
+7361        G5250        Employment agencies        Employment agencies        X
+7363        G5250        Employment agencies        Help supply services        X
+7371        C5130        Data processing & computer services        Computer programming services        X
+7372        C5120        Computer software        Prepackaged software        
+7373        C5130        Data processing & computer services        Computer integrated systems design        X
+7374        C5130        Data processing & computer services        Data processing and preparation        X
+7375        C5130        Data processing & computer services        Information retrieval services        X
+7376        C5130        Data processing & computer services        Computer facilities management        X
+7377        C5100        Computer manufacture & services        Computer rental and leasing        X
+7378        C5100        Computer manufacture & services        Computer maintenance and repair        X
+7379        C5130        Data processing & computer services        Computer related services, NEC        X
+7381        G5290        Security services        Detective, guard, & armored car svcs        X
+7382        G5290        Security services        Security systems services        X
+7383        C1100        Book, newspaper & periodical publishing        News syndicates        X
+7384        G5000        Services        Photofinishing laboratories        X
+7389        G5200        Business services        Business services, NEC        X
+7513        T2500        Car & truck rental agencies        Truck rental and leasing        X
+7514        T2500        Car & truck rental agencies        Passenger car rental        X
+7515        T2500        Car & truck rental agencies        Passenger car leasing        X
+7519        G5300        Equipment rental & leasing        Utility trailer rental        X
+7521        F4500        Building operators and managers        Automobile parking        X
+7532        T2400        Auto repair        Top & body repair & paint shops        X
+7533        T2400        Auto repair        Auto exhaust system repair shops        X
+7534        T2400        Auto repair        Tire retreading and repair shops        X
+7536        T2400        Auto repair        Automotive glass replacement shops        X
+7537        T2400        Auto repair        Automotive transmission repair shops        X
+7538        T2400        Auto repair        General automotive repair shops        X
+7539        T2400        Auto repair        Automotive repair shops, NEC        X
+7542        T2000        Automotive & Trucking        Car washes        X
+7549        T2000        Automotive & Trucking        Automotive services, NEC        X
+7622        G5600        Miscellaneous repair services        Radio and television repair        X
+7623        G5600        Miscellaneous repair services        Refrigeration service and repair        X
+7629        G5600        Miscellaneous repair services        Electrical repair shops, NEC        X
+7631        G5600        Miscellaneous repair services        Watch, clock, and jewelry repair        X
+7641        G5600        Miscellaneous repair services        Reupholstery and furniture repair        X
+7692        G5600        Miscellaneous repair services        Welding repair        X
+7694        G5600        Miscellaneous repair services        Armature rewinding shops        X
+7699        G5600        Miscellaneous repair services        Repair services, NEC        X
+7812        C2400        Motion picture/TV production & distribution        Motion picture & video production        X
+7819        C2400        Motion picture/TV production & distribution        Services allied to motion pictures        X
+7822        C2400        Motion picture/TV production & distribution        Motion picture and tape distribution        X
+7829        C2400        Motion picture/TV production & distribution        Motion picture distribution services        X
+7832        C2700        Movie Theaters        Motion picture theaters, ex drivein        X
+7833        C2700        Movie Theaters        Drivein motion picture theaters        X
+7841        G6800        Video tape rental        Video tape rental        
+7911        G6100        Amusement/recreation centers        Dance halls, studios, and schools        X
+7922        C2900        Live theater & other entertainment productions        Theatrical producers and services        
+7929        C2800        Bands, orchestras & other live music production        Entertainers & entertainment groups        
+7933        G6100        Amusement/recreation centers        Bowling alleys        X
+7941        G6400        Professional sports, arenas & related equip & svcs        Sports clubs, managers, & promoters        
+7948        G6500        Casinos, racetracks & gambling        Racing, including track operation        
+7991        G5800        Physical fitness centers        Physical fitness facilities        
+7992        G6100        Amusement/recreation centers        Public golf courses        X
+7993        G6100        Amusement/recreation centers        Coinoperated amusement devices        X
+7996        G6700        Amusement parks        Amusement parks        
+7997        G6100        Amusement/recreation centers        Membership sports & recreation clubs        X
+7999        G6100        Amusement/recreation centers        Amusement and recreation, NEC        X
+8011        H1100        Physicians        Offices & clinics of medical doctors        
+8021        H1400        Dentists        Offices and clinics of dentists        
+8031        H1130        Other physician specialists        Offices of osteopathic physicians        X
+8041        H1500        Chiropractors        Offices and clinics of chiropractors        
+8042        H1120        Optometrists & Ophthalmologists        Offices and clinics of optometrists        
+8043        H1130        Other physician specialists        Offices and clinics of podiatrists        X
+8049        H1700        Other non-physician health practitioners        Offices of health practitioners, NEC        
+8051        H2200        Nursing homes        Skilled nursing care facilities        X
+8052        H2200        Nursing homes        Intermediate care facilities        X
+8059        H3000        Health care services        Nursing and personal care, NEC        
+8062        H2100        Hospitals        Hospitals, general medical & surgical        X
+8063        H2100        Hospitals        Psychiatric hospitals        X
+8069        H2100        Hospitals        Specialty hospitals, exc psychiatric        X
+8071        H3400        Medical laboratories        Medical laboratories        X
+8072        H3400        Medical laboratories        Dental laboratories        X
+8082        H3100        Home care services        Home health care services        
+8092        H3200        Outpatient health services (incl drug & alcohol)        Kidney dialysis centers        X
+8093        H3200        Outpatient health services (incl drug & alcohol)        Specialty outpatient facilities, NEC        X
+8099        H0000        Health, Education & Human Resources        Health and allied services, NEC        
+8111        K1000        Attorneys & law firms        Legal services        
+8211        H5100        Schools & colleges        Elementary and secondary schools        X
+8221        H5100        Schools & colleges        Colleges and universities, NEC        X
+8222        H5100        Schools & colleges        Junior colleges        X
+8231        X4200        Museums, art galleries, libraries, etc.        Libraries        X
+8243        H5200        Technical, business and vocational schools & svcs        Data processing schools        X
+8244        H5200        Technical, business and vocational schools & svcs        Business and secretarial schools        X
+8249        H5200        Technical, business and vocational schools & svcs        Vocational schools, NEC        X
+8299        H5000        Education        Schools & educational services, NEC        
+8322        H6000        Welfare & Social Work        Individual and family social services        X
+8331        H6000        Welfare & Social Work        Job training and related services        X
+8351        G5000        Services        Child day care services        X
+8361        H2200        Nursing Homes        Residential care        X
+8399        H6000        Welfare & Social Work        Social services, NEC        X
+8412        X4200        Museums, art galleries, libraries, etc.        Museums and art galleries        X
+8422        X4200        Museums, art galleries, libraries, etc.        Botanical and zoological gardens        X
+8611        G1000        General business associations        Business associations        
+8621        N/A                Professional organizations        X
+8631        L0000        Labor Unions, Unclassified        Labor organizations        
+8641        N/A                Civic and social associations        X
+8651        N/A                Political organizations        X
+8661        X0000        Other        Religious organizations        
+8699        N/A                Membership organizations, NEC        X
+8711        B4400        Engineers, Type Unknown        Engineering services        
+8712        B4200        Architectural services        Architectural services        
+8713        B4300        Surveying        Survey services        
+8721        F5100        Accountants        Accounting, auditing, & bookkeeping        
+8731        G5200        Business services        Commercial physical research        X
+8732        G5200        Business services        Commercial nonphysical research        X
+8733        X4000        Non-Profits        Noncommercial research organizations        X
+8734        G5200        Business services        Testing laboratories        X
+8741        G5270        Management consultants & services        Management services        X
+8742        G5270        Management consultants & services        Management consulting services        X
+8743        G5210        Advertising & public relations services        Public relations services        X
+8744        N/A                Facilities support management services        X
+8748        G5200        Business services        Business consulting services, NEC        X
+8811        G5000        Services        Private households        X
+8999        N/A                Services, NEC        X
+9111        X3000        Civil servant/public employee        Executive offices        X
+9121        X3000        Civil servant/public employee        Legislative bodies        X
+9131        X3000        Civil servant/public employee        Executive and legislative combined        X
+9199        X3000        Civil servant/public employee        General government, NEC        X
+9211        X3200        Courts & Justice System        Courts        X
+9221        L1400        Police & firefighters unions & associations        Police protection        X
+9222        X3200        Courts & Justice System        Legal counsel and prosecution        X
+9223        X3200        Courts & Justice System        Correctional institutions        X
+9224        L1400        Police & firefighters unions & associations        Fire protection        X
+9229        X3000        Civil servant/public employee        Public order and safety, NEC        X
+9311        X3000        Civil servant/public employee        Finance, taxation, and monetary policy        X
+9411        X3000        Civil servant/public employee        Administration of educational programs        X
+9431        X3000        Civil servant/public employee        Administration of public health programs        X
+9441        X3000        Civil servant/public employee        Admin of social and manpower programs        X
+9451        X3000        Civil servant/public employee        Administration of veterans' affairs        X
+9511        X3000        Civil servant/public employee        Air and water and solid waste mgmt        X
+9512        X3000        Civil servant/public employee        Land, mineral, wildlife conservation        X
+9531        X3000        Civil servant/public employee        Administration of housing programs        X
+9532        X3000        Civil servant/public employee        Urban and community development        X
+9611        X3000        Civil servant/public employee        Admin of general economic programs        X
+9621        X3000        Civil servant/public employee        Regulation, admin of transportation        X
+9631        X3000        Civil servant/public employee        Regulation, admin of utilities        X
+9641        X3000        Civil servant/public employee        Regulation of agricultural marketing        X
+9651        X3000        Civil servant/public employee        Regulation misc commercial sectors        X
+9661        X3000        Civil servant/public employee        Space research and technology        X
+9711        X5000        Military        National Security        
+9721        X3000        Civil servant/public employee        International affairs        X
+9999        N/A                Nonclassifiable establishments        X
