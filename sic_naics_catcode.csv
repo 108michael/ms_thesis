@@ -1,0 +1,2161 @@
+,SICcode,Catcode,Category,SICname,MultSIC,2012 NAICS Code,2002to2007 NAICS
+0,111,A1500,"Wheat, corn, soybeans and cash grain",Wheat,X,111140.0,111140.0
+1,112,A1600,"Other commodities (incl rice, peanuts, honey)",Rice,X,111160.0,111160.0
+2,115,A1500,"Wheat, corn, soybeans and cash grain",Corn,X,111150.0,111150.0
+3,116,A1500,"Wheat, corn, soybeans and cash grain",Soybeans,X,111110.0,111110.0
+4,119,A1500,"Wheat, corn, soybeans and cash grain","Cash grains, NEC",X,111120.0,111120.0
+5,119,A1500,"Wheat, corn, soybeans and cash grain","Cash grains, NEC",X,111130.0,111130.0
+6,119,A1500,"Wheat, corn, soybeans and cash grain","Cash grains, NEC",X,111150.0,111150.0
+7,119,A1500,"Wheat, corn, soybeans and cash grain","Cash grains, NEC",X,111191.0,111191.0
+8,119,A1500,"Wheat, corn, soybeans and cash grain","Cash grains, NEC",X,111199.0,111199.0
+9,131,A1100,Cotton,Cotton,X,111920.0,111920.0
+10,132,A1300,Tobacco & Tobacco products,Tobacco,X,111910.0,111910.0
+11,133,A1200,Sugar cane & sugar beets,Sugarcane and sugar beets,X,111930.0,111930.0
+12,133,A1200,Sugar cane & sugar beets,Sugarcane and sugar beets,X,111991.0,111991.0
+13,134,A1400,"Vegetables, fruits and tree nut",Irish potatoes,X,111211.0,111211.0
+14,139,A1500,"Wheat, corn, soybeans and cash grain","Field crops, except cash grains, NEC",X,111199.0,111199.0
+15,139,A1500,"Wheat, corn, soybeans and cash grain","Field crops, except cash grains, NEC",X,111219.0,111219.0
+16,139,A1500,"Wheat, corn, soybeans and cash grain","Field crops, except cash grains, NEC",X,111940.0,111940.0
+17,139,A1500,"Wheat, corn, soybeans and cash grain","Field crops, except cash grains, NEC",X,111992.0,111992.0
+18,139,A1500,"Wheat, corn, soybeans and cash grain","Field crops, except cash grains, NEC",X,111998.0,111998.0
+19,161,A1400,"Vegetables, fruits and tree nut",Vegetables and melons,X,111219.0,111219.0
+20,171,A1400,"Vegetables, fruits and tree nut",Berry crops,X,111333.0,111333.0
+21,171,A1400,"Vegetables, fruits and tree nut",Berry crops,X,111334.0,111334.0
+22,172,A1400,"Vegetables, fruits and tree nut",Grapes,X,111332.0,111332.0
+23,173,A1400,"Vegetables, fruits and tree nut",Tree nuts,X,111335.0,111335.0
+24,174,A1400,"Vegetables, fruits and tree nut",Citrus fruits,X,111310.0,111310.0
+25,174,A1400,"Vegetables, fruits and tree nut",Citrus fruits,X,111320.0,111320.0
+26,175,A1400,"Vegetables, fruits and tree nut",Deciduous tree fruits,X,111331.0,111331.0
+27,175,A1400,"Vegetables, fruits and tree nut",Deciduous tree fruits,X,111339.0,111339.0
+28,179,A1400,"Vegetables, fruits and tree nut","Fruits and tree nuts, NEC",X,111336.0,111336.0
+29,179,A1400,"Vegetables, fruits and tree nut","Fruits and tree nuts, NEC",X,111339.0,111339.0
+30,181,A8000,Florists & Nursery Services,Ornamental nursery products,X,111421.0,111421.0
+31,181,A8000,Florists & Nursery Services,Ornamental nursery products,X,111422.0,111422.0
+32,182,A1400,"Vegetables, fruits and tree nut",Food crops grown under cover,X,111411.0,111411.0
+33,182,A1400,"Vegetables, fruits and tree nut",Food crops grown under cover,X,111419.0,111419.0
+34,191,A1000,Crop production & basic processing,"General farms, primarily crop",X,111998.0,111998.0
+35,211,A3300,Feedlots & related livestock services,Beef cattle feedlots,,112112.0,112112.0
+36,212,A3000,Livestock,"Beef cattle, except feedlots",X,112111.0,112111.0
+37,213,A3000,Livestock,Hogs,X,112210.0,112210.0
+38,214,A3200,Sheep and Wool Producers,Sheep and goats,,112410.0,112410.0
+39,214,A3200,Sheep and Wool Producers,Sheep and goats,,112420.0,112420.0
+40,219,A3000,Livestock,"General livestock, NEC",X,112990.0,112990.0
+41,241,A2000,Milk & dairy producers,Dairy farms,X,112111.0,112111.0
+42,241,A2000,Milk & dairy producers,Dairy farms,X,112120.0,112120.0
+43,251,A2300,Poultry & eggs,"Broiler, fryer and roaster chickens",X,112320.0,112320.0
+44,252,A2300,Poultry & eggs,Chicken eggs,X,112310.0,112310.0
+45,253,A2300,Poultry & eggs,Turkeys and turkey eggs,X,112330.0,112330.0
+46,254,A2300,Poultry & eggs,Poultry hatcheries,X,112340.0,112340.0
+47,259,A2300,Poultry & eggs,"Poultry & eggs, NEC",X,112390.0,112390.0
+48,271,A3000,Livestock,Furbearing animals and rabbits,X,112930.0,112930.0
+49,272,A3500,Horse Breeders,Horses and other equines,,112920.0,112920.0
+50,273,E4100,Fishing,Animal aquaculture,X,112511.0,112511.0
+51,273,E4100,Fishing,Animal aquaculture,X,112512.0,112512.0
+52,273,E4100,Fishing,Animal aquaculture,X,112519.0,112519.0
+53,279,A3000,Livestock,"Animal specialties, NEC",X,112519.0,112519.0
+54,279,A3000,Livestock,"Animal specialties, NEC",X,112910.0,112910.0
+55,279,A3000,Livestock,"Animal specialties, NEC",X,112990.0,112990.0
+56,291,A3000,Livestock,"General farms, primarily animal",X,112990.0,112990.0
+57,711,A4000,Agricultural services & related industries,Soil preparation services,X,115112.0,115112.0
+58,721,A4000,Agricultural services & related industries,Crop planting and protecting,X,115112.0,115112.0
+59,722,A4000,Agricultural services & related industries,Crop harvesting,X,115113.0,115113.0
+60,723,A1000,Crop production & basic processing,Crop preparation services for market,X,115114.0,115114.0
+61,723,A1000,Crop production & basic processing,Crop preparation services for market,X,311119.0,311119.0
+62,724,A1100,Cotton,Cotton ginning,X,115111.0,115111.0
+63,741,A4500,Veterinarians,Veterinary Services for Livestock,X,541940.0,541940.0
+64,742,A4500,Veterinarians,"Veterinary services, specialties",X,541940.0,541940.0
+65,751,A3000,Livestock,"Livestock services, exc specialties",X,115210.0,115210.0
+66,751,A3000,Livestock,"Livestock services, exc specialties",X,311611.0,311611.0
+67,752,A3000,Livestock,Animal specialty services,X,115210.0,115210.0
+68,752,A3000,Livestock,Animal specialty services,X,812910.0,812910.0
+69,761,A4000,Agricultural services & related industries,Farm labor contractors,X,115115.0,115115.0
+70,762,A1000,Crop production & basic processing,Farm management services,X,115116.0,115116.0
+71,781,B3600,Landscaping & Excavation Svcs,Landscape counseling and planning,X,541320.0,541320.0
+72,781,B3600,Landscaping & Excavation Svcs,Landscape counseling and planning,X,541690.0,541690.0
+73,782,B3600,Landscaping & Excavation Svcs,Lawn and garden services,X,561730.0,561730.0
+74,783,A8000,Florists & Nursery Services,Ornamental shrub and tree services,X,561730.0,561730.0
+75,811,A5000,Forestry & Forest Products,Timber tracts,X,111421.0,111421.0
+76,811,A5000,Forestry & Forest Products,Timber tracts,X,113110.0,113110.0
+77,831,A5000,Forestry & Forest Products,Forest products,X,111998.0,111998.0
+78,831,A5000,Forestry & Forest Products,Forest products,X,113210.0,113210.0
+79,851,A5000,Forestry & Forest Products,Forestry services,X,115310.0,115310.0
+80,912,E4100,Fishing,Finfish,X,114111.0,114111.0
+81,913,E4100,Fishing,Shellfish,X,114112.0,114112.0
+82,919,E4100,Fishing,Miscellaneous marine products,X,111998.0,111998.0
+83,919,E4100,Fishing,Miscellaneous marine products,X,112512.0,112512.0
+84,919,E4100,Fishing,Miscellaneous marine products,X,114112.0,114112.0
+85,919,E4100,Fishing,Miscellaneous marine products,X,114119.0,114119.0
+86,921,E4100,Fishing,Fish hatcheries and preserves,X,112511.0,112511.0
+87,921,E4100,Fishing,Fish hatcheries and preserves,X,112512.0,112512.0
+88,971,E4200,Hunting & wildlife,"Hunting, trapping, game propagation",,114210.0,114210.0
+89,1011,E1220,Metal mining & processing,Iron ores,X,212210.0,212210.0
+90,1021,E1220,Metal mining & processing,Copper ores,X,212234.0,212234.0
+91,1031,E1220,Metal mining & processing,Lead and zinc ores,X,212231.0,212231.0
+92,1041,E1220,Metal mining & processing,Gold ores,X,212221.0,212221.0
+93,1044,E1220,Metal mining & processing,Silver ores,X,212222.0,212222.0
+94,1061,E1220,Metal mining & processing,"Ferroalloy ores, except vanadium",X,212234.0,212234.0
+95,1061,E1220,Metal mining & processing,"Ferroalloy ores, except vanadium",X,212299.0,212299.0
+96,1081,E1220,Metal mining & processing,Metal mining services,X,213114.0,213114.0
+97,1081,E1220,Metal mining & processing,Metal mining services,X,238910.0,238910.0
+98,1081,E1220,Metal mining & processing,Metal mining services,X,541360.0,541360.0
+99,1094,E1220,Metal mining & processing,Uraniumradiumvanadium ores,X,212291.0,212291.0
+100,1099,E1220,Metal mining & processing,"Metal ores, NEC",X,212299.0,212299.0
+101,1221,E1210,Coal mining,Bituminous coal & lignitesurface,X,212111.0,212111.0
+102,1222,E1210,Coal mining,Bituminous coalunderground,X,212112.0,212112.0
+103,1231,E1210,Coal mining,Anthracite mining,X,212113.0,212113.0
+104,1241,E1210,Coal mining,Coal mining services,X,213113.0,213113.0
+105,1241,E1210,Coal mining,Coal mining services,X,238910.0,238910.0
+106,1311,E1120,Independent oil & gas producers,Crude petroleum and natural gas,X,211111.0,211111.0
+107,1321,E1120,Independent oil & gas producers,Natural gas liquids,X,211112.0,211112.0
+108,1381,E1150,"Oilfield service, equipment & exploration",Drilling oil and gas wells,X,213111.0,213111.0
+109,1382,E1150,"Oilfield service, equipment & exploration",Oil and gas exploration services,X,213112.0,213112.0
+110,1382,E1150,"Oilfield service, equipment & exploration",Oil and gas exploration services,X,541360.0,541360.0
+111,1389,E1150,"Oilfield service, equipment & exploration","Oil and gas field services, NEC",X,213112.0,213112.0
+112,1389,E1150,"Oilfield service, equipment & exploration","Oil and gas field services, NEC",X,237120.0,237120.0
+113,1389,E1150,"Oilfield service, equipment & exploration","Oil and gas field services, NEC",X,238910.0,238910.0
+114,1411,B5100,"Stone, clay, glass & concrete products",Dimension stone,X,212311.0,212311.0
+115,1422,B5100,"Stone, clay, glass & concrete products",Crushed and broken limestone,X,212312.0,212312.0
+116,1423,B5100,"Stone, clay, glass & concrete products",Crushed and broken granite,X,212313.0,212313.0
+117,1429,B5100,"Stone, clay, glass & concrete products","Crushed and broken stone, NEC",X,212319.0,212319.0
+118,1442,B5100,"Stone, clay, glass & concrete products",Construction sand and gravel,X,212321.0,212321.0
+119,1446,E1230,Non-metallic mining,Industrial sand,X,212322.0,212322.0
+120,1455,E1230,Non-metallic mining,Kaolin and ball clay,X,212324.0,212324.0
+121,1459,E1230,Non-metallic mining,"Clay and related minerals, NEC",X,212325.0,212325.0
+122,1474,E1230,Non-metallic mining,"Potash, soda, and borate minerals",X,212391.0,212391.0
+123,1475,E1230,Non-metallic mining,Phosphate rock,X,212392.0,212392.0
+124,1479,A4100,Agricultural chemicals (fertilizers & pesticides),"Chemical and fertilizer mining, nec",X,212393.0,212393.0
+125,1481,E1230,Non-metallic mining,Nonmetallic minerals services,X,213115.0,213115.0
+126,1481,E1230,Non-metallic mining,Nonmetallic minerals services,X,238910.0,238910.0
+127,1481,E1230,Non-metallic mining,Nonmetallic minerals services,X,541360.0,541360.0
+128,1499,E1230,Non-metallic mining,Miscellaneous nonmetallic minerals,X,212319.0,212319.0
+129,1499,E1230,Non-metallic mining,Miscellaneous nonmetallic minerals,X,212399.0,212399.0
+130,1521,B2000,Residential construction,Singlefamily housing construction,X,236115.0,236115.0
+131,1521,B2000,Residential construction,Singlefamily housing construction,X,236118.0,236118.0
+132,1522,B2000,Residential construction,"Residential construction, NEC",X,236116.0,236116.0
+133,1522,B2000,Residential construction,"Residential construction, NEC",X,236118.0,236118.0
+134,1522,B2000,Residential construction,"Residential construction, NEC",X,236220.0,236220.0
+135,1531,B2000,Residential construction,Operative builders,X,236117.0,236117.0
+136,1531,B2000,Residential construction,Operative builders,X,236118.0,236118.0
+137,1531,B2000,Residential construction,Operative builders,X,236210.0,236210.0
+138,1531,B2000,Residential construction,Operative builders,X,236220.0,236220.0
+139,1541,B1000,"Public works, industrial & commercial construction",Industrial bldg & warehouse construction,X,236210.0,236210.0
+140,1541,B1000,"Public works, industrial & commercial construction",Industrial bldg & warehouse construction,X,236220.0,236220.0
+141,1542,B1000,"Public works, industrial & commercial construction","Nonresidential construction, NEC",X,236220.0,236220.0
+142,1611,B1000,"Public works, industrial & commercial construction",Highway and street construction,X,237310.0,237310.0
+143,1622,B1000,"Public works, industrial & commercial construction","Bridge, tunnel, & elevated highway",X,237310.0,237310.0
+144,1622,B1000,"Public works, industrial & commercial construction","Bridge, tunnel, & elevated highway",X,237990.0,237990.0
+145,1623,B1000,"Public works, industrial & commercial construction","Water, sewer, and utility lines",X,237110.0,237110.0
+146,1623,B1000,"Public works, industrial & commercial construction","Water, sewer, and utility lines",X,237120.0,237120.0
+147,1623,B1000,"Public works, industrial & commercial construction","Water, sewer, and utility lines",X,237130.0,237130.0
+148,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,236210.0,236210.0
+149,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,237110.0,237110.0
+150,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,237120.0,237120.0
+151,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,237130.0,237130.0
+152,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,237990.0,237990.0
+153,1629,B1000,"Public works, industrial & commercial construction","Heavy construction, NEC",X,238910.0,238910.0
+154,1711,B3400,"Plumbing, heating & air conditioning","Plumbing, heating, airconditioning",X,238210.0,238210.0
+155,1711,B3400,"Plumbing, heating & air conditioning","Plumbing, heating, airconditioning",X,238220.0,238220.0
+156,1711,B3400,"Plumbing, heating & air conditioning","Plumbing, heating, airconditioning",X,238910.0,238910.0
+157,1721,B3000,Special trade contractors,"Painting, paper hanging",X,237310.0,237310.0
+158,1721,B3000,Special trade contractors,"Painting, paper hanging",X,238320.0,238320.0
+159,1731,B3200,Electrical contractors,Electrical work,,238210.0,238210.0
+160,1741,B3000,Special trade contractors,Masonry and other stonework,X,238140.0,238140.0
+161,1742,B3000,Special trade contractors,"Plastering, dry wall and insulation",X,238310.0,238310.0
+162,1743,B3000,Special trade contractors,"Terrazzo, tile, marble, mosaic work",X,238310.0,238310.0
+163,1743,B3000,Special trade contractors,"Terrazzo, tile, marble, mosaic work",X,238340.0,238340.0
+164,1751,B3000,Special trade contractors,Carpentering,X,238130.0,238130.0
+165,1751,B3000,Special trade contractors,Carpentering,X,238350.0,238350.0
+166,1752,B3000,Special trade contractors,"Floor laying and floor work, NEC",X,238310.0,238330.0
+167,1752,B3000,Special trade contractors,"Floor laying and floor work, NEC",X,238330.0,238330.0
+168,1761,B3000,Special trade contractors,Roofing and sheet metal work,X,238160.0,238160.0
+169,1761,B3000,Special trade contractors,Roofing and sheet metal work,X,238170.0,238170.0
+170,1761,B3000,Special trade contractors,Roofing and sheet metal work,X,238390.0,238390.0
+171,1771,B3000,Special trade contractors,Concrete work,X,238110.0,238110.0
+172,1771,B3000,Special trade contractors,Concrete work,X,238140.0,238140.0
+173,1771,B3000,Special trade contractors,Concrete work,X,238990.0,238990.0
+174,1781,B3000,Special trade contractors,Water well drilling,X,237110.0,237110.0
+175,1791,B3000,Special trade contractors,Structural steel erection,X,238120.0,238120.0
+176,1791,B3000,Special trade contractors,Structural steel erection,X,238190.0,238190.0
+177,1791,B3000,Special trade contractors,Structural steel erection,X,238310.0,238190.0
+178,1791,B3000,Special trade contractors,Structural steel erection,X,238220.0,238220.0
+179,1793,B3000,Special trade contractors,Glass and glazing work,X,238150.0,238150.0
+180,1794,B3600,Landscaping & Excavation Svcs,Excavating and foundation work,X,238910.0,238910.0
+181,1795,B3000,Special trade contractors,Wrecking and demolition work,X,238910.0,238910.0
+182,1796,B3000,Special trade contractors,"Installing building equipment, NEC",X,238220.0,238220.0
+183,1796,B3000,Special trade contractors,"Installing building equipment, NEC",X,238290.0,238290.0
+184,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,236220.0,236220.0
+185,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,237990.0,237990.0
+186,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238150.0,238150.0
+187,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238190.0,238190.0
+188,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238310.0,238190.0
+189,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238290.0,238290.0
+190,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238320.0,238320.0
+191,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238350.0,238350.0
+192,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238390.0,238390.0
+193,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238910.0,238910.0
+194,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,238990.0,238990.0
+195,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,561790.0,561790.0
+196,1799,B3000,Special trade contractors,"Special trade contractors, NEC",X,562910.0,562910.0
+197,2011,G2300,Meat processing & products,Meat packing plants,X,311611.0,311611.0
+198,2013,G2300,Meat processing & products,Sausages and other prepared meats,X,311612.0,311612.0
+199,2013,G2300,Meat processing & products,Sausages and other prepared meats,X,311613.0,311613.0
+200,2015,A2300,Poultry & eggs,Poultry slaughtering and processing,X,311615.0,311615.0
+201,2015,A2300,Poultry & eggs,Poultry slaughtering and processing,X,311999.0,311999.0
+202,2021,A2000,Milk & dairy producers,Creamery butter,X,311512.0,311512.0
+203,2022,A2000,Milk & dairy producers,"Cheese, natural and processed",X,311513.0,311513.0
+204,2023,A2000,Milk & dairy producers,"Dry, condensed, evaporated dairy prods",X,311511.0,311511.0
+205,2023,A2000,Milk & dairy producers,"Dry, condensed, evaporated dairy prods",X,311514.0,311514.0
+206,2024,A2000,Milk & dairy producers,Ice cream and frozen desserts,X,311520.0,311520.0
+207,2026,A2000,Milk & dairy producers,Fluid milk,X,311511.0,311511.0
+208,2026,A2000,Milk & dairy producers,Fluid milk,X,311514.0,311514.0
+209,2032,G2100,Food and kindred products manufacturing,Canned specialties,X,311422.0,311422.0
+210,2032,G2100,Food and kindred products manufacturing,Canned specialties,X,311999.0,311999.0
+211,2033,G2100,Food and kindred products manufacturing,"Fruits and vegetables, canned",X,311421.0,311421.0
+212,2034,G2100,Food and kindred products manufacturing,"Dehydrated fruits, vegetables,soups",X,311211.0,311211.0
+213,2034,G2100,Food and kindred products manufacturing,"Dehydrated fruits, vegetables,soups",X,311423.0,311423.0
+214,2034,G2100,Food and kindred products manufacturing,"Dehydrated fruits, vegetables,soups",X,311999.0,311999.0
+215,2035,G2100,Food and kindred products manufacturing,"Pickles, sauces, and salad dressings",X,311421.0,311421.0
+216,2035,G2100,Food and kindred products manufacturing,"Pickles, sauces, and salad dressings",X,311941.0,311941.0
+217,2037,A1400,"Vegetables, fruits and tree nut",Frozen fruits and vegetables,X,311411.0,311411.0
+218,2038,G2100,Food and kindred products manufacturing,"Frozen specialties, NEC",X,311412.0,311412.0
+219,2041,A1500,"Wheat, corn, soybeans and cash grain",Flour and other grain mill products,X,311211.0,311211.0
+220,2043,G2100,Food and kindred products manufacturing,Cereal breakfast foods,X,311230.0,311230.0
+221,2043,G2100,Food and kindred products manufacturing,Cereal breakfast foods,X,311920.0,311920.0
+222,2044,A1600,"Other commodities (incl rice, peanuts, honey)",Rice milling,X,311212.0,311212.0
+223,2045,G2100,Food and kindred products manufacturing,Prepared flour mixes and doughs,X,311824.0,311822.0
+224,2046,A1500,"Wheat, corn, soybeans and cash grain",Wet corn milling,X,311221.0,311221.0
+225,2046,A1500,"Wheat, corn, soybeans and cash grain",Wet corn milling,X,311225.0,311225.0
+226,2047,A3100,Animal feed & health products,Dog and cat food,X,311111.0,311111.0
+227,2048,A3100,Animal feed & health products,"Prepared feeds, NEC",X,311119.0,311119.0
+228,2048,A3100,Animal feed & health products,"Prepared feeds, NEC",X,311611.0,311611.0
+229,2051,G2100,Food and kindred products manufacturing,"Bread, cake, and related products",X,311812.0,311812.0
+230,2052,G2100,Food and kindred products manufacturing,Cookies and crackers,X,311812.0,311812.0
+231,2052,G2100,Food and kindred products manufacturing,Cookies and crackers,X,311821.0,311821.0
+232,2052,G2100,Food and kindred products manufacturing,Cookies and crackers,X,311919.0,311919.0
+233,2053,G2100,Food and kindred products manufacturing,"Frozen bakery products, except bread",X,311813.0,311813.0
+234,2061,A1200,Sugar cane & sugar beets,Raw cane sugar,X,311314.0,311311.0
+235,2062,A1200,Sugar cane & sugar beets,Cane sugar refining,X,311314.0,311312.0
+236,2063,A1200,Sugar cane & sugar beets,Beet sugar,X,311313.0,311313.0
+237,2064,G2200,Confectionary processors & manufacturers,Candy and other confectionery products,X,311340.0,311340.0
+238,2064,G2200,Confectionary processors & manufacturers,Candy and other confectionery products,X,311352.0,311330.0
+239,2066,G2200,Confectionary processors & manufacturers,Chocolate and cocoa products,X,311351.0,311320.0
+240,2066,G2200,Confectionary processors & manufacturers,Chocolate and cocoa products,X,311352.0,311330.0
+241,2067,G2100,Food and kindred products manufacturing,Chewing gum,X,311340.0,311340.0
+242,2068,G2100,Food and kindred products manufacturing,Salted and roasted nuts and seeds,X,311911.0,311911.0
+243,2074,G2100,Food and kindred products manufacturing,Cottonseed oil mills,X,311224.0,311223.0
+244,2074,G2100,Food and kindred products manufacturing,Cottonseed oil mills,X,311225.0,311225.0
+245,2075,G2100,Food and kindred products manufacturing,Soybean oil mills,X,311224.0,311222.0
+246,2075,G2100,Food and kindred products manufacturing,Soybean oil mills,X,311225.0,311225.0
+247,2076,G2100,Food and kindred products manufacturing,"Vegetable oil mills, NEC",X,311224.0,311223.0
+248,2076,G2100,Food and kindred products manufacturing,"Vegetable oil mills, NEC",X,311225.0,311225.0
+249,2077,G2100,Food and kindred products manufacturing,Animal and marine fats and oils,X,311613.0,311613.0
+250,2077,G2100,Food and kindred products manufacturing,Animal and marine fats and oils,X,311710.0,311711.0
+251,2077,G2100,Food and kindred products manufacturing,Animal and marine fats and oils,X,311710.0,311712.0
+252,2079,G2100,Food and kindred products manufacturing,"Edible fats and oils, NEC",X,311224.0,311222.0
+253,2079,G2100,Food and kindred products manufacturing,"Edible fats and oils, NEC",X,311224.0,311223.0
+254,2079,G2100,Food and kindred products manufacturing,"Edible fats and oils, NEC",X,311225.0,311225.0
+255,2082,G2810,Beer,Malt beverages,,311942.0,311942.0
+256,2082,G2810,Beer,Malt beverages,,312120.0,312120.0
+257,2083,G2100,Food and kindred products manufacturing,Malt,X,311213.0,311213.0
+258,2084,G2820,Wine & distilled spirits manufacturing,"Wines, brandy, and brandy spirits",X,312130.0,312130.0
+259,2085,G2820,Wine & distilled spirits manufacturing,Distilled and blended liquors,X,312130.0,312130.0
+260,2085,G2820,Wine & distilled spirits manufacturing,Distilled and blended liquors,X,312140.0,312140.0
+261,2086,G2600,Beverages (non-alcoholic),"Soft drinks, bottled and canned",X,312111.0,312111.0
+262,2086,G2600,Beverages (non-alcoholic),"Soft drinks, bottled and canned",X,312112.0,312112.0
+263,2087,G2100,Food and kindred products manufacturing,"Flavoring extracts and syrups, NEC",X,311920.0,311920.0
+264,2087,G2100,Food and kindred products manufacturing,"Flavoring extracts and syrups, NEC",X,311930.0,311930.0
+265,2087,G2100,Food and kindred products manufacturing,"Flavoring extracts and syrups, NEC",X,311942.0,311942.0
+266,2087,G2100,Food and kindred products manufacturing,"Flavoring extracts and syrups, NEC",X,311999.0,311999.0
+267,2091,G2350,Fish Processing,Canned and cured fish and seafoods,X,311710.0,311711.0
+268,2092,G2350,Fish Processing,"Fish, fresh or frozen packaged",X,311710.0,311712.0
+269,2095,G2600,Beverages (non-alcoholic),"Coffee, roasted",X,311920.0,311920.0
+270,2096,G2100,Food and kindred products manufacturing,Potato chips and similar snacks,X,311919.0,311919.0
+271,2097,G2100,Food and kindred products manufacturing,"Ice, manufactured",X,312113.0,312113.0
+272,2098,G2100,Food and kindred products manufacturing,Macaroni and spaghetti,X,311824.0,311823.0
+273,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,111998.0,111998.0
+274,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311212.0,311212.0
+275,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311340.0,311340.0
+276,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311423.0,311423.0
+277,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311824.0,311823.0
+278,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311830.0,311830.0
+279,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311911.0,311911.0
+280,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311920.0,311920.0
+281,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311941.0,311941.0
+282,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311942.0,311942.0
+283,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311991.0,311991.0
+284,2099,G2100,Food and kindred products manufacturing,"Food preparations, NEC",X,311999.0,311999.0
+285,2111,A1300,Tobacco & Tobacco products,Cigarettes,X,312230.0,312221.0
+286,2121,A1300,Tobacco & Tobacco products,Cigars,X,312230.0,312229.0
+287,2131,A1300,Tobacco & Tobacco products,Chewing and smoking tobacco,X,312230.0,312229.0
+288,2141,A1300,Tobacco & Tobacco products,Tobacco stemming and redrying,X,312230.0,312210.0
+289,2141,A1300,Tobacco & Tobacco products,Tobacco stemming and redrying,X,312230.0,312229.0
+290,2211,M8000,Textiles & fabrics,"Broadwoven fabric mills, cotton",X,313210.0,313210.0
+291,2221,M1400,Manmade fibers,"Broadwoven fabric mills, manmade",X,313210.0,313210.0
+292,2231,M8000,Textiles & fabrics,"Broadwoven fabric mills, wool",X,313210.0,313210.0
+293,2231,M8000,Textiles & fabrics,"Broadwoven fabric mills, wool",X,313310.0,313311.0
+294,2231,M8000,Textiles & fabrics,"Broadwoven fabric mills, wool",X,313310.0,313312.0
+295,2241,M8000,Textiles & fabrics,Narrow fabric mills,X,313220.0,313221.0
+296,2251,M3100,Clothing & accessories,"Women's hosiery, except socks",X,313310.0,313312.0
+297,2251,M3100,Clothing & accessories,"Women's hosiery, except socks",X,315110.0,315111.0
+298,2252,M3100,Clothing & accessories,"Hosiery, NEC",X,313310.0,313312.0
+299,2252,M3100,Clothing & accessories,"Hosiery, NEC",X,315110.0,315111.0
+300,2252,M3100,Clothing & accessories,"Hosiery, NEC",X,315110.0,315119.0
+301,2253,M3100,Clothing & accessories,Knit outerwear mills,X,313310.0,313312.0
+302,2253,M3100,Clothing & accessories,Knit outerwear mills,X,315190.0,315191.0
+303,2253,M3100,Clothing & accessories,Knit outerwear mills,X,315190.0,315192.0
+304,2254,M3100,Clothing & accessories,Knit underwear mills,X,313310.0,313312.0
+305,2254,M3100,Clothing & accessories,Knit underwear mills,X,315190.0,315192.0
+306,2257,M8000,Textiles & fabrics,Weft knit fabric mills,X,313240.0,313241.0
+307,2257,M8000,Textiles & fabrics,Weft knit fabric mills,X,313310.0,313312.0
+308,2258,M8000,Textiles & fabrics,Lace and warp knit fabric mills,X,313240.0,313249.0
+309,2258,M8000,Textiles & fabrics,Lace and warp knit fabric mills,X,313310.0,313312.0
+310,2259,M3100,Clothing & accessories,"Knitting mills, NEC",X,313240.0,313241.0
+311,2259,M3100,Clothing & accessories,"Knitting mills, NEC",X,313240.0,313249.0
+312,2259,M3100,Clothing & accessories,"Knitting mills, NEC",X,313310.0,313312.0
+313,2259,M3100,Clothing & accessories,"Knitting mills, NEC",X,315190.0,315191.0
+314,2259,M3100,Clothing & accessories,"Knitting mills, NEC",X,315190.0,315192.0
+315,2261,M8000,Textiles & fabrics,"Finishing plants, cotton",X,313310.0,313311.0
+316,2262,M1400,Manmade fibers,"Finishing plants, manmade",X,313310.0,313311.0
+317,2269,M8000,Textiles & fabrics,"Finishing plants, NEC",X,313310.0,313311.0
+318,2269,M8000,Textiles & fabrics,"Finishing plants, NEC",X,313310.0,313312.0
+319,2273,M4000,Household & office products,Carpets and rugs,X,314110.0,314110.0
+320,2281,M8000,Textiles & fabrics,Yarn spinning mills,X,313110.0,313111.0
+321,2282,M8000,Textiles & fabrics,Yarn throwing and winding mills,X,313110.0,313112.0
+322,2284,M8000,Textiles & fabrics,Thread mills,X,313110.0,313113.0
+323,2284,M8000,Textiles & fabrics,Thread mills,X,313310.0,313312.0
+324,2295,M8000,Textiles & fabrics,"Coated fabrics, not rubberized",X,313320.0,313320.0
+325,2296,M8000,Textiles & fabrics,Tire cord and fabric,X,314994.0,314992.0
+326,2297,M8000,Textiles & fabrics,Nonwoven fabrics,X,313230.0,313230.0
+327,2298,M8000,Textiles & fabrics,Cordage and twine,X,313110.0,313111.0
+328,2298,M8000,Textiles & fabrics,Cordage and twine,X,314994.0,314991.0
+329,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313110.0,313111.0
+330,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313110.0,313111.0
+331,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313110.0,313113.0
+332,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313210.0,313210.0
+333,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313220.0,313221.0
+334,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313230.0,313230.0
+335,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,313310.0,313312.0
+336,2299,M8000,Textiles & fabrics,"Textile goods, NEC",X,314999.0,314999.0
+337,2311,M3100,Clothing & accessories,Men's and boys' suits and coats,X,315210.0,315211.0
+338,2311,M3100,Clothing & accessories,Men's and boys' suits and coats,X,315220.0,315222.0
+339,2321,M3100,Clothing & accessories,Men's and boys' shirts,X,315210.0,315211.0
+340,2321,M3100,Clothing & accessories,Men's and boys' shirts,X,315220.0,315223.0
+341,2322,M3100,Clothing & accessories,Men's and boys' underwear,X,315210.0,315211.0
+342,2322,M3100,Clothing & accessories,Men's and boys' underwear,X,315220.0,315221.0
+343,2323,M3100,Clothing & accessories,Men's and boys' neckwear,X,315210.0,315211.0
+344,2323,M3100,Clothing & accessories,Men's and boys' neckwear,X,315990.0,315993.0
+345,2325,M3100,Clothing & accessories,Men's and boys' trousers,X,315210.0,315211.0
+346,2325,M3100,Clothing & accessories,Men's and boys' trousers,X,315220.0,315224.0
+347,2326,M3100,Clothing & accessories,Men's and boys' work clothing,X,315210.0,315211.0
+348,2326,M3100,Clothing & accessories,Men's and boys' work clothing,X,315220.0,315225.0
+349,2329,M3100,Clothing & accessories,"Men's and boys' clothing, NEC",X,315210.0,315211.0
+350,2329,M3100,Clothing & accessories,"Men's and boys' clothing, NEC",X,315220.0,315228.0
+351,2329,M3100,Clothing & accessories,"Men's and boys' clothing, NEC",X,315280.0,315299.0
+352,2331,M3100,Clothing & accessories,Women's & misses' blouses & waists,X,315210.0,315212.0
+353,2331,M3100,Clothing & accessories,Women's & misses' blouses & waists,X,315240.0,315232.0
+354,2335,M3100,Clothing & accessories,"Women's, junior's, & misses' dresses",X,315210.0,315212.0
+355,2335,M3100,Clothing & accessories,"Women's, junior's, & misses' dresses",X,315240.0,315233.0
+356,2337,M3100,Clothing & accessories,Women's and misses' suits and coats,X,315210.0,315212.0
+357,2337,M3100,Clothing & accessories,Women's and misses' suits and coats,X,315240.0,315234.0
+358,2339,M3100,Clothing & accessories,"Women's and misses' outerwear, NEC",X,315210.0,315212.0
+359,2339,M3100,Clothing & accessories,"Women's and misses' outerwear, NEC",X,315240.0,315239.0
+360,2339,M3100,Clothing & accessories,"Women's and misses' outerwear, NEC",X,315280.0,315299.0
+361,2339,M3100,Clothing & accessories,"Women's and misses' outerwear, NEC",X,315990.0,315999.0
+362,2341,M3100,Clothing & accessories,Women's and children's underwear,X,315210.0,315211.0
+363,2341,M3100,Clothing & accessories,Women's and children's underwear,X,315210.0,315212.0
+364,2341,M3100,Clothing & accessories,Women's and children's underwear,X,315220.0,315221.0
+365,2341,M3100,Clothing & accessories,Women's and children's underwear,X,315240.0,315231.0
+366,2341,M3100,Clothing & accessories,Women's and children's underwear,X,315240.0,315291.0
+367,2342,M3100,Clothing & accessories,"Bras, girdles, and allied garments",X,315210.0,315212.0
+368,2342,M3100,Clothing & accessories,"Bras, girdles, and allied garments",X,315240.0,315231.0
+369,2353,M3100,Clothing & accessories,"Hats, caps, and millinery",X,315210.0,315211.0
+370,2353,M3100,Clothing & accessories,"Hats, caps, and millinery",X,315210.0,315212.0
+371,2353,M3100,Clothing & accessories,"Hats, caps, and millinery",X,315990.0,315991.0
+372,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315210.0,315211.0
+373,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315210.0,315212.0
+374,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315220.0,315223.0
+375,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315240.0,315232.0
+376,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315240.0,315233.0
+377,2361,M3100,Clothing & accessories,Girls' and children's dresses & blouses,X,315240.0,315291.0
+378,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315210.0,315211.0
+379,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315210.0,315212.0
+380,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315220.0,315221.0
+381,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315220.0,315222.0
+382,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315220.0,315224.0
+383,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315220.0,315228.0
+384,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315240.0,315231.0
+385,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315240.0,315234.0
+386,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315240.0,315239.0
+387,2369,M3100,Clothing & accessories,"Girls, children's & infants outwear, NEC",X,315240.0,315291.0
+388,2371,M3100,Clothing & accessories,Fur goods,X,315210.0,315211.0
+389,2371,M3100,Clothing & accessories,Fur goods,X,315210.0,315212.0
+390,2371,M3100,Clothing & accessories,Fur goods,X,315280.0,315292.0
+391,2381,M3100,Clothing & accessories,"Gloves, dress and work, fabric",X,315210.0,315211.0
+392,2381,M3100,Clothing & accessories,"Gloves, dress and work, fabric",X,315210.0,315212.0
+393,2381,M3100,Clothing & accessories,"Gloves, dress and work, fabric",X,315990.0,315992.0
+394,2384,M3100,Clothing & accessories,Robes and dressing gowns,X,315210.0,315211.0
+395,2384,M3100,Clothing & accessories,Robes and dressing gowns,X,315210.0,315212.0
+396,2384,M3100,Clothing & accessories,Robes and dressing gowns,X,315220.0,315221.0
+397,2384,M3100,Clothing & accessories,Robes and dressing gowns,X,315240.0,315231.0
+398,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315210.0,315211.0
+399,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315210.0,315212.0
+400,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315220.0,315222.0
+401,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315220.0,315228.0
+402,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315240.0,315234.0
+403,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315240.0,315239.0
+404,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315240.0,315291.0
+405,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315280.0,315299.0
+406,2385,M3100,Clothing & accessories,Waterproof outergarments,X,315990.0,315999.0
+407,2386,M3200,Shoes & leather products,Leather and sheep lined clothing,X,315210.0,315211.0
+408,2386,M3200,Shoes & leather products,Leather and sheep lined clothing,X,315210.0,315212.0
+409,2386,M3200,Shoes & leather products,Leather and sheep lined clothing,X,315280.0,315292.0
+410,2387,M3100,Clothing & accessories,Apparel belts,X,315210.0,315211.0
+411,2387,M3100,Clothing & accessories,Apparel belts,X,315210.0,315212.0
+412,2387,M3100,Clothing & accessories,Apparel belts,X,315990.0,315999.0
+413,2389,M3100,Clothing & accessories,"Apparel and accessories, NEC",X,315210.0,315211.0
+414,2389,M3100,Clothing & accessories,"Apparel and accessories, NEC",X,315210.0,315212.0
+415,2389,M3100,Clothing & accessories,"Apparel and accessories, NEC",X,315240.0,315231.0
+416,2389,M3100,Clothing & accessories,"Apparel and accessories, NEC",X,315280.0,315299.0
+417,2389,M3100,Clothing & accessories,"Apparel and accessories, NEC",X,315990.0,315999.0
+418,2391,M4000,Household & office products,Curtains and draperies,X,314120.0,314121.0
+419,2392,M4000,Household & office products,"House furnishings, NEC",X,314120.0,314129.0
+420,2392,M4000,Household & office products,"House furnishings, NEC",X,314910.0,314911.0
+421,2392,M4000,Household & office products,"House furnishings, NEC",X,314999.0,314999.0
+422,2392,M4000,Household & office products,"House furnishings, NEC",X,339994.0,339994.0
+423,2393,M7000,"Paper, glass & packaging materials",Textile bags,X,314910.0,314911.0
+424,2394,M8000,Textiles & fabrics,Canvas and related products,X,314910.0,314912.0
+425,2395,M8000,Textiles & fabrics,Pleating and stitching,X,314999.0,314999.0
+426,2395,M8000,Textiles & fabrics,Pleating and stitching,X,315210.0,315211.0
+427,2395,M8000,Textiles & fabrics,Pleating and stitching,X,315210.0,315212.0
+428,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,314999.0,314999.0
+429,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,315210.0,315211.0
+430,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,315210.0,315212.0
+431,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,315990.0,315999.0
+432,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,323113.0,323113.0
+433,2396,M2300,Industrial/commercial equipment & materials,Automotive and apparel trimmings,X,336360.0,336360.0
+434,2397,M8000,Textiles & fabrics,Schiffli machine embroideries,X,313220.0,313222.0
+435,2399,M8000,Textiles & fabrics,"Fabricated textile products, NEC",X,314999.0,314999.0
+436,2399,M8000,Textiles & fabrics,"Fabricated textile products, NEC",X,315210.0,315211.0
+437,2399,M8000,Textiles & fabrics,"Fabricated textile products, NEC",X,315210.0,315212.0
+438,2399,M8000,Textiles & fabrics,"Fabricated textile products, NEC",X,315990.0,315999.0
+439,2399,M8000,Textiles & fabrics,"Fabricated textile products, NEC",X,336360.0,336360.0
+440,2411,A5000,Forestry & Forest Products,Logging,X,113310.0,113310.0
+441,2421,A5000,Forestry & Forest Products,"Sawmills and planing mills, general",X,321113.0,321113.0
+442,2421,A5000,Forestry & Forest Products,"Sawmills and planing mills, general",X,321912.0,321912.0
+443,2421,A5000,Forestry & Forest Products,"Sawmills and planing mills, general",X,321918.0,321918.0
+444,2421,A5000,Forestry & Forest Products,"Sawmills and planing mills, general",X,321920.0,321920.0
+445,2421,A5000,Forestry & Forest Products,"Sawmills and planing mills, general",X,321999.0,321999.0
+446,2426,M4100,Furniture & wood products,Hardwood dimension and flooring,X,321113.0,321113.0
+447,2426,M4100,Furniture & wood products,Hardwood dimension and flooring,X,321912.0,321912.0
+448,2426,M4100,Furniture & wood products,Hardwood dimension and flooring,X,321918.0,321918.0
+449,2426,M4100,Furniture & wood products,Hardwood dimension and flooring,X,337215.0,337215.0
+450,2429,A5000,Forestry & Forest Products,"Special product sawmills, NEC",X,321113.0,321113.0
+451,2429,A5000,Forestry & Forest Products,"Special product sawmills, NEC",X,321920.0,321920.0
+452,2429,A5000,Forestry & Forest Products,"Special product sawmills, NEC",X,321999.0,321999.0
+453,2431,M4100,Furniture & wood products,Millwork,X,321911.0,321911.0
+454,2431,M4100,Furniture & wood products,Millwork,X,321918.0,321918.0
+455,2434,M4100,Furniture & wood products,Wood kitchen cabinets,X,337110.0,337110.0
+456,2435,A5000,Forestry & Forest Products,Hardwood veneer and plywood,X,321211.0,321211.0
+457,2436,A5000,Forestry & Forest Products,Softwood veneer and plywood,X,321212.0,321212.0
+458,2439,A5000,Forestry & Forest Products,"Structural wood members, NEC",X,321213.0,321213.0
+459,2439,A5000,Forestry & Forest Products,"Structural wood members, NEC",X,321214.0,321214.0
+460,2441,M4100,Furniture & wood products,Nailed wood boxes and shook,X,321920.0,321920.0
+461,2448,M4100,Furniture & wood products,Wood pallets and skids,X,321920.0,321920.0
+462,2449,M4100,Furniture & wood products,"Wood containers, NEC",X,321920.0,321920.0
+463,2451,B2400,Mobile home construction,Mobile homes,,321991.0,321991.0
+464,2452,M4100,Furniture & wood products,Prefabricated wood buildings,X,321992.0,321992.0
+465,2491,A5000,Forestry & Forest Products,Wood preserving,X,321114.0,321114.0
+466,2493,M4100,Furniture & wood products,Reconstituted wood products,X,321219.0,321219.0
+467,2499,M4100,Furniture & wood products,"Wood products, NEC",X,321920.0,321920.0
+468,2499,M4100,Furniture & wood products,"Wood products, NEC",X,321999.0,321999.0
+469,2499,M4100,Furniture & wood products,"Wood products, NEC",X,333415.0,333415.0
+470,2499,M4100,Furniture & wood products,"Wood products, NEC",X,337125.0,337125.0
+471,2499,M4100,Furniture & wood products,"Wood products, NEC",X,339113.0,339113.0
+472,2499,M4100,Furniture & wood products,"Wood products, NEC",X,339999.0,339999.0
+473,2511,M4100,Furniture & wood products,Wood household furniture,X,337122.0,337122.0
+474,2511,M4100,Furniture & wood products,Wood household furniture,X,337215.0,337215.0
+475,2512,M4100,Furniture & wood products,Upholstered household furniture,X,337121.0,337121.0
+476,2514,M4100,Furniture & wood products,Metal household furniture,X,337121.0,337121.0
+477,2514,M4100,Furniture & wood products,Metal household furniture,X,337124.0,337124.0
+478,2514,M4100,Furniture & wood products,Metal household furniture,X,337215.0,337215.0
+479,2515,M4100,Furniture & wood products,Mattresses and bedsprings,X,337121.0,337121.0
+480,2515,M4100,Furniture & wood products,Mattresses and bedsprings,X,337910.0,337910.0
+481,2517,M4100,Furniture & wood products,Wood TV and radio cabinets,X,321999.0,337129.0
+482,2519,M4100,Furniture & wood products,"Household furniture, NEC",X,337125.0,337125.0
+483,2521,M4100,Furniture & wood products,Wood office furniture,X,337211.0,337211.0
+484,2522,M4100,Furniture & wood products,"Office furniture, except wood",X,337214.0,337214.0
+485,2531,M4100,Furniture & wood products,Public building & related furniture,X,336360.0,336360.0
+486,2531,M4100,Furniture & wood products,Public building & related furniture,X,337127.0,337127.0
+487,2531,M4100,Furniture & wood products,Public building & related furniture,X,339940.0,339942.0
+488,2541,M4100,Furniture & wood products,Wood partitions and fixtures,X,337110.0,337110.0
+489,2541,M4100,Furniture & wood products,Wood partitions and fixtures,X,337127.0,337127.0
+490,2541,M4100,Furniture & wood products,Wood partitions and fixtures,X,337212.0,337212.0
+491,2541,M4100,Furniture & wood products,Wood partitions and fixtures,X,337215.0,337215.0
+492,2542,M2300,Industrial/commercial equipment & materials,"Partitions and fixtures, except wood",X,337127.0,337127.0
+493,2542,M2300,Industrial/commercial equipment & materials,"Partitions and fixtures, except wood",X,337215.0,337215.0
+494,2591,M4000,Household & office products,"Drapery hardware, blinds & shades",X,337920.0,337920.0
+495,2599,M4100,Furniture & wood products,"Furniture and fixtures, NEC",X,337127.0,337127.0
+496,2611,A5200,Paper & pulp mills and paper manufacturing,Pulp mills,X,322110.0,322110.0
+497,2611,A5200,Paper & pulp mills and paper manufacturing,Pulp mills,X,322121.0,322121.0
+498,2611,A5200,Paper & pulp mills and paper manufacturing,Pulp mills,X,322122.0,322122.0
+499,2611,A5200,Paper & pulp mills and paper manufacturing,Pulp mills,X,322130.0,322130.0
+500,2621,A5200,Paper & pulp mills and paper manufacturing,Paper mills,X,322121.0,322121.0
+501,2621,A5200,Paper & pulp mills and paper manufacturing,Paper mills,X,322122.0,322122.0
+502,2631,A5200,Paper & pulp mills and paper manufacturing,Paperboard mills,X,322130.0,322130.0
+503,2652,M7100,Paper packaging materials,Setup paperboard boxes,X,322219.0,322213.0
+504,2653,M7100,Paper packaging materials,Corrugated and solid fiber boxes,X,322211.0,322211.0
+505,2655,M7000,"Paper, glass & packaging materials","Fiber cans, drums & similar products",X,322219.0,322214.0
+506,2656,M7000,"Paper, glass & packaging materials","Sanitary food containers, except folding",X,322219.0,322215.0
+507,2657,M7100,Paper packaging materials,"Folding paperboard boxes, incl sanitary",X,322212.0,322212.0
+508,2671,M7100,Paper packaging materials,"Paper coated & laminated, packaging",X,322220.0,322221.0
+509,2671,M7100,Paper packaging materials,"Paper coated & laminated, packaging",X,326112.0,326112.0
+510,2672,M7100,Paper packaging materials,"Paper coated and laminated, NEC",X,322220.0,322222.0
+511,2673,M7000,"Paper, glass & packaging materials","Bags: plastics, laminated, & coated",X,322220.0,322223.0
+512,2673,M7000,"Paper, glass & packaging materials","Bags: plastics, laminated, & coated",X,326111.0,326111.0
+513,2674,M7100,Paper packaging materials,Bags: uncoated paper & multiwall,X,322220.0,322224.0
+514,2675,M7000,"Paper, glass & packaging materials",Diecut paper and board,X,322220.0,322226.0
+515,2675,M7000,"Paper, glass & packaging materials",Diecut paper and board,X,322230.0,322231.0
+516,2675,M7000,"Paper, glass & packaging materials",Diecut paper and board,X,322299.0,322299.0
+517,2676,M7000,"Paper, glass & packaging materials",Sanitary paper products,X,322291.0,322291.0
+518,2677,M7000,"Paper, glass & packaging materials",Envelopes,X,322230.0,322232.0
+519,2678,M7000,"Paper, glass & packaging materials",Stationery products,X,322230.0,322233.0
+520,2679,M7000,"Paper, glass & packaging materials","Converted paper products, NEC",X,322211.0,322211.0
+521,2679,M7000,"Paper, glass & packaging materials","Converted paper products, NEC",X,322220.0,322222.0
+522,2679,M7000,"Paper, glass & packaging materials","Converted paper products, NEC",X,322230.0,322231.0
+523,2679,M7000,"Paper, glass & packaging materials","Converted paper products, NEC",X,322299.0,322299.0
+524,2711,C1100,"Book, newspaper & periodical publishing",Newspapers,X,511110.0,511110.0
+525,2721,C1100,"Book, newspaper & periodical publishing",Periodicals,X,511120.0,511120.0
+526,2731,C1100,"Book, newspaper & periodical publishing",Book publishing,X,511130.0,511130.0
+527,2731,C1100,"Book, newspaper & periodical publishing",Book publishing,X,512230.0,512230.0
+528,2732,C1100,"Book, newspaper & periodical publishing",Book printing,X,323117.0,323117.0
+529,2741,C1100,"Book, newspaper & periodical publishing","Publishing, misc",X,511120.0,511120.0
+530,2741,C1100,"Book, newspaper & periodical publishing","Publishing, misc",X,511130.0,511130.0
+531,2741,C1100,"Book, newspaper & periodical publishing","Publishing, misc",X,511140.0,511140.0
+532,2741,C1100,"Book, newspaper & periodical publishing","Publishing, misc",X,511199.0,511199.0
+533,2741,C1100,"Book, newspaper & periodical publishing","Publishing, misc",X,512230.0,512230.0
+534,2752,C1300,Commercial printing & typesetting,"Commercial printing, lithographic",X,323111.0,323110.0
+535,2752,C1300,Commercial printing & typesetting,"Commercial printing, lithographic",X,323111.0,323114.0
+536,2754,C1300,Commercial printing & typesetting,"Commercial printing, gravure",X,323111.0,323111.0
+537,2759,C1300,Commercial printing & typesetting,"Commercial Printing, NEC",X,323111.0,323112.0
+538,2759,C1300,Commercial printing & typesetting,"Commercial Printing, NEC",X,323111.0,323114.0
+539,2759,C1300,Commercial printing & typesetting,"Commercial Printing, NEC",X,323111.0,323115.0
+540,2759,C1300,Commercial printing & typesetting,"Commercial Printing, NEC",X,323111.0,323119.0
+541,2759,C1300,Commercial printing & typesetting,"Commercial Printing, NEC",X,323113.0,323113.0
+542,2761,C1300,Commercial printing & typesetting,Manifold business forms,X,323111.0,323116.0
+543,2771,C1400,Greeting card publishing,Greeting card publishing,,323111.0,323110.0
+544,2771,C1400,Greeting card publishing,Greeting card publishing,,323111.0,323111.0
+545,2771,C1400,Greeting card publishing,Greeting card publishing,,323111.0,323112.0
+546,2771,C1400,Greeting card publishing,Greeting card publishing,,323111.0,323119.0
+547,2771,C1400,Greeting card publishing,Greeting card publishing,,323113.0,323113.0
+548,2771,C1400,Greeting card publishing,Greeting card publishing,,511191.0,511191.0
+549,2782,C1300,Commercial printing & typesetting,Blankbooks and looseleaf binders,X,323111.0,323116.0
+550,2782,C1300,Commercial printing & typesetting,Blankbooks and looseleaf binders,X,323111.0,323118.0
+551,2789,C1300,Commercial printing & typesetting,Bookbinding and related work,X,323120.0,323121.0
+552,2791,C1300,Commercial printing & typesetting,Typesetting,X,323120.0,323122.0
+553,2796,C1300,Commercial printing & typesetting,Platemaking and related services,X,323120.0,323122.0
+554,2812,M1000,Chemicals,Alkalies and chlorine,X,325180.0,325181.0
+555,2813,M1000,Chemicals,Industrial gases,X,325120.0,325120.0
+556,2816,M1000,Chemicals,Inorganic pigments,X,325130.0,325131.0
+557,2816,M1000,Chemicals,Inorganic pigments,X,325180.0,325182.0
+558,2819,M1000,Chemicals,"Industrial inorganic chemicals, NEC",X,211112.0,211112.0
+559,2819,M1000,Chemicals,"Industrial inorganic chemicals, NEC",X,325130.0,325131.0
+560,2819,M1000,Chemicals,"Industrial inorganic chemicals, NEC",X,325180.0,325188.0
+561,2819,M1000,Chemicals,"Industrial inorganic chemicals, NEC",X,325998.0,325998.0
+562,2819,M1000,Chemicals,"Industrial inorganic chemicals, NEC",X,331313.0,331311.0
+563,2821,M1500,Plastics & Rubber processing & products,Plastics materials and resins,X,325211.0,325211.0
+564,2822,M1500,Plastics & Rubber processing & products,Synthetic rubber,X,325212.0,325212.0
+565,2823,M1400,Manmade fibers,Cellulosic manmade fibers,X,325220.0,325221.0
+566,2824,M1400,Manmade fibers,"Organic fibers, noncellulosic",X,325220.0,325222.0
+567,2833,H4300,Pharmaceutical manufacturing,Medicinals and botanicals,X,325411.0,325411.0
+568,2834,H4300,Pharmaceutical manufacturing,Pharmaceutical preparations,X,325412.0,325412.0
+569,2835,H4300,Pharmaceutical manufacturing,Diagnostic substances,X,325412.0,325412.0
+570,2835,H4300,Pharmaceutical manufacturing,Diagnostic substances,X,325413.0,325413.0
+571,2836,H4300,Pharmaceutical manufacturing,"Biological products, exc diagnostic",X,325414.0,325414.0
+572,2841,M1300,Household cleansers & chemicals,Soap and other detergents,X,325611.0,325611.0
+573,2842,M1300,Household cleansers & chemicals,Polishes and sanitation goods,X,325612.0,325612.0
+574,2843,M1000,Chemicals,Surface active agents,X,325613.0,325613.0
+575,2844,M3300,Toiletries & cosmetics,Toilet preparations,,325611.0,325611.0
+576,2844,M3300,Toiletries & cosmetics,Toilet preparations,,325620.0,325620.0
+577,2851,M1600,"Paints, Solvents and Coatings",Paints and allied products,X,325510.0,325510.0
+578,2861,M1000,Chemicals,Gum and wood chemicals,X,325194.0,325191.0
+579,2865,M1000,Chemicals,Cyclic crudes and intermediates,X,325110.0,325110.0
+580,2865,M1000,Chemicals,Cyclic crudes and intermediates,X,325130.0,325132.0
+581,2865,M1000,Chemicals,Cyclic crudes and intermediates,X,325194.0,325192.0
+582,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325110.0,325110.0
+583,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325120.0,325120.0
+584,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325180.0,325188.0
+585,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325193.0,325193.0
+586,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325194.0,325192.0
+587,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325199.0,325199.0
+588,2869,M1000,Chemicals,"Industrial organic chemicals, NEC",X,325998.0,325998.0
+589,2873,A4100,Agricultural chemicals (fertilizers & pesticides),Nitrogenous fertilizers,X,325311.0,325311.0
+590,2874,A4100,Agricultural chemicals (fertilizers & pesticides),Phosphatic fertilizers,X,325312.0,325312.0
+591,2875,A4100,Agricultural chemicals (fertilizers & pesticides),"Fertilizers, mixing only",X,325314.0,325314.0
+592,2879,A4100,Agricultural chemicals (fertilizers & pesticides),"Agricultural chemicals, NEC",X,325320.0,325320.0
+593,2891,M1700,Adhesives & Sealants,Adhesives and sealants,,325520.0,325520.0
+594,2892,M1100,Explosives,Explosives,,325920.0,325920.0
+595,2893,M1000,Chemicals,Printing ink,X,325910.0,325910.0
+596,2895,M1000,Chemicals,Carbon black,X,325180.0,325182.0
+597,2899,M1000,Chemicals,"Chemical preparations, NEC",X,311942.0,311942.0
+598,2899,M1000,Chemicals,"Chemical preparations, NEC",X,325199.0,325199.0
+599,2899,M1000,Chemicals,"Chemical preparations, NEC",X,325510.0,325510.0
+600,2899,M1000,Chemicals,"Chemical preparations, NEC",X,325998.0,325998.0
+601,2911,E1160,Petroleum refining & marketing,Petroleum refining,X,324110.0,324110.0
+602,2951,B5100,"Stone, clay, glass & concrete products",Asphalt paving mixtures and blocks,X,324121.0,324121.0
+603,2952,B5000,Building materials,Asphalt felts and coatings,X,324122.0,324122.0
+604,2992,E1160,Petroleum refining & marketing,Lubricating oils and greases,X,324191.0,324191.0
+605,2999,E1160,Petroleum refining & marketing,"Petroleum and coal products, NEC",X,324199.0,324199.0
+606,3011,M1500,Plastics & Rubber processing & products,Tires and inner tubes,X,326211.0,326211.0
+607,3021,M3200,Shoes & leather products,Rubber and plastics footwear,X,316210.0,316211.0
+608,3052,M1500,Plastics & Rubber processing & products,Rubber & plastics hose & belting,X,326220.0,326220.0
+609,3053,M2300,Industrial/commercial equipment & materials,"Gaskets,packing, and sealing devices",X,339991.0,339991.0
+610,3061,M1500,Plastics & Rubber processing & products,Mechanical rubber goods,X,326291.0,326291.0
+611,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,313320.0,313320.0
+612,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,314910.0,314911.0
+613,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,315280.0,315299.0
+614,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,315990.0,315999.0
+615,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,326199.0,326192.0
+616,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,326299.0,326299.0
+617,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,339113.0,339113.0
+618,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,339920.0,339920.0
+619,3069,M1500,Plastics & Rubber processing & products,"Fabricated rubber products, NEC",X,339930.0,339932.0
+620,3081,M1500,Plastics & Rubber processing & products,Unsupported plastics film and sheet,X,326113.0,326113.0
+621,3082,M1500,Plastics & Rubber processing & products,Unsupported plastics profile shapes,X,326121.0,326121.0
+622,3083,M1500,Plastics & Rubber processing & products,Laminated plate & sheet,X,326130.0,326130.0
+623,3084,M1500,Plastics & Rubber processing & products,Plastics pipe,X,326122.0,326122.0
+624,3085,M1500,Plastics & Rubber processing & products,Plastics bottles,X,326160.0,326160.0
+625,3086,M1500,Plastics & Rubber processing & products,Plastics foam products,X,326140.0,326140.0
+626,3086,M1500,Plastics & Rubber processing & products,Plastics foam products,X,326150.0,326150.0
+627,3087,M1500,Plastics & Rubber processing & products,Custom compound purchased resins,X,325991.0,325991.0
+628,3088,M1500,Plastics & Rubber processing & products,Plastics plumbing fixtures,X,326191.0,326191.0
+629,3089,M1500,Plastics & Rubber processing & products,"Plastics products, NEC",X,326121.0,326121.0
+630,3089,M1500,Plastics & Rubber processing & products,"Plastics products, NEC",X,326122.0,326122.0
+631,3089,M1500,Plastics & Rubber processing & products,"Plastics products, NEC",X,326199.0,326199.0
+632,3089,M1500,Plastics & Rubber processing & products,"Plastics products, NEC",X,337215.0,337215.0
+633,3089,M1500,Plastics & Rubber processing & products,"Plastics products, NEC",X,339113.0,339113.0
+634,3111,M3200,Shoes & leather products,Leather tanning and finishing,X,316110.0,316110.0
+635,3131,M3200,Shoes & leather products,Footwear cut stock,X,316998.0,316999.0
+636,3131,M3200,Shoes & leather products,Footwear cut stock,X,321999.0,321999.0
+637,3131,M3200,Shoes & leather products,Footwear cut stock,X,339993.0,339993.0
+638,3142,M3200,Shoes & leather products,House slippers,X,316210.0,316212.0
+639,3143,M3200,Shoes & leather products,"Men's footwear, except athletic",X,316210.0,316213.0
+640,3144,M3200,Shoes & leather products,"Women's footwear, except athletic",X,316210.0,316214.0
+641,3149,M3200,Shoes & leather products,"Footwear, except rubber, NEC",X,316210.0,316219.0
+642,3151,M3200,Shoes & leather products,Leather gloves and mittens,X,315210.0,315211.0
+643,3151,M3200,Shoes & leather products,Leather gloves and mittens,X,315210.0,315212.0
+644,3151,M3200,Shoes & leather products,Leather gloves and mittens,X,315990.0,315992.0
+645,3161,M3000,Personal products manufacturing,Luggage,X,316998.0,316991.0
+646,3171,M3000,Personal products manufacturing,Women's handbags and purses,X,316992.0,316992.0
+647,3172,M3200,Shoes & leather products,"Personal leather goods, NEC",X,316998.0,316993.0
+648,3172,M3200,Shoes & leather products,"Personal leather goods, NEC",X,339910.0,339914.0
+649,3199,M3200,Shoes & leather products,"Leather goods, NEC",X,316998.0,316999.0
+650,3211,M7200,Glass products,Flat glass,X,327211.0,327211.0
+651,3221,M7200,Glass products,Glass containers,X,327213.0,327213.0
+652,3229,M7200,Glass products,"Pressed and blown glass, NEC",X,327212.0,327212.0
+653,3231,M7200,Glass products,Glass products,X,327215.0,327215.0
+654,3241,B5100,"Stone, clay, glass & concrete products","Cement, hydraulic",X,327310.0,327310.0
+655,3251,B5100,"Stone, clay, glass & concrete products",Brick and structural clay tile,X,327120.0,327121.0
+656,3251,B5100,"Stone, clay, glass & concrete products",Brick and structural clay tile,X,327331.0,327331.0
+657,3253,B5400,Other construction-related products,Ceramic wall and floor tile,X,327120.0,327122.0
+658,3255,B5000,Building materials,Clay refractories,X,327120.0,327124.0
+659,3259,B5300,Plumbing & pipe products,"Structural clay products, NEC",X,327120.0,327123.0
+660,3261,B5300,Plumbing & pipe products,Vitreous plumbing fixtures,X,327110.0,327111.0
+661,3262,M4000,Household & office products,Vitreous china food utensils,X,327110.0,327112.0
+662,3263,M4000,Household & office products,Fine earthenware food utensils,X,327110.0,327112.0
+663,3264,M2300,Industrial/commercial equipment & materials,Porcelain electrical supplies,X,327110.0,327113.0
+664,3269,M4000,Household & office products,"Pottery products, NEC",X,327110.0,327112.0
+665,3271,B5100,"Stone, clay, glass & concrete products",Concrete block and brick,X,327331.0,327331.0
+666,3272,B5100,"Stone, clay, glass & concrete products","Concrete products, NEC",X,327332.0,327332.0
+667,3272,B5100,"Stone, clay, glass & concrete products","Concrete products, NEC",X,327390.0,327390.0
+668,3272,B5100,"Stone, clay, glass & concrete products","Concrete products, NEC",X,327999.0,327999.0
+669,3273,B5100,"Stone, clay, glass & concrete products",Readymixed concrete,X,327320.0,327320.0
+670,3274,B5100,"Stone, clay, glass & concrete products",Lime,X,327410.0,327410.0
+671,3275,B5100,"Stone, clay, glass & concrete products",Gypsum products,X,327420.0,327420.0
+672,3281,B5100,"Stone, clay, glass & concrete products",Cut stone and stone products,X,327991.0,327991.0
+673,3291,B5100,"Stone, clay, glass & concrete products",Abrasive products,X,327910.0,327910.0
+674,3291,B5100,"Stone, clay, glass & concrete products",Abrasive products,X,332999.0,332999.0
+675,3292,B5100,"Stone, clay, glass & concrete products",Asbestos products,X,327999.0,327999.0
+676,3292,B5100,"Stone, clay, glass & concrete products",Asbestos products,X,336340.0,336340.0
+677,3292,B5100,"Stone, clay, glass & concrete products",Asbestos products,X,336350.0,336350.0
+678,3295,B5100,"Stone, clay, glass & concrete products","Minerals, ground or treated",X,212324.0,212324.0
+679,3295,B5100,"Stone, clay, glass & concrete products","Minerals, ground or treated",X,212325.0,212325.0
+680,3295,B5100,"Stone, clay, glass & concrete products","Minerals, ground or treated",X,212393.0,212393.0
+681,3295,B5100,"Stone, clay, glass & concrete products","Minerals, ground or treated",X,212399.0,212399.0
+682,3295,B5100,"Stone, clay, glass & concrete products","Minerals, ground or treated",X,327992.0,327992.0
+683,3296,B5100,"Stone, clay, glass & concrete products",Mineral wool,X,327993.0,327993.0
+684,3297,B5100,"Stone, clay, glass & concrete products",Nonclay refractories,X,327120.0,327125.0
+685,3299,B5100,"Stone, clay, glass & concrete products","Nonmetallic mineral products, NEC",X,327110.0,327112.0
+686,3299,B5100,"Stone, clay, glass & concrete products","Nonmetallic mineral products, NEC",X,327420.0,327420.0
+687,3299,B5100,"Stone, clay, glass & concrete products","Nonmetallic mineral products, NEC",X,327999.0,327999.0
+688,3312,M2100,Steel,Blast furnaces and steel mills,X,324199.0,324199.0
+689,3312,M2100,Steel,Blast furnaces and steel mills,X,331110.0,331111.0
+690,3312,M2100,Steel,Blast furnaces and steel mills,X,331221.0,331221.0
+691,3313,M5000,Fabricated metal products,Electrometallurgical products,X,331110.0,331112.0
+692,3315,M5000,Fabricated metal products,Steel wire and related products,X,331222.0,331222.0
+693,3315,M5000,Fabricated metal products,Steel wire and related products,X,332618.0,332618.0
+694,3316,M2100,Steel,Cold finishing of steel shapes,X,331221.0,331221.0
+695,3317,M2100,Steel,Steel pipe and tubes,X,331210.0,331210.0
+696,3321,M2000,Heavy industrial manufacturing,Gray iron foundries,X,331511.0,331511.0
+697,3322,M2000,Heavy industrial manufacturing,Malleable iron foundries,X,331511.0,331511.0
+698,3324,M2100,Steel,Steel investment foundries,X,331512.0,331512.0
+699,3325,M2100,Steel,"Steel foundries, NEC",X,331513.0,331513.0
+700,3331,M2200,Smelting and non-petroleum refining,Primary copper,X,331410.0,331411.0
+701,3334,E1220,Metal mining & processing,Primary aluminum,X,331313.0,331312.0
+702,3339,M2200,Smelting and non-petroleum refining,"Primary nonferrous metals, NEC",X,331410.0,331419.0
+703,3341,M2200,Smelting and non-petroleum refining,Secondary nonferrous metals,X,331314.0,331314.0
+704,3341,M2200,Smelting and non-petroleum refining,Secondary nonferrous metals,X,331420.0,331423.0
+705,3341,M2200,Smelting and non-petroleum refining,Secondary nonferrous metals,X,331492.0,331492.0
+706,3351,M2000,Heavy industrial manufacturing,Copper rolling and drawing,X,331420.0,331421.0
+707,3353,M2000,Heavy industrial manufacturing,"Aluminum sheet, plate, and foil",X,331315.0,331315.0
+708,3354,M2000,Heavy industrial manufacturing,Aluminum extruded products,X,331318.0,331316.0
+709,3355,M2000,Heavy industrial manufacturing,"Aluminum rolling and drawing, NEC",X,331318.0,331319.0
+710,3356,M2000,Heavy industrial manufacturing,"Nonferrous rolling and drawing, NEC",X,331491.0,331491.0
+711,3357,M2000,Heavy industrial manufacturing,Nonferrous wire drawing & insulating,X,331318.0,331319.0
+712,3357,M2000,Heavy industrial manufacturing,Nonferrous wire drawing & insulating,X,331420.0,331422.0
+713,3357,M2000,Heavy industrial manufacturing,Nonferrous wire drawing & insulating,X,331491.0,331491.0
+714,3357,M2000,Heavy industrial manufacturing,Nonferrous wire drawing & insulating,X,335921.0,335921.0
+715,3357,M2000,Heavy industrial manufacturing,Nonferrous wire drawing & insulating,X,335929.0,335929.0
+716,3363,M2000,Heavy industrial manufacturing,Aluminum diecastings,X,331523.0,331521.0
+717,3364,M2000,Heavy industrial manufacturing,"Nonferrous diecastings, exc alum",X,331523.0,331522.0
+718,3365,E1220,Metal mining & processing,Aluminum foundries,X,331524.0,331524.0
+719,3366,E1220,Metal mining & processing,Copper foundries,X,331529.0,331525.0
+720,3369,M2000,Heavy industrial manufacturing,"Nonferrous foundries, NEC",X,331529.0,331528.0
+721,3398,M2000,Heavy industrial manufacturing,Metal heat treating,X,332811.0,332811.0
+722,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,331110.0,331111.0
+723,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,331221.0,331221.0
+724,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,331314.0,331314.0
+725,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,331420.0,331423.0
+726,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,331492.0,331492.0
+727,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,332618.0,332618.0
+728,3399,M5000,Fabricated metal products,"Primary metal products, NEC",X,332813.0,332813.0
+729,3411,M7300,Metal cans & containers,Metal cans,X,332431.0,332431.0
+730,3412,M7300,Metal cans & containers,"Metal barrels, drums, and pails",X,332439.0,332439.0
+731,3421,M5000,Fabricated metal products,Cutlery,X,332215.0,332211.0
+732,3421,M5000,Fabricated metal products,Cutlery,X,332216.0,332212.0
+733,3423,M5100,Hardware & tools,"Hand and edge tools, NEC",X,332216.0,332212.0
+734,3425,M5100,Hardware & tools,Hand saws and saw blades,X,332216.0,332213.0
+735,3429,M5100,Hardware & tools,"Hardware, NEC",X,332439.0,332439.0
+736,3429,M5100,Hardware & tools,"Hardware, NEC",X,332510.0,332510.0
+737,3429,M5100,Hardware & tools,"Hardware, NEC",X,332722.0,332722.0
+738,3429,M5100,Hardware & tools,"Hardware, NEC",X,332919.0,332919.0
+739,3429,M5100,Hardware & tools,"Hardware, NEC",X,332999.0,332999.0
+740,3429,M5100,Hardware & tools,"Hardware, NEC",X,333923.0,333923.0
+741,3429,M5100,Hardware & tools,"Hardware, NEC",X,334519.0,334518.0
+742,3429,M5100,Hardware & tools,"Hardware, NEC",X,336390.0,336399.0
+743,3429,M5100,Hardware & tools,"Hardware, NEC",X,337215.0,337215.0
+744,3431,M5000,Fabricated metal products,Metal sanitary ware,X,332999.0,332998.0
+745,3432,B5300,Plumbing & pipe products,Plumbing fixture fittings and trim,X,332913.0,332913.0
+746,3432,B5300,Plumbing & pipe products,Plumbing fixture fittings and trim,X,332919.0,332919.0
+747,3432,B5300,Plumbing & pipe products,Plumbing fixture fittings and trim,X,332999.0,332999.0
+748,3433,M5000,Fabricated metal products,"Heating equipment, except electric",X,333414.0,333414.0
+749,3441,M5000,Fabricated metal products,Fabricated structural metal,X,332312.0,332312.0
+750,3442,B5400,Other construction-related products,"Metal doors, sash, and trim",X,332321.0,332321.0
+751,3443,M5000,Fabricated metal products,Fabricated plate work (boiler shops),X,332313.0,332313.0
+752,3443,M5000,Fabricated metal products,Fabricated plate work (boiler shops),X,332410.0,332410.0
+753,3443,M5000,Fabricated metal products,Fabricated plate work (boiler shops),X,332420.0,332420.0
+754,3443,M5000,Fabricated metal products,Fabricated plate work (boiler shops),X,333415.0,333415.0
+755,3444,M5000,Fabricated metal products,Sheet metal work,X,332321.0,332321.0
+756,3444,M5000,Fabricated metal products,Sheet metal work,X,332322.0,332322.0
+757,3444,M5000,Fabricated metal products,Sheet metal work,X,332439.0,332439.0
+758,3444,M5000,Fabricated metal products,Sheet metal work,X,333415.0,333415.0
+759,3446,M5000,Fabricated metal products,Architectural metal work,X,332323.0,332323.0
+760,3448,M5000,Fabricated metal products,Prefabricated metal buildings,X,332311.0,332311.0
+761,3449,M5000,Fabricated metal products,Miscellaneous structural metalwork,X,332114.0,332114.0
+762,3449,M5000,Fabricated metal products,Miscellaneous structural metalwork,X,332312.0,332312.0
+763,3449,M5000,Fabricated metal products,Miscellaneous structural metalwork,X,332323.0,332323.0
+764,3451,M5000,Fabricated metal products,Screw machine products,X,332721.0,332721.0
+765,3452,M5000,Fabricated metal products,"Bolts, nuts, rivets, and washers",X,332722.0,332722.0
+766,3462,M2100,Steel,Iron and steel forgings,X,332111.0,332111.0
+767,3463,M2000,Heavy industrial manufacturing,Nonferrous forgings,X,332112.0,332112.0
+768,3465,T2200,Truck/Automotive parts & accessories,Automotive stampings,X,336370.0,336370.0
+769,3466,M5000,Fabricated metal products,Crowns and closures,X,332119.0,332115.0
+770,3469,M5000,Fabricated metal products,"Metal stampings, NEC",X,332119.0,332116.0
+771,3469,M5000,Fabricated metal products,"Metal stampings, NEC",X,332215.0,332214.0
+772,3469,M5000,Fabricated metal products,"Metal stampings, NEC",X,332439.0,332439.0
+773,3471,M5200,"Electroplating, polishing & related services",Plating and polishing,X,332813.0,332813.0
+774,3479,M5200,"Electroplating, polishing & related services",Metal coating and allied services,X,332812.0,332812.0
+775,3479,M5200,"Electroplating, polishing & related services",Metal coating and allied services,X,339910.0,339911.0
+776,3479,M5200,"Electroplating, polishing & related services",Metal coating and allied services,X,339910.0,339912.0
+777,3479,M5200,"Electroplating, polishing & related services",Metal coating and allied services,X,339910.0,339914.0
+778,3482,M5300,Small arms & ammunition,Small arms ammunition,X,332992.0,332992.0
+779,3483,M5300,Small arms & ammunition,"Ammunition, exc for small arms, NEC",X,332993.0,332993.0
+780,3484,M5300,Small arms & ammunition,Small arms,X,332994.0,332994.0
+781,3489,M5300,Small arms & ammunition,"Ordnance and accessories, NEC",X,332994.0,332995.0
+782,3491,M5000,Fabricated metal products,Industrial valves,X,332911.0,332911.0
+783,3492,M5000,Fabricated metal products,Fluid power valves and hose fittings,X,332912.0,332912.0
+784,3493,M5000,Fabricated metal products,"Steel springs, except wire",X,332613.0,332611.0
+785,3494,M5000,Fabricated metal products,"Valves and pipe fittings,nec",X,332919.0,332919.0
+786,3494,M5000,Fabricated metal products,"Valves and pipe fittings,nec",X,332999.0,332999.0
+787,3495,M5000,Fabricated metal products,Wire springs,X,332613.0,332612.0
+788,3495,M5000,Fabricated metal products,Wire springs,X,334519.0,334518.0
+789,3496,M5000,Fabricated metal products,"Fabricated wire products, misc",X,332215.0,332214.0
+790,3496,M5000,Fabricated metal products,"Fabricated wire products, misc",X,332618.0,332618.0
+791,3496,M5000,Fabricated metal products,"Fabricated wire products, misc",X,333924.0,333924.0
+792,3497,M5000,Fabricated metal products,Metal foil and leaf,X,322220.0,322225.0
+793,3497,M5000,Fabricated metal products,Metal foil and leaf,X,332999.0,332999.0
+794,3498,M5000,Fabricated metal products,Fabricated pipe and fittings,X,332996.0,332996.0
+795,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,332117.0,332117.0
+796,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,332439.0,332439.0
+797,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,332510.0,332510.0
+798,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,332919.0,332919.0
+799,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,332999.0,332999.0
+800,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,336360.0,336360.0
+801,3499,M5000,Fabricated metal products,"Fabricated metal products, NEC",X,337215.0,337215.0
+802,3511,M2300,Industrial/commercial equipment & materials,Turbines and turbine generator sets,X,333611.0,333611.0
+803,3519,M2300,Industrial/commercial equipment & materials,"Internal combustion engines, NEC",X,333618.0,333618.0
+804,3519,M2300,Industrial/commercial equipment & materials,"Internal combustion engines, NEC",X,336390.0,336399.0
+805,3523,A4200,Farm machinery & equipment,Farm machinery and equipment,X,332216.0,332212.0
+806,3523,A4200,Farm machinery & equipment,Farm machinery and equipment,X,332323.0,332323.0
+807,3523,A4200,Farm machinery & equipment,Farm machinery and equipment,X,333111.0,333111.0
+808,3523,A4200,Farm machinery & equipment,Farm machinery and equipment,X,333922.0,333922.0
+809,3524,M4000,Household & office products,Lawn and garden equipment,X,332216.0,332212.0
+810,3524,M4000,Household & office products,Lawn and garden equipment,X,333112.0,333112.0
+811,3531,B6000,Construction equipment,Construction machinery and equipment,X,333120.0,333120.0
+812,3531,B6000,Construction equipment,Construction machinery and equipment,X,333923.0,333923.0
+813,3531,B6000,Construction equipment,Construction machinery and equipment,X,336510.0,336510.0
+814,3532,E1240,Mining services & equipment,Mining machinery,,333131.0,333131.0
+815,3533,E1150,"Oilfield service, equipment & exploration",Oil and gas field machinery,X,333132.0,333132.0
+816,3534,B5400,Other construction-related products,Elevators and moving stairways,X,333921.0,333921.0
+817,3535,M2300,Industrial/commercial equipment & materials,Conveyors and conveying equipment,X,333922.0,333922.0
+818,3536,M2300,Industrial/commercial equipment & materials,"Hoists, cranes and monorails",X,333923.0,333923.0
+819,3537,T3200,Truck & trailer manufacturers,Industrial trucks and tractors,X,332439.0,332439.0
+820,3537,T3200,Truck & trailer manufacturers,Industrial trucks and tractors,X,332999.0,332999.0
+821,3537,T3200,Truck & trailer manufacturers,Industrial trucks and tractors,X,333924.0,333924.0
+822,3541,M2300,Industrial/commercial equipment & materials,"Machine tools, metal cutting types",X,333517.0,333512.0
+823,3542,M2300,Industrial/commercial equipment & materials,"Machine tools, metal forming types",X,333517.0,333513.0
+824,3543,M2300,Industrial/commercial equipment & materials,Industrial patterns,X,332999.0,332997.0
+825,3544,M2300,Industrial/commercial equipment & materials,"Special dies, tools, jigs & fixtures",X,333511.0,333511.0
+826,3544,M2300,Industrial/commercial equipment & materials,"Special dies, tools, jigs & fixtures",X,333514.0,333514.0
+827,3545,M2300,Industrial/commercial equipment & materials,Machine tool accessories,X,332216.0,332212.0
+828,3545,M2300,Industrial/commercial equipment & materials,Machine tool accessories,X,333515.0,333515.0
+829,3546,M5100,Hardware & tools,Powerdriven handtools,X,333991.0,333991.0
+830,3547,M2300,Industrial/commercial equipment & materials,Rolling mill machinery,X,333519.0,333516.0
+831,3548,M2300,Industrial/commercial equipment & materials,Welding apparatus,X,333992.0,333992.0
+832,3548,M2300,Industrial/commercial equipment & materials,Welding apparatus,X,335311.0,335311.0
+833,3549,M2300,Industrial/commercial equipment & materials,"Metalworking machinery, NEC",X,333519.0,333518.0
+834,3552,M8000,Textiles & fabrics,Textile machinery,X,333249.0,333292.0
+835,3553,M2300,Industrial/commercial equipment & materials,Woodworking machinery,X,333243.0,333210.0
+836,3554,M2300,Industrial/commercial equipment & materials,Paper industries machinery,X,333243.0,333291.0
+837,3555,M2300,Industrial/commercial equipment & materials,Printing trades machinery,X,333244.0,333293.0
+838,3556,M2300,Industrial/commercial equipment & materials,Food products machinery,X,333241.0,333294.0
+839,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,332410.0,332410.0
+840,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,333111.0,333111.0
+841,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,333242.0,333295.0
+842,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,333249.0,333220.0
+843,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,333249.0,333298.0
+844,3559,M2300,Industrial/commercial equipment & materials,"Special industry machinery, NEC",X,333318.0,333319.0
+845,3561,M2300,Industrial/commercial equipment & materials,Pumps and pumping equipment,X,333911.0,333911.0
+846,3562,M5000,Fabricated metal products,Ball and roller bearings,X,332991.0,332991.0
+847,3563,M2300,Industrial/commercial equipment & materials,Air and gas compressors,X,333912.0,333912.0
+848,3564,M2300,Industrial/commercial equipment & materials,Blowers and fans,X,333413.0,333411.0
+849,3564,M2300,Industrial/commercial equipment & materials,Blowers and fans,X,333413.0,333412.0
+850,3565,M2300,Industrial/commercial equipment & materials,Packaging machinery,X,333993.0,333993.0
+851,3566,M2300,Industrial/commercial equipment & materials,"Speed changers, drives, and gears",X,333612.0,333612.0
+852,3567,M2300,Industrial/commercial equipment & materials,Industrial process furnaces and ovens,X,333994.0,333994.0
+853,3568,M2300,Industrial/commercial equipment & materials,"Power transmission equipment, NEC",X,333613.0,333613.0
+854,3569,M2300,Industrial/commercial equipment & materials,"General industrial machinery, NEC",X,314999.0,314999.0
+855,3569,M2300,Industrial/commercial equipment & materials,"General industrial machinery, NEC",X,333414.0,333414.0
+856,3569,M2300,Industrial/commercial equipment & materials,"General industrial machinery, NEC",X,333999.0,333999.0
+857,3571,C5110,"Computers, components & accessories",Electronic computers,X,334111.0,334111.0
+858,3572,C5110,"Computers, components & accessories",Computer storage devices,X,334112.0,334112.0
+859,3575,C5110,"Computers, components & accessories",Computer terminals,X,334118.0,334113.0
+860,3577,C5110,"Computers, components & accessories","Computer peripheral equipment, NEC",X,333316.0,334119.0
+861,3577,C5110,"Computers, components & accessories","Computer peripheral equipment, NEC",X,334118.0,334119.0
+862,3577,C5110,"Computers, components & accessories","Computer peripheral equipment, NEC",X,334418.0,334418.0
+863,3577,C5110,"Computers, components & accessories","Computer peripheral equipment, NEC",X,334613.0,334613.0
+864,3578,M4200,Office machines,Calculating and accounting equipment,X,333316.0,334119.0
+865,3578,M4200,Office machines,Calculating and accounting equipment,X,334118.0,334119.0
+866,3578,M4200,Office machines,Calculating and accounting equipment,X,333318.0,333311.0
+867,3578,M4200,Office machines,Calculating and accounting equipment,X,333318.0,333313.0
+868,3579,M4200,Office machines,"Office machines, NEC",X,333318.0,333313.0
+869,3579,M4200,Office machines,"Office machines, NEC",X,334519.0,334518.0
+870,3579,M4200,Office machines,"Office machines, NEC",X,339940.0,339942.0
+871,3581,M2300,Industrial/commercial equipment & materials,Automatic vending machines,X,333318.0,333311.0
+872,3582,M2300,Industrial/commercial equipment & materials,"Laundry equipment, commercial",X,333318.0,333312.0
+873,3585,M2300,Industrial/commercial equipment & materials,Refrigeration and heating equipment,X,333415.0,333415.0
+874,3585,M2300,Industrial/commercial equipment & materials,Refrigeration and heating equipment,X,336390.0,336391.0
+875,3586,M2300,Industrial/commercial equipment & materials,Measuring and dispensing pumps,X,333913.0,333913.0
+876,3589,M2300,Industrial/commercial equipment & materials,"Service industry machinery, NEC",X,333318.0,333319.0
+877,3592,T2200,Truck/Automotive parts & accessories,"Carburetors, pistons, rings, valves",X,336310.0,336311.0
+878,3593,M2300,Industrial/commercial equipment & materials,Fluid power cylinders and actuators,X,333995.0,333995.0
+879,3594,M2300,Industrial/commercial equipment & materials,Fluid power pumps and motors,X,333996.0,333996.0
+880,3596,M2300,Industrial/commercial equipment & materials,"Scales & balances, except laboratory",X,333997.0,333997.0
+881,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,332710.0,332710.0
+882,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,332813.0,332813.0
+883,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,332999.0,332999.0
+884,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,333318.0,333319.0
+885,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,333999.0,333999.0
+886,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,334519.0,334519.0
+887,3599,M2300,Industrial/commercial equipment & materials,"Industrial machinery, NEC",X,336390.0,336399.0
+888,3612,M2300,Industrial/commercial equipment & materials,"Transformers, except electronic",X,335311.0,335311.0
+889,3613,M2300,Industrial/commercial equipment & materials,Switchgear and switchboard apparatus,X,335313.0,335313.0
+890,3621,M2300,Industrial/commercial equipment & materials,Motors and generators,X,335312.0,335312.0
+891,3624,M2300,Industrial/commercial equipment & materials,Carbon and graphite products,X,335991.0,335991.0
+892,3625,M2300,Industrial/commercial equipment & materials,Relays and industrial controls,X,335314.0,335314.0
+893,3629,C5000,Electronics manufacturing & services,"Electrical industrial apparatus, NEC",X,335999.0,335999.0
+894,3631,M4000,Household & office products,Household cooking equipment,X,335221.0,335221.0
+895,3632,M4300,Household appliances,Household refrigerators and freezers,X,335222.0,335222.0
+896,3633,M4300,Household appliances,Household laundry equipment,X,335224.0,335224.0
+897,3634,M4300,Household appliances,Electric housewares and fans,X,333414.0,333414.0
+898,3634,M4300,Household appliances,Electric housewares and fans,X,335210.0,335211.0
+899,3634,M4300,Household appliances,Electric housewares and fans,X,339999.0,339999.0
+900,3635,M4300,Household appliances,Household vacuum cleaners,X,335210.0,335212.0
+901,3639,M4300,Household appliances,"Household appliances, NEC",X,333249.0,333298.0
+902,3639,M4300,Household appliances,"Household appliances, NEC",X,335210.0,335212.0
+903,3639,M4300,Household appliances,"Household appliances, NEC",X,335228.0,335228.0
+904,3641,M6000,Electrical lighting products,Electric lamp bulbs and tubes,X,335110.0,335110.0
+905,3643,C5000,Electronics manufacturing & services,Currentcarrying wiring devices,X,335931.0,335931.0
+906,3644,C5000,Electronics manufacturing & services,Noncurrentcarrying wiring devices,X,332216.0,332212.0
+907,3644,C5000,Electronics manufacturing & services,Noncurrentcarrying wiring devices,X,335932.0,335932.0
+908,3645,M6000,Electrical lighting products,Residential lighting fixtures,X,335121.0,335121.0
+909,3646,M6000,Electrical lighting products,Commercial lighting fixtures,X,335122.0,335122.0
+910,3647,T2200,Truck/Automotive parts & accessories,Vehicular lighting equipment,X,336320.0,336321.0
+911,3648,M6000,Electrical lighting products,"Lighting equipment, NEC",X,335129.0,335129.0
+912,3651,C5000,Electronics manufacturing & services,Household audio and video equipment,X,334310.0,334310.0
+913,3652,C2600,Recorded Music & music production,Prerecorded records and tapes,,334614.0,334612.0
+914,3652,C2600,Recorded Music & music production,Prerecorded records and tapes,,512220.0,512220.0
+915,3661,C4600,Telephone & communications equipment,Telephone and telegraph apparatus,X,334210.0,334210.0
+916,3661,C4600,Telephone & communications equipment,Telephone and telegraph apparatus,X,334418.0,334418.0
+917,3663,C4600,Telephone & communications equipment,Radio & TV communications equipment,X,334220.0,334220.0
+918,3669,C4600,Telephone & communications equipment,"Communications equipment, NEC",X,334290.0,334290.0
+919,3671,C5000,Electronics manufacturing & services,Electron tubes,X,334419.0,334411.0
+920,3672,C5000,Electronics manufacturing & services,Printed circuit boards,X,334412.0,334412.0
+921,3674,C5110,"Computers, components & accessories",Semiconductors and related devices,X,334413.0,334413.0
+922,3675,C5000,Electronics manufacturing & services,Electronic capacitors,X,334416.0,334414.0
+923,3676,C5000,Electronics manufacturing & services,Electronic resistors,X,334416.0,334415.0
+924,3677,C5000,Electronics manufacturing & services,Electronic coils and transformers,X,334416.0,334416.0
+925,3678,C5000,Electronics manufacturing & services,Electronic connectors,X,334417.0,334417.0
+926,3679,C5000,Electronics manufacturing & services,"Electronic components, NEC",X,334220.0,334220.0
+927,3679,C5000,Electronics manufacturing & services,"Electronic components, NEC",X,334310.0,334310.0
+928,3679,C5000,Electronics manufacturing & services,"Electronic components, NEC",X,334418.0,334418.0
+929,3679,C5000,Electronics manufacturing & services,"Electronic components, NEC",X,334419.0,334419.0
+930,3691,M2300,Industrial/commercial equipment & materials,Storage batteries,X,335911.0,335911.0
+931,3692,M2300,Industrial/commercial equipment & materials,"Primary batteries, dry and wet",X,335912.0,335912.0
+932,3694,M2300,Industrial/commercial equipment & materials,Engine electrical equipment,X,336320.0,336322.0
+933,3695,M2300,Industrial/commercial equipment & materials,Magnetic and optical recording media,X,334613.0,334613.0
+934,3699,M2300,Industrial/commercial equipment & materials,"Electrical equipment and supplies, NEC",X,333318.0,333319.0
+935,3699,M2300,Industrial/commercial equipment & materials,"Electrical equipment and supplies, NEC",X,333618.0,333618.0
+936,3699,M2300,Industrial/commercial equipment & materials,"Electrical equipment and supplies, NEC",X,333992.0,333992.0
+937,3699,M2300,Industrial/commercial equipment & materials,"Electrical equipment and supplies, NEC",X,335129.0,335129.0
+938,3699,M2300,Industrial/commercial equipment & materials,"Electrical equipment and supplies, NEC",X,335999.0,335999.0
+939,3711,T2100,Auto manufacturers,Motor vehicles and car bodies,X,336111.0,336111.0
+940,3711,T2100,Auto manufacturers,Motor vehicles and car bodies,X,336112.0,336112.0
+941,3711,T2100,Auto manufacturers,Motor vehicles and car bodies,X,336120.0,336120.0
+942,3711,T2100,Auto manufacturers,Motor vehicles and car bodies,X,336211.0,336211.0
+943,3711,T2100,Auto manufacturers,Motor vehicles and car bodies,X,336992.0,336992.0
+944,3713,T3200,Truck & trailer manufacturers,Truck and bus bodies,X,336211.0,336211.0
+945,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336211.0,336211.0
+946,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336310.0,336312.0
+947,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336320.0,336322.0
+948,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336330.0,336330.0
+949,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336340.0,336340.0
+950,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336350.0,336350.0
+951,3714,T2200,Truck/Automotive parts & accessories,Motor vehicle parts and accessories,X,336390.0,336399.0
+952,3715,T3200,Truck & trailer manufacturers,Truck trailers,X,336212.0,336212.0
+953,3716,T8200,Motor homes & camper trailers,Motor homes,X,336213.0,336213.0
+954,3721,T1200,Aircraft manufacturers,Aircraft,,336411.0,336411.0
+955,3724,T1300,Aircraft parts & equipment,Aircraft engines and engine parts,X,336412.0,336412.0
+956,3728,T1300,Aircraft parts & equipment,"Aircraft equipment, NEC",X,332912.0,332912.0
+957,3728,T1300,Aircraft parts & equipment,"Aircraft equipment, NEC",X,336411.0,336411.0
+958,3728,T1300,Aircraft parts & equipment,"Aircraft equipment, NEC",X,336413.0,336413.0
+959,3731,T6100,Ship building & repair,Ship building and repairing,X,336611.0,336611.0
+960,3731,T6100,Ship building & repair,Ship building and repairing,X,488390.0,488390.0
+961,3732,T6100,Ship building & repair,Boat building and repairing,X,336612.0,336612.0
+962,3732,T6100,Ship building & repair,Boat building and repairing,X,811490.0,811490.0
+963,3743,T5200,Manufacturers of railroad equipment,Railroad equipment,,333911.0,333911.0
+964,3743,T5200,Manufacturers of railroad equipment,Railroad equipment,,336510.0,336510.0
+965,3751,T8100,"Motorcycles, snowmobiles & other motorized vehicle","Motorcycles, bicycles, and parts",X,336991.0,336991.0
+966,3761,T1700,Space vehicles & components,Guided missiles and space vehicles,X,336414.0,336414.0
+967,3764,T1700,Space vehicles & components,Space propulsion units and parts,X,336415.0,336415.0
+968,3769,T1700,Space vehicles & components,"Space vehicle equipment, NEC",X,336419.0,336419.0
+969,3792,T8200,Motor homes & camper trailers,Travel trailers and campers,X,336214.0,336214.0
+970,3795,D8000,Ground-based & other weapons systems,Tanks and tank components,,336992.0,336992.0
+971,3799,,"Transportation equipment, NEC",X,,333924.0,333924.0
+972,3799,,"Transportation equipment, NEC",X,,336214.0,336214.0
+973,3799,,"Transportation equipment, NEC",X,,336390.0,336399.0
+974,3799,,"Transportation equipment, NEC",X,,336999.0,336999.0
+975,3812,,Search and navigation equipment,X,,334511.0,334511.0
+976,3821,M2300,Industrial/commercial equipment & materials,Lab apparatus & furniture,X,,
+977,3822,M2300,Industrial/commercial equipment & materials,Environmental controls,X,334512.0,334512.0
+978,3823,M2300,Industrial/commercial equipment & materials,Process control instruments,X,334513.0,334513.0
+979,3824,M2300,Industrial/commercial equipment & materials,Fluid meters and counting devices,X,334514.0,334514.0
+980,3825,M9000,Precision instruments,Instruments to measure electricity,X,334514.0,334514.0
+981,3825,M9000,Precision instruments,Instruments to measure electricity,X,334515.0,334515.0
+982,3826,M9000,Precision instruments,Analytical instruments,X,334516.0,334516.0
+983,3827,M9100,Optical instruments & lenses,Optical instruments and lenses,X,333314.0,333314.0
+984,3829,M9000,Precision instruments,"Measuring & controlling devices, NEC",X,334514.0,334514.0
+985,3829,M9000,Precision instruments,"Measuring & controlling devices, NEC",X,334519.0,334518.0
+986,3829,M9000,Precision instruments,"Measuring & controlling devices, NEC",X,334519.0,334519.0
+987,3829,M9000,Precision instruments,"Measuring & controlling devices, NEC",X,339112.0,339112.0
+988,3841,H4100,Medical supplies manufacturing & sales,Surgical and medical instruments,X,332994.0,332994.0
+989,3841,H4100,Medical supplies manufacturing & sales,Surgical and medical instruments,X,339112.0,339112.0
+990,3842,H4100,Medical supplies manufacturing & sales,Surgical appliances and supplies,X,322291.0,322291.0
+991,3842,H4100,Medical supplies manufacturing & sales,Surgical appliances and supplies,X,334510.0,334510.0
+992,3842,H4100,Medical supplies manufacturing & sales,Surgical appliances and supplies,X,339113.0,339113.0
+993,3842,H4100,Medical supplies manufacturing & sales,Surgical appliances and supplies,X,339999.0,339999.0
+994,3843,H4100,Medical supplies manufacturing & sales,Dental equipment and supplies,X,339114.0,339114.0
+995,3844,H4100,Medical supplies manufacturing & sales,Xray apparatus and tubes,X,334517.0,334517.0
+996,3845,H4100,Medical supplies manufacturing & sales,Electromedical equipment,X,334510.0,334510.0
+997,3845,H4100,Medical supplies manufacturing & sales,Electromedical equipment,X,334517.0,334517.0
+998,3851,M9100,Optical instruments & lenses,Ophthalmic goods,X,339113.0,339113.0
+999,3851,M9100,Optical instruments & lenses,Ophthalmic goods,X,339115.0,339115.0
+1000,3861,M9200,Photographic equipment & supplies,Photographic equipment and supplies,X,325992.0,325992.0
+1001,3861,M9200,Photographic equipment & supplies,Photographic equipment and supplies,X,333316.0,333315.0
+1002,3873,M9300,Clocks & watches,"Watches, clocks, and watchcases",,334519.0,334518.0
+1003,3911,M3400,Jewelry,"Jewelry, precious metal",X,339910.0,339911.0
+1004,3914,M5000,Fabricated metal products,Silverware and plated ware,X,332215.0,332211.0
+1005,3914,M5000,Fabricated metal products,Silverware and plated ware,X,332999.0,332999.0
+1006,3914,M5000,Fabricated metal products,Silverware and plated ware,X,339910.0,339912.0
+1007,3915,M3400,Jewelry,Jewelers' materials & lapidary work,X,334519.0,334518.0
+1008,3915,M3400,Jewelry,Jewelers' materials & lapidary work,X,339910.0,339913.0
+1009,3931,M4000,Household & office products,Musical instruments,X,339992.0,339992.0
+1010,3942,M3500,Toys,Dolls and stuffed toys,X,339930.0,339931.0
+1011,3944,M3500,Toys,"Games, toys, and children's vehicles",X,336991.0,336991.0
+1012,3944,M3500,Toys,"Games, toys, and children's vehicles",X,339930.0,339932.0
+1013,3949,M3600,Sporting goods sales & manufacturing,"Sporting and athletic goods, NEC",X,339920.0,339920.0
+1014,3951,M4000,Household & office products,Pens and mechanical pencils,X,339940.0,339941.0
+1015,3952,M4000,Household & office products,Lead pencils and art goods,X,325998.0,325998.0
+1016,3952,M4000,Household & office products,Lead pencils and art goods,X,337127.0,337127.0
+1017,3952,M4000,Household & office products,Lead pencils and art goods,X,339940.0,339942.0
+1018,3953,M4000,Household & office products,Marking devices,X,339940.0,339943.0
+1019,3955,M4000,Household & office products,Carbon paper and inked ribbons,X,339940.0,339944.0
+1020,3961,M3400,Jewelry,Costume jewelry,X,339910.0,339914.0
+1021,3961,M3400,Jewelry,Costume jewelry,X,339993.0,339993.0
+1022,3965,M2300,Industrial/commercial equipment & materials,"Fasteners, buttons, needles, & pins",X,339993.0,339993.0
+1023,3981,,Diversified conglomerate,X,,,
+1024,3991,M4000,Household & office products,Brooms and brushes,X,339994.0,339994.0
+1025,3993,G5210,Advertising & public relations services,Signs and advertising displays,X,323113.0,323113.0
+1026,3993,G5210,Advertising & public relations services,Signs and advertising displays,X,339950.0,339950.0
+1027,3995,M2300,Industrial/commercial equipment & materials,Burial caskets,X,339995.0,339995.0
+1028,3996,B5000,Building materials,Hard surface floor coverings,X,326199.0,326192.0
+1029,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,316110.0,316110.0
+1030,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,321999.0,321999.0
+1031,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,325998.0,325998.0
+1032,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,326199.0,326199.0
+1033,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,332215.0,332211.0
+1034,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,332216.0,332212.0
+1035,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,332812.0,332812.0
+1036,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,332999.0,332999.0
+1037,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,333318.0,333319.0
+1038,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,335121.0,335121.0
+1039,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,335210.0,335211.0
+1040,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,337127.0,337127.0
+1041,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,339930.0,339932.0
+1042,3999,M2300,Industrial/commercial equipment & materials,"Manufacturing industries, NEC",X,339999.0,339999.0
+1043,4011,T5100,Railroads,"Railroads, linehaul operating",,482111.0,482111.0
+1044,4013,T5300,Railroad services,Rail switching and terminal services,X,482112.0,482112.0
+1045,4013,T5300,Railroad services,Rail switching and terminal services,X,488210.0,488210.0
+1046,4111,T4000,Buses & Taxis,Local and suburban transit,X,485111.0,485111.0
+1047,4111,T4000,Buses & Taxis,Local and suburban transit,X,485112.0,485112.0
+1048,4111,T4000,Buses & Taxis,Local and suburban transit,X,485113.0,485113.0
+1049,4111,T4000,Buses & Taxis,Local and suburban transit,X,485119.0,485119.0
+1050,4111,T4000,Buses & Taxis,Local and suburban transit,X,485999.0,485999.0
+1051,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,485320.0,485320.0
+1052,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,485410.0,485410.0
+1053,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,485991.0,485991.0
+1054,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,485999.0,485999.0
+1055,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,487110.0,487110.0
+1056,4119,T4000,Buses & Taxis,"Local passenger transportation, NEC",X,621910.0,621910.0
+1057,4121,T4200,Taxicabs,Taxicabs,,485310.0,485310.0
+1058,4131,T4100,Bus services,"Bus transportation, intercity",X,485210.0,485210.0
+1059,4141,T4100,Bus services,"Bus charter service, local",X,485510.0,485510.0
+1060,4142,T4100,Bus services,"Bus charter service, except local",X,485510.0,485510.0
+1061,4151,T4100,Bus services,School buses,X,485410.0,485410.0
+1062,4173,T4000,Buses & Taxis,Bus terminal and service facilities,X,488490.0,488490.0
+1063,4212,T3100,Trucking companies & services,Local trucking without storage,X,484110.0,484110.0
+1064,4212,T3100,Trucking companies & services,Local trucking without storage,X,484210.0,484210.0
+1065,4212,T3100,Trucking companies & services,Local trucking without storage,X,484220.0,484220.0
+1066,4212,T3100,Trucking companies & services,Local trucking without storage,X,562111.0,562111.0
+1067,4212,T3100,Trucking companies & services,Local trucking without storage,X,562112.0,562112.0
+1068,4212,T3100,Trucking companies & services,Local trucking without storage,X,562119.0,562119.0
+1069,4213,T3100,Trucking companies & services,"Trucking, except local",X,484121.0,484121.0
+1070,4213,T3100,Trucking companies & services,"Trucking, except local",X,484122.0,484122.0
+1071,4213,T3100,Trucking companies & services,"Trucking, except local",X,484210.0,484210.0
+1072,4213,T3100,Trucking companies & services,"Trucking, except local",X,484230.0,484230.0
+1073,4214,T3100,Trucking companies & services,"Trucking and storage, local",X,484110.0,484110.0
+1074,4214,T3100,Trucking companies & services,"Trucking and storage, local",X,484210.0,484210.0
+1075,4214,T3100,Trucking companies & services,"Trucking and storage, local",X,484220.0,484220.0
+1076,4215,T7100,Express delivery services,"Courier services, except by air",,492110.0,492110.0
+1077,4215,T7100,Express delivery services,"Courier services, except by air",,492210.0,492210.0
+1078,4221,A4000,Agricultural services & related industries,Farm product warehousing and storage,X,493130.0,493130.0
+1079,4222,T7200,Warehousing,Refrigerated warehousing,X,493120.0,493120.0
+1080,4225,T7200,Warehousing,General warehousing and storage,X,493110.0,493110.0
+1081,4225,T7200,Warehousing,General warehousing and storage,X,531130.0,531130.0
+1082,4226,T7200,Warehousing,"Special warehousing & storage, NEC",X,493110.0,493110.0
+1083,4226,T7200,Warehousing,"Special warehousing & storage, NEC",X,493120.0,493120.0
+1084,4226,T7200,Warehousing,"Special warehousing & storage, NEC",X,493190.0,493190.0
+1085,4231,T3100,Trucking companies & services,Trucking terminal facilities,X,488490.0,488490.0
+1086,4311,L1500,US Postal Service unions & associations,U.S. Postal Service,,491110.0,491110.0
+1087,4412,T6200,Sea freight & passenger services,"Deep sea foreign transportation,freight",X,483111.0,483111.0
+1088,4424,T6200,Sea freight & passenger services,"Deep sea domestic trans, freight",X,483113.0,483113.0
+1089,4432,T6200,Sea freight & passenger services,Freight trans:Great LakesSt. Lawrence,X,483113.0,483113.0
+1090,4449,T6200,Sea freight & passenger services,"Water transportation of freight, NEC",X,483211.0,483211.0
+1091,4481,T6200,Sea freight & passenger services,"Deep sea passenger trans, exc ferry",X,483112.0,483112.0
+1092,4481,T6200,Sea freight & passenger services,"Deep sea passenger trans, exc ferry",X,483114.0,483114.0
+1093,4482,T6200,Sea freight & passenger services,Ferries,X,483114.0,483114.0
+1094,4482,T6200,Sea freight & passenger services,Ferries,X,483212.0,483212.0
+1095,4489,T6200,Sea freight & passenger services,"Water transportation of passenger, NEC",X,483212.0,483212.0
+1096,4489,T6200,Sea freight & passenger services,"Water transportation of passenger, NEC",X,487210.0,487210.0
+1097,4491,T6200,Sea freight & passenger services,Marine cargo handling,X,488310.0,488310.0
+1098,4491,T6200,Sea freight & passenger services,Marine cargo handling,X,488320.0,488320.0
+1099,4492,T6200,Sea freight & passenger services,Towing and tugboat services,X,488330.0,488330.0
+1100,4493,T6000,Sea transport,Marinas,,713930.0,713930.0
+1101,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,483211.0,483211.0
+1102,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,488310.0,488310.0
+1103,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,488330.0,488330.0
+1104,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,488390.0,488390.0
+1105,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,532411.0,532411.0
+1106,4499,T6200,Sea freight & passenger services,"Water transportation services, NEC",X,541990.0,541990.0
+1107,4512,T1100,Airlines,"Air transportation, scheduled",,481111.0,481111.0
+1108,4512,T1100,Airlines,"Air transportation, scheduled",,481112.0,481112.0
+1109,4513,T1500,Air Freight,Air courier services,,492110.0,492110.0
+1110,4522,T1000,Air transport,"Air transportation, nonscheduled",,481211.0,481211.0
+1111,4522,T1000,Air transport,"Air transportation, nonscheduled",,481212.0,481212.0
+1112,4522,T1000,Air transport,"Air transportation, nonscheduled",,481219.0,481219.0
+1113,4522,T1000,Air transport,"Air transportation, nonscheduled",,487990.0,487990.0
+1114,4522,T1000,Air transport,"Air transportation, nonscheduled",,621910.0,621910.0
+1115,4581,T1600,Aviation services & airports,"Airports, flying fields, & services",,488111.0,488111.0
+1116,4581,T1600,Aviation services & airports,"Airports, flying fields, & services",,488119.0,488119.0
+1117,4581,T1600,Aviation services & airports,"Airports, flying fields, & services",,488190.0,488190.0
+1118,4581,T1600,Aviation services & airports,"Airports, flying fields, & services",,561720.0,561720.0
+1119,4581,T1600,Aviation services & airports,"Airports, flying fields, & services",,811420.0,811420.0
+1120,4612,E1100,Oil & Gas,Crude petroleum pipe lines,X,486110.0,486110.0
+1121,4613,E1100,Oil & Gas,Refined petroleum pipe lines,X,486910.0,486910.0
+1122,4619,,"Pipe lines, NEC",X,,486990.0,486990.0
+1123,4724,T9400,Travel agents,Travel agencies,X,561510.0,561510.0
+1124,4725,T9400,Travel agents,Tour operators,X,561520.0,561520.0
+1125,4729,T9400,Travel agents,"Passenger transport arrangement, NEC",X,488999.0,488999.0
+1126,4729,T9400,Travel agents,"Passenger transport arrangement, NEC",X,561599.0,561599.0
+1127,4731,T0000,Transportation,Freight transportation arrangement,X,488510.0,488510.0
+1128,4731,T0000,Transportation,Freight transportation arrangement,X,541614.0,541614.0
+1129,4741,T5300,Railroad services,Rental of railroad cars,X,488210.0,488210.0
+1130,4741,T5300,Railroad services,Rental of railroad cars,X,532411.0,532411.0
+1131,4783,T0000,Transportation,Packing and crating,X,488991.0,488991.0
+1132,4785,T3100,Trucking companies & services,Inspection & fixed facilities,X,488390.0,488390.0
+1133,4785,T3100,Trucking companies & services,Inspection & fixed facilities,X,488490.0,488490.0
+1134,4789,,"Transportation services, NEC",X,,487110.0,487110.0
+1135,4789,,"Transportation services, NEC",X,,488210.0,488210.0
+1136,4789,,"Transportation services, NEC",X,,488999.0,488999.0
+1137,4789,,"Transportation services, NEC",X,,722310.0,722310.0
+1138,4812,C4100,Telephone utilities,Radiotelephone communications,X,,
+1139,4813,C4100,Telephone utilities,"Telephone communications, exc radio",X,517110.0,517110.0
+1140,6163,F1400,Credit agencies & finance companies,Loan brokers,X,522310.0,522310.0
+1141,6211,F2100,Security brokers & investment companies,Security brokers and dealers,X,523110.0,523110.0
+1142,6211,F2100,Security brokers & investment companies,Security brokers and dealers,X,523120.0,523120.0
+1143,6211,F2100,Security brokers & investment companies,Security brokers and dealers,X,523910.0,523910.0
+1144,6211,F2100,Security brokers & investment companies,Security brokers and dealers,X,523999.0,523999.0
+1145,6221,F2200,Commodity brokers/dealers,"Commodity contracts brokers, dealers",,523130.0,523130.0
+1146,6221,F2200,Commodity brokers/dealers,"Commodity contracts brokers, dealers",,523140.0,523140.0
+1147,6231,F2400,Stock exchanges,Security and commodity exchanges,,523210.0,523210.0
+1148,6282,F2100,Security brokers & investment companies,Investment advice,X,523920.0,523920.0
+1149,6282,F2100,Security brokers & investment companies,Investment advice,X,523930.0,523930.0
+1150,6289,F2100,Security brokers & investment companies,"Security and commodity services, NEC",X,523991.0,523991.0
+1151,6289,F2100,Security brokers & investment companies,"Security and commodity services, NEC",X,523999.0,523999.0
+1152,6311,F3300,Life insurance,Life insurance,,524113.0,524113.0
+1153,6311,F3300,Life insurance,Life insurance,,524128.0,524128.0
+1154,6311,F3300,Life insurance,Life insurance,,524130.0,524130.0
+1155,6321,F3200,Accident & health insurance,Accident and health insurance,X,524113.0,524113.0
+1156,6321,F3200,Accident & health insurance,Accident and health insurance,X,524114.0,524114.0
+1157,6321,F3200,Accident & health insurance,Accident and health insurance,X,524130.0,524130.0
+1158,6321,F3200,Accident & health insurance,Accident and health insurance,X,525190.0,525190.0
+1159,6324,F3200,Accident & health insurance,Hospital and medical service plans,X,524114.0,524114.0
+1160,6324,F3200,Accident & health insurance,Hospital and medical service plans,X,524130.0,524130.0
+1161,6324,F3200,Accident & health insurance,Hospital and medical service plans,X,525190.0,525190.0
+1162,6331,F3400,Property & casualty insurance,"Fire, marine, and casualty insurance",,524126.0,524126.0
+1163,6331,F3400,Property & casualty insurance,"Fire, marine, and casualty insurance",,524128.0,524128.0
+1164,6331,F3400,Property & casualty insurance,"Fire, marine, and casualty insurance",,524130.0,524130.0
+1165,6331,F3400,Property & casualty insurance,"Fire, marine, and casualty insurance",,525190.0,525190.0
+1166,6341,F3100,"Insurance companies, brokers & agents",Insurance Mgmt and holding,X,,
+1167,6351,F3100,"Insurance companies, brokers & agents",Surety insurance,X,524126.0,524126.0
+1168,6351,F3100,"Insurance companies, brokers & agents",Surety insurance,X,524128.0,524128.0
+1169,6351,F3100,"Insurance companies, brokers & agents",Surety insurance,X,524130.0,524130.0
+1170,6361,F4300,Title insurance & title abstract offices,Title insurance,X,524127.0,524127.0
+1171,6361,F4300,Title insurance & title abstract offices,Title insurance,X,524130.0,524130.0
+1172,6371,F2000,"Securities, Diversified","Pension, health, and welfare funds",,523920.0,523920.0
+1173,6371,F2000,"Securities, Diversified","Pension, health, and welfare funds",,524292.0,524292.0
+1174,6371,F2000,"Securities, Diversified","Pension, health, and welfare funds",,525110.0,525110.0
+1175,6371,F2000,"Securities, Diversified","Pension, health, and welfare funds",,525120.0,525120.0
+1176,6371,F2000,"Securities, Diversified","Pension, health, and welfare funds",,525990.0,525990.0
+1177,6399,F3100,"Insurance companies, brokers & agents","Insurance carriers, NEC",X,524128.0,524128.0
+1178,6411,F3100,"Insurance companies, brokers & agents","Insurance agents, brokers, & service",X,524210.0,524210.0
+1179,6411,F3100,"Insurance companies, brokers & agents","Insurance agents, brokers, & service",X,524291.0,524291.0
+1180,6411,F3100,"Insurance companies, brokers & agents","Insurance agents, brokers, & service",X,524292.0,524292.0
+1181,6411,F3100,"Insurance companies, brokers & agents","Insurance agents, brokers, & service",X,524298.0,524298.0
+1182,6512,F4500,Building operators and managers,Nonresidential building operators,X,531120.0,531120.0
+1183,6512,F4500,Building operators and managers,Nonresidential building operators,X,711310.0,711310.0
+1184,6513,F4500,Building operators and managers,Apartment building operators,X,531110.0,531110.0
+1185,6514,F4500,Building operators and managers,"Dwelling operators, exc apartments",X,531110.0,531110.0
+1186,6515,F4400,Mobile home dealers & parks,Mobile home site operators,X,531190.0,531190.0
+1187,6517,T5300,Railroad services,Railroad property lessors,X,531190.0,531190.0
+1188,6519,F4500,Building operators and managers,"Real property lessors, NEC",X,531190.0,531190.0
+1189,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531110.0,531110.0
+1190,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531210.0,531210.0
+1191,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531311.0,531311.0
+1192,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531312.0,531312.0
+1193,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531320.0,531320.0
+1194,6531,F4200,Real estate agents & managers,Real estate agents and managers,,531390.0,531390.0
+1195,6531,F4200,Real estate agents & managers,Real estate agents and managers,,812220.0,812220.0
+1196,6531,F4200,Real estate agents & managers,Real estate agents and managers,,813990.0,813990.0
+1197,6541,F4300,Title insurance & title abstract offices,Title abstract offices,X,541191.0,541191.0
+1198,6552,F4100,Real Estate developers & subdividers,"Subdividers and developers, NEC",X,237210.0,237210.0
+1199,6553,G5400,Funeral services,Cemetery subdividers and developers,X,812220.0,812220.0
+1200,6712,F1100,Commercial banks & bank holding companies,Bank holding companies,X,551111.0,551111.0
+1201,6719,,"Holding companies, NEC",X,,551112.0,551112.0
+1202,6722,F2100,Security brokers & investment companies,"Management investment, openend",X,525910.0,525910.0
+1203,6726,F2100,Security brokers & investment companies,"Investment offices, NEC",X,525990.0,525990.0
+1204,6732,X4000,Non-Profits,"Educational, religious, etc trusts",X,813211.0,813211.0
+1205,6733,F7000,Investors,"Trusts, NEC",,523920.0,523920.0
+1206,6733,F7000,Investors,"Trusts, NEC",,523991.0,523991.0
+1207,6733,F7000,Investors,"Trusts, NEC",,525190.0,525190.0
+1208,6733,F7000,Investors,"Trusts, NEC",,525920.0,525920.0
+1209,6792,E1120,Independent oil & gas producers,Oil royalty traders,X,523910.0,523910.0
+1210,6792,E1120,Independent oil & gas producers,Oil royalty traders,X,533110.0,533110.0
+1211,6794,,Patent owners and lessors,X,,533110.0,533110.0
+1212,4822,C4500,Other Communications Services,Telegraph & other communications,X,517110.0,517110.0
+1213,4832,C2100,Commercial TV & radio stations,Radio broadcasting stations,X,515111.0,515111.0
+1214,4832,C2100,Commercial TV & radio stations,Radio broadcasting stations,X,515112.0,515112.0
+1215,4833,C2100,Commercial TV & radio stations,Television broadcasting stations,X,515120.0,515120.0
+1216,4841,C2200,Cable & satellite TV production & distribution,Cable and other pay TV services,,515210.0,515210.0
+1217,4899,C4500,Other Communications Services,"Communication services, NEC",X,485310.0,485310.0
+1218,4899,C4500,Other Communications Services,"Communication services, NEC",X,517410.0,517410.0
+1219,4899,C4500,Other Communications Services,"Communication services, NEC",X,812990.0,812990.0
+1220,4911,E1600,Electric Power utilities,Electric services,,221111.0,221111.0
+1221,4911,E1600,Electric Power utilities,Electric services,,221112.0,221112.0
+1222,4911,E1600,Electric Power utilities,Electric services,,221113.0,221113.0
+1223,4911,E1600,Electric Power utilities,Electric services,,221114.0,221119.0
+1224,4911,E1600,Electric Power utilities,Electric services,,221115.0,221119.0
+1225,4911,E1600,Electric Power utilities,Electric services,,221116.0,221119.0
+1226,4911,E1600,Electric Power utilities,Electric services,,221117.0,221119.0
+1227,4911,E1600,Electric Power utilities,Electric services,,221118.0,221119.0
+1228,4911,E1600,Electric Power utilities,Electric services,,221121.0,221121.0
+1229,4911,E1600,Electric Power utilities,Electric services,,221122.0,221122.0
+1230,4922,E1140,Natural Gas transmission & distribution,Natural gas transmission,X,486210.0,486210.0
+1231,4923,E1140,Natural Gas transmission & distribution,Gas transmission and distribution,X,221210.0,221210.0
+1232,4923,E1140,Natural Gas transmission & distribution,Gas transmission and distribution,X,486210.0,486210.0
+1233,4924,E1140,Natural Gas transmission & distribution,Natural gas distribution,X,221210.0,221210.0
+1234,4925,E1140,Natural Gas transmission & distribution,Gas production and/or distribution,X,221210.0,221210.0
+1235,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221111.0,221111.0
+1236,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221112.0,221112.0
+1237,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221113.0,221113.0
+1238,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221114.0,221119.0
+1239,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221115.0,221119.0
+1240,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221116.0,221119.0
+1241,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221117.0,221119.0
+1242,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221118.0,221119.0
+1243,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221121.0,221121.0
+1244,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221122.0,221122.0
+1245,4931,E1620,Gas & Electric Utilities,Electric and other services combined,X,221210.0,221210.0
+1246,4932,E1140,Natural Gas transmission & distribution,Gas and other services combined,X,221210.0,221210.0
+1247,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221111.0,221111.0
+1248,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221112.0,221112.0
+1249,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221113.0,221113.0
+1250,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221114.0,221119.0
+1251,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221115.0,221119.0
+1252,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221116.0,221119.0
+1253,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221117.0,221119.0
+1254,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221118.0,221119.0
+1255,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221121.0,221121.0
+1256,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221122.0,221122.0
+1257,4939,E1620,Gas & Electric Utilities,"Combination utility services, NEC",X,221210.0,221210.0
+1258,4941,E5000,Water Utilities,Water supply,,221310.0,221310.0
+1259,4952,E3000,Waste management,Sewerage systems,X,221320.0,221320.0
+1260,4953,E3000,Waste management,Refuse systems,X,562211.0,562211.0
+1261,4953,E3000,Waste management,Refuse systems,X,562212.0,562212.0
+1262,4953,E3000,Waste management,Refuse systems,X,562213.0,562213.0
+1263,4953,E3000,Waste management,Refuse systems,X,562219.0,562219.0
+1264,4953,E3000,Waste management,Refuse systems,X,562920.0,562920.0
+1265,4959,E3000,Waste management,"Sanitary services, NEC",X,488119.0,488119.0
+1266,4959,E3000,Waste management,"Sanitary services, NEC",X,488490.0,488490.0
+1267,4959,E3000,Waste management,"Sanitary services, NEC",X,561710.0,561710.0
+1268,4959,E3000,Waste management,"Sanitary services, NEC",X,561790.0,561790.0
+1269,4959,E3000,Waste management,"Sanitary services, NEC",X,562910.0,562910.0
+1270,4959,E3000,Waste management,"Sanitary services, NEC",X,562998.0,562998.0
+1271,4961,E1000,Energy production & distribution,Steam and airconditioning supply,,221330.0,221330.0
+1272,4971,A4000,Agricultural services & related industries,Irrigation systems,X,221310.0,221310.0
+1273,5012,T2100,Auto Manufacturers,Motor vehicles wholesale,X,423110.0,423110.0
+1274,5012,T2100,Auto Manufacturers,Motor vehicles wholesale,X,425110.0,425110.0
+1275,5012,T2100,Auto Manufacturers,Motor vehicles wholesale,X,425120.0,425120.0
+1276,5013,T2200,Truck/Automotive parts & accessories,Automotive parts wholesale,X,423120.0,423120.0
+1277,5013,T2200,Truck/Automotive parts & accessories,Automotive parts wholesale,X,425110.0,425110.0
+1278,5013,T2200,Truck/Automotive parts & accessories,Automotive parts wholesale,X,425120.0,425120.0
+1279,5013,T2200,Truck/Automotive parts & accessories,Automotive parts wholesale,X,441310.0,441310.0
+1280,5014,T2200,Truck/Automotive parts & accessories,Tires and tubes whsle,X,423130.0,423130.0
+1281,5014,T2200,Truck/Automotive parts & accessories,Tires and tubes whsle,X,425110.0,425110.0
+1282,5014,T2200,Truck/Automotive parts & accessories,Tires and tubes whsle,X,425120.0,425120.0
+1283,5014,T2200,Truck/Automotive parts & accessories,Tires and tubes whsle,X,441320.0,441320.0
+1284,5015,T2200,Truck/Automotive parts & accessories,"Motor vehicle parts, used",X,423140.0,423140.0
+1285,5015,T2200,Truck/Automotive parts & accessories,"Motor vehicle parts, used",X,425110.0,425110.0
+1286,5015,T2200,Truck/Automotive parts & accessories,"Motor vehicle parts, used",X,425120.0,425120.0
+1287,5015,T2200,Truck/Automotive parts & accessories,"Motor vehicle parts, used",X,441310.0,441310.0
+1288,5021,M4100,Furniture & wood products,Furniture wholesale,X,423210.0,423210.0
+1289,5021,M4100,Furniture & wood products,Furniture wholesale,X,425110.0,425110.0
+1290,5021,M4100,Furniture & wood products,Furniture wholesale,X,425120.0,425120.0
+1291,5021,M4100,Furniture & wood products,Furniture wholesale,X,442110.0,442110.0
+1292,5023,M4100,Furniture & wood products,Home furnishings wholesale,X,423220.0,423220.0
+1293,5023,M4100,Furniture & wood products,Home furnishings wholesale,X,425110.0,425110.0
+1294,5023,M4100,Furniture & wood products,Home furnishings wholesale,X,425120.0,425120.0
+1295,5023,M4100,Furniture & wood products,Home furnishings wholesale,X,442210.0,442210.0
+1296,5031,A5000,Forestry & Forest Products,Lumber wholesale,X,423310.0,423310.0
+1297,5031,A5000,Forestry & Forest Products,Lumber wholesale,X,425110.0,425110.0
+1298,5031,A5000,Forestry & Forest Products,Lumber wholesale,X,425120.0,425120.0
+1299,5031,A5000,Forestry & Forest Products,Lumber wholesale,X,444110.0,444110.0
+1300,5032,B5100,"Stone, clay, glass & concrete products","Brick, stone, and related construct mtl",X,423320.0,423320.0
+1301,5032,B5100,"Stone, clay, glass & concrete products","Brick, stone, and related construct mtl",X,425110.0,425110.0
+1302,5032,B5100,"Stone, clay, glass & concrete products","Brick, stone, and related construct mtl",X,425120.0,425120.0
+1303,5032,B5100,"Stone, clay, glass & concrete products","Brick, stone, and related construct mtl",X,444190.0,444190.0
+1304,5033,B5000,Building materials,"Roofing, siding, and insulation materials",X,423330.0,423330.0
+1305,5033,B5000,Building materials,"Roofing, siding, and insulation materials",X,425110.0,425110.0
+1306,5033,B5000,Building materials,"Roofing, siding, and insulation materials",X,425120.0,425120.0
+1307,5033,B5000,Building materials,"Roofing, siding, and insulation materials",X,444190.0,444190.0
+1308,5039,B5000,Building materials,"Construction mtls, whsle, NEC",X,423310.0,423310.0
+1309,5039,B5000,Building materials,"Construction mtls, whsle, NEC",X,423390.0,423390.0
+1310,5039,B5000,Building materials,"Construction mtls, whsle, NEC",X,425110.0,425110.0
+1311,5039,B5000,Building materials,"Construction mtls, whsle, NEC",X,425120.0,425120.0
+1312,5039,B5000,Building materials,"Construction mtls, whsle, NEC",X,444190.0,444190.0
+1313,5043,M9200,Photographic equipment & supplies,Photographic eqp wholesale,X,423410.0,423410.0
+1314,5043,M9200,Photographic equipment & supplies,Photographic eqp wholesale,X,425110.0,425110.0
+1315,5043,M9200,Photographic equipment & supplies,Photographic eqp wholesale,X,425120.0,425120.0
+1316,5044,M4000,Household & office products,"Office equipment, whsle",X,423420.0,423420.0
+1317,5044,M4000,Household & office products,"Office equipment, whsle",X,425110.0,425110.0
+1318,5044,M4000,Household & office products,"Office equipment, whsle",X,425120.0,425120.0
+1319,5044,M4000,Household & office products,"Office equipment, whsle",X,453210.0,453210.0
+1320,5045,C5100,Computer manufacture & services,"Computers, peripherals & software, whsle",X,423430.0,423430.0
+1321,5045,C5100,Computer manufacture & services,"Computers, peripherals & software, whsle",X,425110.0,425110.0
+1322,5045,C5100,Computer manufacture & services,"Computers, peripherals & software, whsle",X,425120.0,425120.0
+1323,5045,C5100,Computer manufacture & services,"Computers, peripherals & software, whsle",X,443142.0,443120.0
+1324,5046,M2300,Industrial/commercial equipment & materials,"Commercial equipment, whsle, NEC",X,423440.0,423440.0
+1325,5046,M2300,Industrial/commercial equipment & materials,"Commercial equipment, whsle, NEC",X,425110.0,425110.0
+1326,5046,M2300,Industrial/commercial equipment & materials,"Commercial equipment, whsle, NEC",X,425120.0,425120.0
+1327,5047,H4100,Medical supplies manufacturing & sales,"Medical and hospital equipment, whsle",X,423450.0,423450.0
+1328,5047,H4100,Medical supplies manufacturing & sales,"Medical and hospital equipment, whsle",X,425110.0,425110.0
+1329,5047,H4100,Medical supplies manufacturing & sales,"Medical and hospital equipment, whsle",X,425120.0,425120.0
+1330,5047,H4100,Medical supplies manufacturing & sales,"Medical and hospital equipment, whsle",X,446199.0,446199.0
+1331,5048,M9100,Optical instruments & lenses,"Ophthalmic goods, whsle",X,423460.0,423460.0
+1332,5048,M9100,Optical instruments & lenses,"Ophthalmic goods, whsle",X,425110.0,425110.0
+1333,5048,M9100,Optical instruments & lenses,"Ophthalmic goods, whsle",X,425120.0,425120.0
+1334,5049,G3000,Wholesale trade,"Professional eqp, whsle, NEC",X,423490.0,423490.0
+1335,5049,G3000,Wholesale trade,"Professional eqp, whsle, NEC",X,425110.0,425110.0
+1336,5049,G3000,Wholesale trade,"Professional eqp, whsle, NEC",X,425120.0,425120.0
+1337,5049,G3000,Wholesale trade,"Professional eqp, whsle, NEC",X,453210.0,453210.0
+1338,5051,M5000,Fabricated metal products,Metals service centers and offices,X,423510.0,423510.0
+1339,5051,M5000,Fabricated metal products,Metals service centers and offices,X,425110.0,425110.0
+1340,5051,M5000,Fabricated metal products,Metals service centers and offices,X,425120.0,425120.0
+1341,5052,E1200,Mining,Coal and minerals whsle,,423520.0,423520.0
+1342,5052,E1200,Mining,Coal and minerals whsle,,425110.0,425110.0
+1343,5052,E1200,Mining,Coal and minerals whsle,,425120.0,425120.0
+1344,5063,E1700,Power plant construction & equipment,"Electrical apparatus and eqp, whsle",,423610.0,423610.0
+1345,5063,E1700,Power plant construction & equipment,"Electrical apparatus and eqp, whsle",,425110.0,425110.0
+1346,5063,E1700,Power plant construction & equipment,"Electrical apparatus and eqp, whsle",,425120.0,425120.0
+1347,5063,E1700,Power plant construction & equipment,"Electrical apparatus and eqp, whsle",,444190.0,444190.0
+1348,5064,M4300,Household appliances,Appliances wholesale,X,423620.0,423620.0
+1349,5064,M4300,Household appliances,Appliances wholesale,X,423720.0,423620.0
+1350,5064,M4300,Household appliances,Appliances wholesale,X,425110.0,425110.0
+1351,5064,M4300,Household appliances,Appliances wholesale,X,425120.0,425120.0
+1352,5064,M4300,Household appliances,Appliances wholesale,X,443141.0,443111.0
+1353,5064,M4300,Household appliances,Appliances wholesale,X,443142.0,443112.0
+1354,5064,M4300,Household appliances,Appliances wholesale,X,444190.0,444190.0
+1355,5065,,"Electronic parts and eqp, whsle",X,,423690.0,423690.0
+1356,5065,,"Electronic parts and eqp, whsle",X,,425110.0,425110.0
+1357,5065,,"Electronic parts and eqp, whsle",X,,425120.0,425120.0
+1358,5065,,"Electronic parts and eqp, whsle",X,,443142.0,443112.0
+1359,5065,,"Electronic parts and eqp, whsle",X,,443142.0,443120.0
+1360,5072,M5100,Hardware & tools,Hardware wholesale,X,423710.0,423710.0
+1361,5072,M5100,Hardware & tools,Hardware wholesale,X,425110.0,425110.0
+1362,5072,M5100,Hardware & tools,Hardware wholesale,X,425120.0,425120.0
+1363,5072,M5100,Hardware & tools,Hardware wholesale,X,444130.0,444130.0
+1364,5074,B5300,Plumbing & pipe products,Plumbing & heating wholesale,X,423620.0,423720.0
+1365,5074,B5300,Plumbing & pipe products,Plumbing & heating wholesale,X,423720.0,423720.0
+1366,5074,B5300,Plumbing & pipe products,Plumbing & heating wholesale,X,425110.0,425110.0
+1367,5074,B5300,Plumbing & pipe products,Plumbing & heating wholesale,X,425120.0,425120.0
+1368,5074,B5300,Plumbing & pipe products,Plumbing & heating wholesale,X,444190.0,444190.0
+1369,5075,B3400,"Plumbing, Heating & Air conditioning",Heating & AC whsle,X,423730.0,423730.0
+1370,5075,B3400,"Plumbing, Heating & Air conditioning",Heating & AC whsle,X,425110.0,425110.0
+1371,5075,B3400,"Plumbing, Heating & Air conditioning",Heating & AC whsle,X,425120.0,425120.0
+1372,5078,M2300,Industrial/commercial equipment & materials,Refrigeration eqp whsle,X,423740.0,423740.0
+1373,5078,M2300,Industrial/commercial equipment & materials,Refrigeration eqp whsle,X,425110.0,425110.0
+1374,5078,M2300,Industrial/commercial equipment & materials,Refrigeration eqp whsle,X,425120.0,425120.0
+1375,5082,B6000,Construction equipment,Construction eqp whsle,X,423810.0,423810.0
+1376,5082,B6000,Construction equipment,Construction eqp whsle,X,425110.0,425110.0
+1377,5082,B6000,Construction equipment,Construction eqp whsle,X,425120.0,425120.0
+1378,5083,A4200,Farm machinery & equipment,Farm eqp wholesale,X,423820.0,423820.0
+1379,5083,A4200,Farm machinery & equipment,Farm eqp wholesale,X,425110.0,425110.0
+1380,5083,A4200,Farm machinery & equipment,Farm eqp wholesale,X,425120.0,425120.0
+1381,5083,A4200,Farm machinery & equipment,Farm eqp wholesale,X,444210.0,444210.0
+1382,5084,M2300,Industrial/commercial equipment & materials,Industrial eqp wholesale,X,423830.0,423830.0
+1383,5084,M2300,Industrial/commercial equipment & materials,Industrial eqp wholesale,X,425110.0,425110.0
+1384,5084,M2300,Industrial/commercial equipment & materials,Industrial eqp wholesale,X,425120.0,425120.0
+1385,5085,M2300,Industrial/commercial equipment & materials,Industrial supplies whsle,X,423830.0,423830.0
+1386,5085,M2300,Industrial/commercial equipment & materials,Industrial supplies whsle,X,423840.0,423840.0
+1387,5085,M2300,Industrial/commercial equipment & materials,Industrial supplies whsle,X,425110.0,425110.0
+1388,5085,M2300,Industrial/commercial equipment & materials,Industrial supplies whsle,X,425120.0,425120.0
+1389,5085,M2300,Industrial/commercial equipment & materials,Industrial supplies whsle,X,453998.0,453998.0
+1390,5087,M2300,Industrial/commercial equipment & materials,Service company eqp whsle,X,423850.0,423850.0
+1391,5087,M2300,Industrial/commercial equipment & materials,Service company eqp whsle,X,425110.0,425110.0
+1392,5087,M2300,Industrial/commercial equipment & materials,Service company eqp whsle,X,425120.0,425120.0
+1393,5087,M2300,Industrial/commercial equipment & materials,Service company eqp whsle,X,446120.0,446120.0
+1394,5088,,Transportation eqp whsle,X,,423860.0,423860.0
+1395,5088,,Transportation eqp whsle,X,,425110.0,425110.0
+1396,5088,,Transportation eqp whsle,X,,425120.0,425120.0
+1397,5091,M3600,Sporting goods sales & manufacturing,"Sporting and recreational goods, whsle",X,423910.0,423910.0
+1398,5091,M3600,Sporting goods sales & manufacturing,"Sporting and recreational goods, whsle",X,425110.0,425110.0
+1399,5091,M3600,Sporting goods sales & manufacturing,"Sporting and recreational goods, whsle",X,425120.0,425120.0
+1400,5091,M3600,Sporting goods sales & manufacturing,"Sporting and recreational goods, whsle",X,451110.0,451110.0
+1401,5092,M3500,Toys,"Toys, hobby goods and supplies, whsle",X,423920.0,423920.0
+1402,5092,M3500,Toys,"Toys, hobby goods and supplies, whsle",X,425110.0,425110.0
+1403,5092,M3500,Toys,"Toys, hobby goods and supplies, whsle",X,425120.0,425120.0
+1404,5092,M3500,Toys,"Toys, hobby goods and supplies, whsle",X,451120.0,451120.0
+1405,5093,M2400,"Recycling of metal, paper, plastics, etc.",Scrap and waste materials,,423930.0,423930.0
+1406,5093,M2400,"Recycling of metal, paper, plastics, etc.",Scrap and waste materials,,425110.0,425110.0
+1407,5093,M2400,"Recycling of metal, paper, plastics, etc.",Scrap and waste materials,,425120.0,425120.0
+1408,5094,M3400,Jewelry,Jewelry & watches whsle,X,423940.0,423940.0
+1409,5094,M3400,Jewelry,Jewelry & watches whsle,X,425110.0,425110.0
+1410,5094,M3400,Jewelry,Jewelry & watches whsle,X,425120.0,425120.0
+1411,5094,M3400,Jewelry,Jewelry & watches whsle,X,448310.0,448310.0
+1412,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,423990.0,423990.0
+1413,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,425110.0,425110.0
+1414,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,425120.0,425120.0
+1415,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,443142.0,451220.0
+1416,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,444190.0,444190.0
+1417,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,451110.0,451110.0
+1418,5099,G3000,Wholesale trade,"Durable goods, NEC, whsle",X,451120.0,451120.0
+1419,5111,M7000,"Paper, glass & packaging materials",Printing paper wholesale,X,424110.0,424110.0
+1420,5111,M7000,"Paper, glass & packaging materials",Printing paper wholesale,X,425110.0,425110.0
+1421,5111,M7000,"Paper, glass & packaging materials",Printing paper wholesale,X,425120.0,425120.0
+1422,5111,M7000,"Paper, glass & packaging materials",Printing paper wholesale,X,453210.0,453210.0
+1423,5112,G3000,Wholesale trade,Stationery supplies whsle,X,424120.0,424120.0
+1424,5112,G3000,Wholesale trade,Stationery supplies whsle,X,425110.0,425110.0
+1425,5112,G3000,Wholesale trade,Stationery supplies whsle,X,425120.0,425120.0
+1426,5112,G3000,Wholesale trade,Stationery supplies whsle,X,453210.0,453210.0
+1427,5113,M7000,"Paper, glass & packaging materials",Industrial paper whsle,X,424130.0,424130.0
+1428,5113,M7000,"Paper, glass & packaging materials",Industrial paper whsle,X,425110.0,425110.0
+1429,5113,M7000,"Paper, glass & packaging materials",Industrial paper whsle,X,425120.0,425120.0
+1430,5113,M7000,"Paper, glass & packaging materials",Industrial paper whsle,X,453998.0,453998.0
+1431,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,424210.0,424210.0
+1432,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,425110.0,425110.0
+1433,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,425120.0,425120.0
+1434,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,446110.0,446110.0
+1435,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,446120.0,446120.0
+1436,5122,H4400,Pharmaceutical wholesale/retail,Drugs & toiletries whsle,,446191.0,446191.0
+1437,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,313310.0,313311.0
+1438,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,313310.0,313312.0
+1439,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,424310.0,424310.0
+1440,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,425110.0,425110.0
+1441,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,425120.0,425120.0
+1442,5131,G3000,Wholesale trade,"Piece goods and notions, whsle",X,451130.0,451130.0
+1443,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,423910.0,423910.0
+1444,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,424320.0,424320.0
+1445,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,425110.0,425110.0
+1446,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,425120.0,425120.0
+1447,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,448110.0,448110.0
+1448,5136,M3100,Clothing & accessories,Men's clothing wholesale,X,448190.0,448190.0
+1449,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,423910.0,423910.0
+1450,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,424330.0,424330.0
+1451,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,425110.0,425110.0
+1452,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,425120.0,425120.0
+1453,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,448120.0,448120.0
+1454,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,448130.0,448130.0
+1455,5137,M3100,Clothing & accessories,"Women's & children's clothing, whsle",X,448190.0,448190.0
+1456,5139,M3200,Shoes & leather products,Footwear wholesale,X,424340.0,424340.0
+1457,5139,M3200,Shoes & leather products,Footwear wholesale,X,425110.0,425110.0
+1458,5139,M3200,Shoes & leather products,Footwear wholesale,X,425120.0,425120.0
+1459,5139,M3200,Shoes & leather products,Footwear wholesale,X,448210.0,448210.0
+1460,5141,G2500,Food wholesalers,"Groceries whsle, general line",X,424410.0,424410.0
+1461,5141,G2500,Food wholesalers,"Groceries whsle, general line",X,425110.0,425110.0
+1462,5141,G2500,Food wholesalers,"Groceries whsle, general line",X,425120.0,425120.0
+1463,5141,G2500,Food wholesalers,"Groceries whsle, general line",X,445110.0,445110.0
+1464,5142,G2500,Food wholesalers,Frozen foods wholesale,X,424420.0,424420.0
+1465,5142,G2500,Food wholesalers,Frozen foods wholesale,X,425110.0,425110.0
+1466,5142,G2500,Food wholesalers,Frozen foods wholesale,X,425120.0,425120.0
+1467,5142,G2500,Food wholesalers,Frozen foods wholesale,X,454390.0,454390.0
+1468,5143,A2000,Milk & dairy producers,Dairy products wholesale,X,424430.0,424430.0
+1469,5143,A2000,Milk & dairy producers,Dairy products wholesale,X,425110.0,425110.0
+1470,5143,A2000,Milk & dairy producers,Dairy products wholesale,X,425120.0,425120.0
+1471,5143,A2000,Milk & dairy producers,Dairy products wholesale,X,445299.0,445299.0
+1472,5144,A2300,Poultry & eggs,Poultry products wholesale,X,424440.0,424440.0
+1473,5144,A2300,Poultry & eggs,Poultry products wholesale,X,425110.0,425110.0
+1474,5144,A2300,Poultry & eggs,Poultry products wholesale,X,425120.0,425120.0
+1475,5144,A2300,Poultry & eggs,Poultry products wholesale,X,445210.0,445210.0
+1476,5145,G2200,Confectionary processors & manufacturers,Confectionery wholesale,X,424450.0,424450.0
+1477,5145,G2200,Confectionary processors & manufacturers,Confectionery wholesale,X,425110.0,425110.0
+1478,5145,G2200,Confectionary processors & manufacturers,Confectionery wholesale,X,425120.0,425120.0
+1479,5145,G2200,Confectionary processors & manufacturers,Confectionery wholesale,X,445292.0,445292.0
+1480,5146,G2350,Fish Processing,Fish and seafoods whsle,X,424460.0,424460.0
+1481,5146,G2350,Fish Processing,Fish and seafoods whsle,X,425110.0,425110.0
+1482,5146,G2350,Fish Processing,Fish and seafoods whsle,X,425120.0,425120.0
+1483,5146,G2350,Fish Processing,Fish and seafoods whsle,X,445220.0,445220.0
+1484,5147,G2300,Meat processing & products,Meat products wholesale,X,311612.0,311612.0
+1485,5147,G2300,Meat processing & products,Meat products wholesale,X,424470.0,424470.0
+1486,5147,G2300,Meat processing & products,Meat products wholesale,X,425110.0,425110.0
+1487,5147,G2300,Meat processing & products,Meat products wholesale,X,425120.0,425120.0
+1488,5147,G2300,Meat processing & products,Meat products wholesale,X,445210.0,445210.0
+1489,5148,A1400,"Vegetables, fruits and tree nut",Fruits & vegetables whsle,X,424480.0,424480.0
+1490,5148,A1400,"Vegetables, fruits and tree nut",Fruits & vegetables whsle,X,425110.0,425110.0
+1491,5148,A1400,"Vegetables, fruits and tree nut",Fruits & vegetables whsle,X,425120.0,425120.0
+1492,5148,A1400,"Vegetables, fruits and tree nut",Fruits & vegetables whsle,X,445230.0,445230.0
+1493,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,312112.0,312112.0
+1494,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,424490.0,424490.0
+1495,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,425110.0,425110.0
+1496,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,425120.0,425120.0
+1497,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,445299.0,445299.0
+1498,5149,G2500,Food wholesalers,"Groceries, NEC, wholesale",X,453910.0,453910.0
+1499,5153,A1500,"Wheat, corn, soybeans and cash grain",Grain and beans wholesale,X,424510.0,424510.0
+1500,5153,A1500,"Wheat, corn, soybeans and cash grain",Grain and beans wholesale,X,425110.0,425110.0
+1501,5153,A1500,"Wheat, corn, soybeans and cash grain",Grain and beans wholesale,X,425120.0,425120.0
+1502,5153,A1500,"Wheat, corn, soybeans and cash grain",Grain and beans wholesale,X,444220.0,444220.0
+1503,5154,A3000,Livestock,Livestock wholesale,X,424520.0,424520.0
+1504,5154,A3000,Livestock,Livestock wholesale,X,425110.0,425110.0
+1505,5154,A3000,Livestock,Livestock wholesale,X,425120.0,425120.0
+1506,5159,A4000,Agricultural services & related industries,"Farmprod raw mtls whsle, NEC",X,424590.0,424590.0
+1507,5159,A4000,Agricultural services & related industries,"Farmprod raw mtls whsle, NEC",X,425110.0,425110.0
+1508,5159,A4000,Agricultural services & related industries,"Farmprod raw mtls whsle, NEC",X,425120.0,425120.0
+1509,5159,A4000,Agricultural services & related industries,"Farmprod raw mtls whsle, NEC",X,444220.0,444220.0
+1510,5162,M1500,Plastics & Rubber processing & products,"Plastics materials and shapes, whsle",X,424610.0,424610.0
+1511,5162,M1500,Plastics & Rubber processing & products,"Plastics materials and shapes, whsle",X,425110.0,425110.0
+1512,5162,M1500,Plastics & Rubber processing & products,"Plastics materials and shapes, whsle",X,425120.0,425120.0
+1513,5162,M1500,Plastics & Rubber processing & products,"Plastics materials and shapes, whsle",X,453998.0,453998.0
+1514,5169,M1000,Chemicals,"Chemicals & allied products, NEC, whsle",X,424690.0,424690.0
+1515,5169,M1000,Chemicals,"Chemicals & allied products, NEC, whsle",X,425110.0,425110.0
+1516,5169,M1000,Chemicals,"Chemicals & allied products, NEC, whsle",X,425120.0,425120.0
+1517,5171,E1160,Petroleum refining & marketing,Petroleum bulk stations & terminals,X,424710.0,424710.0
+1518,5171,E1160,Petroleum refining & marketing,Petroleum bulk stations & terminals,X,454310.0,454311.0
+1519,5171,E1160,Petroleum refining & marketing,Petroleum bulk stations & terminals,X,454310.0,454312.0
+1520,5172,E1160,Petroleum refining & marketing,"Petroleum products whsle, NEC",X,424720.0,424720.0
+1521,5172,E1160,Petroleum refining & marketing,"Petroleum products whsle, NEC",X,425110.0,425110.0
+1522,5172,E1160,Petroleum refining & marketing,"Petroleum products whsle, NEC",X,425120.0,425120.0
+1523,5181,G2850,Liquor wholesalers,Beer and ale wholesale,X,424810.0,424810.0
+1524,5181,G2850,Liquor wholesalers,Beer and ale wholesale,X,425110.0,425110.0
+1525,5181,G2850,Liquor wholesalers,Beer and ale wholesale,X,425120.0,425120.0
+1526,5181,G2850,Liquor wholesalers,Beer and ale wholesale,X,445310.0,445310.0
+1527,5182,G2850,Liquor wholesalers,Wines & spirits wholesale,X,424820.0,424820.0
+1528,5182,G2850,Liquor wholesalers,Wines & spirits wholesale,X,425110.0,425110.0
+1529,5182,G2850,Liquor wholesalers,Wines & spirits wholesale,X,425120.0,425120.0
+1530,5182,G2850,Liquor wholesalers,Wines & spirits wholesale,X,445310.0,445310.0
+1531,5191,A4000,Agricultural services & related industries,Farm supplies wholesale,X,424910.0,424910.0
+1532,5191,A4000,Agricultural services & related industries,Farm supplies wholesale,X,425110.0,425110.0
+1533,5191,A4000,Agricultural services & related industries,Farm supplies wholesale,X,425120.0,425120.0
+1534,5191,A4000,Agricultural services & related industries,Farm supplies wholesale,X,444220.0,444220.0
+1535,5192,C1100,"Book, newspaper & periodical publishing","Books,periodicals,and newspapers, whsle",X,424920.0,424920.0
+1536,5192,C1100,"Book, newspaper & periodical publishing","Books,periodicals,and newspapers, whsle",X,425110.0,425110.0
+1537,5192,C1100,"Book, newspaper & periodical publishing","Books,periodicals,and newspapers, whsle",X,425120.0,425120.0
+1538,5192,C1100,"Book, newspaper & periodical publishing","Books,periodicals,and newspapers, whsle",X,451211.0,451211.0
+1539,5193,A8000,Florists & Nursery Services,"Flowers and florists' supplies, whsle",X,424930.0,424930.0
+1540,5193,A8000,Florists & Nursery Services,"Flowers and florists' supplies, whsle",X,425110.0,425110.0
+1541,5193,A8000,Florists & Nursery Services,"Flowers and florists' supplies, whsle",X,425120.0,425120.0
+1542,5193,A8000,Florists & Nursery Services,"Flowers and florists' supplies, whsle",X,444220.0,444220.0
+1543,5194,A1300,Tobacco & Tobacco products,Tobacco products wholesale,X,424940.0,424940.0
+1544,5194,A1300,Tobacco & Tobacco products,Tobacco products wholesale,X,425110.0,425110.0
+1545,5194,A1300,Tobacco & Tobacco products,Tobacco products wholesale,X,425120.0,425120.0
+1546,5194,A1300,Tobacco & Tobacco products,Tobacco products wholesale,X,453991.0,453991.0
+1547,5198,M1600,"Paints, Solvents and Coatings",Paint products wholesale,X,424950.0,424950.0
+1548,5198,M1600,"Paints, Solvents and Coatings",Paint products wholesale,X,425110.0,425110.0
+1549,5198,M1600,"Paints, Solvents and Coatings",Paint products wholesale,X,425120.0,425120.0
+1550,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,424310.0,424310.0
+1551,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,424340.0,424340.0
+1552,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,424610.0,424610.0
+1553,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,424990.0,424990.0
+1554,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,425110.0,425110.0
+1555,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,425120.0,425120.0
+1556,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,453220.0,453220.0
+1557,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,453910.0,453910.0
+1558,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,453991.0,453991.0
+1559,5199,G3000,Wholesale trade,"Nondurable goods whsle, NEC",X,541890.0,541890.0
+1560,5211,B5200,Lumber and wood products,Lumber & bldg mtls retail,,444110.0,444110.0
+1561,5211,B5200,Lumber and wood products,Lumber & bldg mtls retail,,444190.0,444190.0
+1562,5231,G4500,Hardware & building materials stores,"Paint, glass, and wallpaper stores",X,444120.0,444120.0
+1563,5231,G4500,Hardware & building materials stores,"Paint, glass, and wallpaper stores",X,444190.0,444190.0
+1564,5251,G4500,Hardware & building materials stores,Hardware stores,X,444130.0,444130.0
+1565,5261,G4600,Miscellaneous retail stores,Retail nurseries and garden stores,X,444210.0,444210.0
+1566,5261,G4600,Miscellaneous retail stores,Retail nurseries and garden stores,X,444220.0,444220.0
+1567,5271,F4400,Mobile home dealers & parks,Mobile home dealers,X,453930.0,453930.0
+1568,5311,G4300,"Department, variety & convenience stores",Department stores,X,452111.0,452111.0
+1569,5311,G4300,"Department, variety & convenience stores",Department stores,X,452112.0,452112.0
+1570,5331,G4300,"Department, variety & convenience stores",Variety stores,X,452990.0,452990.0
+1571,5399,G4300,"Department, variety & convenience stores",Miscellaneous general merchandise stores,X,452910.0,452910.0
+1572,5399,G4300,"Department, variety & convenience stores",Miscellaneous general merchandise stores,X,452990.0,452990.0
+1573,5411,G2400,Food stores,Grocery stores,X,445110.0,445110.0
+1574,5411,G2400,Food stores,Grocery stores,X,445120.0,445120.0
+1575,5411,G2400,Food stores,Grocery stores,X,447110.0,447110.0
+1576,5411,G2400,Food stores,Grocery stores,X,452910.0,452910.0
+1577,5411,G2400,Food stores,Grocery stores,X,454390.0,454390.0
+1578,5421,G2400,Food stores,Meat and fish markets,X,445210.0,445210.0
+1579,5421,G2400,Food stores,Meat and fish markets,X,445220.0,445220.0
+1580,5421,G2400,Food stores,Meat and fish markets,X,454390.0,454390.0
+1581,5431,G2400,Food stores,Fruit and vegetable markets,X,445230.0,445230.0
+1582,5431,G2400,Food stores,Fruit and vegetable markets,X,454390.0,454390.0
+1583,5441,G4600,Miscellaneous retail stores,"Candy, nut, and confectionery stores",X,311340.0,311340.0
+1584,5441,G4600,Miscellaneous retail stores,"Candy, nut, and confectionery stores",X,311352.0,311330.0
+1585,5441,G4600,Miscellaneous retail stores,"Candy, nut, and confectionery stores",X,445292.0,445292.0
+1586,5451,A2000,Milk & dairy producers,Dairy products stores,X,445299.0,445299.0
+1587,5461,G2100,Food and kindred products manufacturing,Retail bakeries,X,311811.0,311811.0
+1588,5461,G2100,Food and kindred products manufacturing,Retail bakeries,X,445291.0,445291.0
+1589,5461,G2100,Food and kindred products manufacturing,Retail bakeries,X,722515.0,722213.0
+1590,5499,G4600,Miscellaneous retail stores,Miscellaneous food stores,X,445210.0,445210.0
+1591,5499,G4600,Miscellaneous retail stores,Miscellaneous food stores,X,445299.0,445299.0
+1592,5499,G4600,Miscellaneous retail stores,Miscellaneous food stores,X,446191.0,446191.0
+1593,5511,T2300,"Auto dealers, new & used","Car dealers, new and used",X,441110.0,441110.0
+1594,5521,T2300,"Auto dealers, new & used",Used car dealers,X,441120.0,441120.0
+1595,5531,G4600,Miscellaneous retail stores,Auto and home supply stores,X,441310.0,441310.0
+1596,5531,G4600,Miscellaneous retail stores,Auto and home supply stores,X,441320.0,441320.0
+1597,5531,G4600,Miscellaneous retail stores,Auto and home supply stores,X,452990.0,452990.0
+1598,5541,E1170,Gasoline service stations,Gasoline service stations,,447110.0,447110.0
+1599,5541,E1170,Gasoline service stations,Gasoline service stations,,447190.0,447190.0
+1600,5551,T8300,Pleasure boats,Boat dealers,,441222.0,441222.0
+1601,5561,T8200,Motor homes & camper trailers,Recreational vehicle dealers,X,441210.0,441210.0
+1602,5571,T8100,"Motorcycles, snowmobiles & other motorized vehicle",Motorcycle dealers,X,441228.0,441221.0
+1603,5599,T8100,"Motorcycles, snowmobiles & other motorized vehicle","Automotive dealers, NEC",X,441228.0,441229.0
+1604,5611,G4100,Apparel & accessory stores,Men's & boys' clothing stores,X,448110.0,448110.0
+1605,5611,G4100,Apparel & accessory stores,Men's & boys' clothing stores,X,448150.0,448150.0
+1606,5621,G4100,Apparel & accessory stores,Women's clothing stores,X,448120.0,448120.0
+1607,5621,G4100,Apparel & accessory stores,Women's clothing stores,X,448190.0,448190.0
+1608,5632,G4100,Apparel & accessory stores,Women's accessory and specialty stores,X,448150.0,448150.0
+1609,5632,G4100,Apparel & accessory stores,Women's accessory and specialty stores,X,448190.0,448190.0
+1610,5641,G4100,Apparel & accessory stores,Children's and infants' wear stores,X,448130.0,448130.0
+1611,5651,G4100,Apparel & accessory stores,Family clothing stores,X,448140.0,448140.0
+1612,5661,G4100,Apparel & accessory stores,Shoe stores,X,448210.0,448210.0
+1613,5699,G4100,Apparel & accessory stores,"Apparel & accessory stores, misc",X,315220.0,315222.0
+1614,5699,G4100,Apparel & accessory stores,"Apparel & accessory stores, misc",X,315220.0,315223.0
+1615,5699,G4100,Apparel & accessory stores,"Apparel & accessory stores, misc",X,315240.0,315233.0
+1616,5699,G4100,Apparel & accessory stores,"Apparel & accessory stores, misc",X,448150.0,448150.0
+1617,5699,G4100,Apparel & accessory stores,"Apparel & accessory stores, misc",X,448190.0,448190.0
+1618,5712,G4400,Furniture & appliance stores,Furniture stores,X,337110.0,337110.0
+1619,5712,G4400,Furniture & appliance stores,Furniture stores,X,337121.0,337121.0
+1620,5712,G4400,Furniture & appliance stores,Furniture stores,X,337122.0,337122.0
+1621,5712,G4400,Furniture & appliance stores,Furniture stores,X,442110.0,442110.0
+1622,5713,G4500,Hardware & building materials stores,Floor covering stores,X,442210.0,442210.0
+1623,5714,G4600,Miscellaneous retail stores,Drapery and upholstery stores,X,314120.0,314121.0
+1624,5714,G4600,Miscellaneous retail stores,Drapery and upholstery stores,X,314120.0,314129.0
+1625,5714,G4600,Miscellaneous retail stores,Drapery and upholstery stores,X,442291.0,442291.0
+1626,5714,G4600,Miscellaneous retail stores,Drapery and upholstery stores,X,451130.0,451130.0
+1627,5719,G4600,Miscellaneous retail stores,Misc home furnishings stores,X,327110.0,327112.0
+1628,5719,G4600,Miscellaneous retail stores,Misc home furnishings stores,X,442291.0,442291.0
+1629,5719,G4600,Miscellaneous retail stores,Misc home furnishings stores,X,442299.0,442299.0
+1630,5722,G4400,Furniture & appliance stores,Household appliance stores,X,443141.0,443111.0
+1631,5731,G4200,Consumer electronics & computer stores,"Radio, TV, & electronic stores",,441310.0,441310.0
+1632,5731,G4200,Consumer electronics & computer stores,"Radio, TV, & electronic stores",,443142.0,443112.0
+1633,5734,G4200,"Department, variety & convenience stores",Computer and software stores,X,443142.0,443120.0
+1634,5735,G4600,Miscellaneous retail stores,Record and prerecorded tape stores,X,443142.0,451220.0
+1635,5736,G4600,Miscellaneous retail stores,Musical instrument stores,X,451140.0,451140.0
+1636,5812,G2900,Restaurants & drinking establishments,Eating places,X,711110.0,711110.0
+1637,5812,G2900,Restaurants & drinking establishments,Eating places,X,722310.0,722310.0
+1638,5812,G2900,Restaurants & drinking establishments,Eating places,X,722320.0,722320.0
+1639,5812,G2900,Restaurants & drinking establishments,Eating places,X,722511.0,722110.0
+1640,5812,G2900,Restaurants & drinking establishments,Eating places,X,722513.0,722211.0
+1641,5812,G2900,Restaurants & drinking establishments,Eating places,X,722514.0,722212.0
+1642,5812,G2900,Restaurants & drinking establishments,Eating places,X,722515.0,722213.0
+1643,5813,G2900,Restaurants & drinking establishments,Drinking places,X,722410.0,722410.0
+1644,5912,G4900,Drug stores,Drug stores and proprietary stores,,446110.0,446110.0
+1645,5921,G2840,Liquor stores,Liquor stores,,445310.0,445310.0
+1646,5932,G4600,Miscellaneous retail stores,Used merchandise stores,X,453310.0,453310.0
+1647,5932,G4600,Miscellaneous retail stores,Used merchandise stores,X,522298.0,522298.0
+1648,5941,M3600,Sporting goods sales & manufacturing,Sporting goods and bicycle shops,X,451110.0,451110.0
+1649,5942,G4600,Miscellaneous retail stores,Book stores,X,451211.0,451211.0
+1650,5943,G4600,Miscellaneous retail stores,Stationery stores,X,453210.0,453210.0
+1651,5944,G4600,Miscellaneous retail stores,Jewelry stores,X,448310.0,448310.0
+1652,5945,G4600,Miscellaneous retail stores,"Hobby, toy, and game shops",X,451120.0,451120.0
+1653,5946,G4600,Miscellaneous retail stores,Camera & photographic supply stores,X,443142.0,443130.0
+1654,5947,G4600,Miscellaneous retail stores,"Gift, novelty, and souvenir shops",X,453220.0,453220.0
+1655,5948,G4600,Miscellaneous retail stores,Luggage and leather goods stores,X,448320.0,448320.0
+1656,5949,G4600,Miscellaneous retail stores,"Sewing, needlework, and piece goods",X,451130.0,451130.0
+1657,5961,G4700,Catalog & mail order houses,Catalog and mailorder houses,,454111.0,454111.0
+1658,5961,G4700,Catalog & mail order houses,Catalog and mailorder houses,,454112.0,454112.0
+1659,5961,G4700,Catalog & mail order houses,Catalog and mailorder houses,,454113.0,454113.0
+1660,5962,G4850,Vending Machine Sales & Services,Vending machine operators,,454210.0,454210.0
+1661,5963,G4800,Direct sales,Direct selling organizations,,454390.0,454390.0
+1662,5963,G4800,Direct sales,Direct selling organizations,,722330.0,722330.0
+1663,5983,E1180,Fuel oil dealers,Fuel oil dealers,X,454310.0,454311.0
+1664,5984,E1190,LPG/Liquid Propane dealers & producers,Liquified petroleum gas dealers,,454310.0,454312.0
+1665,5989,E1180,Fuel oil dealers,"Fuel dealers, NEC",X,454310.0,454319.0
+1666,5992,A8000,Florists & Nursery Services,Florists,X,453110.0,453110.0
+1667,5993,G4600,Miscellaneous retail stores,Tobacco stores and stands,X,453991.0,453991.0
+1668,5994,G4600,Miscellaneous retail stores,News dealers and newsstands,X,451212.0,451212.0
+1669,5995,H3300,Optical services (glasses & contact lenses),Optical goods stores,,339115.0,339115.0
+1670,5995,H3300,Optical services (glasses & contact lenses),Optical goods stores,,446130.0,446130.0
+1671,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,339113.0,339113.0
+1672,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,443142.0,443112.0
+1673,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,446120.0,446120.0
+1674,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,446199.0,446199.0
+1675,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,453910.0,453910.0
+1676,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,453920.0,453920.0
+1677,5999,G4600,Miscellaneous retail stores,Retail stores miscellaneous,X,453998.0,453998.0
+1678,6011,F1100,Commercial banks & bank holding companies,Federal Reserve banks,X,521110.0,521110.0
+1679,6019,F1100,Commercial banks & bank holding companies,"Central reserve depository, NEC",X,522298.0,522298.0
+1680,6021,F1100,Commercial banks & bank holding companies,National commercial banks,X,522110.0,522110.0
+1681,6021,F1100,Commercial banks & bank holding companies,National commercial banks,X,522210.0,522210.0
+1682,6022,F1100,Commercial banks & bank holding companies,State commercial banks,X,522110.0,522110.0
+1683,6022,F1100,Commercial banks & bank holding companies,State commercial banks,X,522190.0,522190.0
+1684,6022,F1100,Commercial banks & bank holding companies,State commercial banks,X,522210.0,522210.0
+1685,6029,F1100,Commercial banks & bank holding companies,"Commercial banks, NEC",X,522110.0,522110.0
+1686,6035,F1200,Savings banks & Savings and Loans,Federal savings institutions,X,522120.0,522120.0
+1687,6036,F1200,Savings banks & Savings and Loans,"Savings institutions, except federal",X,522120.0,522120.0
+1688,6061,F1300,Credit unions,Federal credit unions,X,522130.0,522130.0
+1689,6062,F1300,Credit unions,State credit unions,X,522130.0,522130.0
+1690,6081,F1100,Commercial banks & bank holding companies,Branches and agencies of foreign banks,X,522110.0,522110.0
+1691,6081,F1100,Commercial banks & bank holding companies,Branches and agencies of foreign banks,X,522293.0,522293.0
+1692,6081,F1100,Commercial banks & bank holding companies,Branches and agencies of foreign banks,X,522298.0,522298.0
+1693,6082,F1100,Commercial banks & bank holding companies,Foreign trade and international banks,X,522293.0,522293.0
+1694,6082,F1100,Commercial banks & bank holding companies,Foreign trade and international banks,X,522298.0,522298.0
+1695,6091,F1100,Commercial banks & bank holding companies,Nondeposit trust facilities,X,523991.0,523991.0
+1696,6099,F1000,Banks & lending institutions,Functions related to deposit banking,,522320.0,522320.0
+1697,6099,F1000,Banks & lending institutions,Functions related to deposit banking,,522390.0,522390.0
+1698,6099,F1000,Banks & lending institutions,Functions related to deposit banking,,523130.0,523130.0
+1699,6099,F1000,Banks & lending institutions,Functions related to deposit banking,,523991.0,523991.0
+1700,6111,F1400,Credit agencies & finance companies,Federal & fedsponsored credit agencies,X,522292.0,522292.0
+1701,6111,F1400,Credit agencies & finance companies,Federal & fedsponsored credit agencies,X,522293.0,522293.0
+1702,6111,F1400,Credit agencies & finance companies,Federal & fedsponsored credit agencies,X,522294.0,522294.0
+1703,6111,F1400,Credit agencies & finance companies,Federal & fedsponsored credit agencies,X,522298.0,522298.0
+1704,6141,F1400,Credit agencies & finance companies,Personal credit institutions,X,522210.0,522210.0
+1705,6141,F1400,Credit agencies & finance companies,Personal credit institutions,X,522220.0,522220.0
+1706,6141,F1400,Credit agencies & finance companies,Personal credit institutions,X,522291.0,522291.0
+1707,6141,F1400,Credit agencies & finance companies,Personal credit institutions,X,522298.0,522298.0
+1708,6153,F1400,Credit agencies & finance companies,Shortterm business credit,X,522210.0,522210.0
+1709,6153,F1400,Credit agencies & finance companies,Shortterm business credit,X,522220.0,522220.0
+1710,6153,F1400,Credit agencies & finance companies,Shortterm business credit,X,522298.0,522298.0
+1711,6153,F1400,Credit agencies & finance companies,Shortterm business credit,X,522320.0,522320.0
+1712,6153,F1400,Credit agencies & finance companies,Shortterm business credit,X,523910.0,523910.0
+1713,6159,F1400,Credit agencies & finance companies,"Business credit institutions, misc",X,522220.0,522220.0
+1714,6159,F1400,Credit agencies & finance companies,"Business credit institutions, misc",X,522292.0,522292.0
+1715,6159,F1400,Credit agencies & finance companies,"Business credit institutions, misc",X,522293.0,522293.0
+1716,6159,F1400,Credit agencies & finance companies,"Business credit institutions, misc",X,522294.0,522294.0
+1717,6159,F1400,Credit agencies & finance companies,"Business credit institutions, misc",X,522298.0,522298.0
+1718,6162,F4600,Mortgage bankers and brokers,Mortgage bankers and correspondents,,522292.0,522292.0
+1719,6162,F4600,Mortgage bankers and brokers,Mortgage bankers and correspondents,,522390.0,522390.0
+1720,6798,F4100,Real Estate developers & subdividers,Real estate investment trusts,X,,
+1721,6799,F7000,Investors,"Investors, NEC",,523130.0,523130.0
+1722,6799,F7000,Investors,"Investors, NEC",,523910.0,523910.0
+1723,6799,F7000,Investors,"Investors, NEC",,523920.0,523920.0
+1724,7011,T9100,Hotels & motels,Hotels and motels,X,721110.0,721110.0
+1725,7011,T9100,Hotels & motels,Hotels and motels,X,721120.0,721120.0
+1726,7011,T9100,Hotels & motels,Hotels and motels,X,721191.0,721191.0
+1727,7011,T9100,Hotels & motels,Hotels and motels,X,721199.0,721199.0
+1728,7021,T9100,Hotels & motels,Rooming and boarding houses,X,721310.0,721310.0
+1729,7032,T9000,Lodging & tourism,Sporting and recreational camps,X,721214.0,721214.0
+1730,7033,T9000,Lodging & tourism,Trailer parks and campsites,X,721211.0,721211.0
+1731,7041,T9100,Hotels & motels,Membershipbasis organization hotels,X,721110.0,721110.0
+1732,7041,T9100,Hotels & motels,Membershipbasis organization hotels,X,721310.0,721310.0
+1733,7211,G5500,Laundries & dry cleaners,"Power laundries, family & commercial",X,812320.0,812320.0
+1734,7212,G5500,Laundries & dry cleaners,Garment pressing & cleaners' agents,X,812320.0,812320.0
+1735,7213,G5500,Laundries & dry cleaners,Linen supply,X,812331.0,812331.0
+1736,7215,G5500,Laundries & dry cleaners,Coinoperated laundries and cleaning,X,812310.0,812310.0
+1737,7216,G5500,Laundries & dry cleaners,"Dry cleaning plants, except rug",X,812320.0,812320.0
+1738,7217,G5500,Laundries & dry cleaners,Carpet and upholstery cleaning,X,561740.0,561740.0
+1739,7218,G5500,Laundries & dry cleaners,Industrial launderers,X,812332.0,812332.0
+1740,7219,G5500,Laundries & dry cleaners,"Laundry and garment services, NEC",X,811490.0,811490.0
+1741,7219,G5500,Laundries & dry cleaners,"Laundry and garment services, NEC",X,812320.0,812320.0
+1742,7219,G5500,Laundries & dry cleaners,"Laundry and garment services, NEC",X,812331.0,812331.0
+1743,7221,G5240,"Commercial photography, art & graphic design","Photographic studios, portrait",X,541921.0,541921.0
+1744,7231,G5100,Beauty & barber shops,Beauty shops,X,611511.0,611511.0
+1745,7231,G5100,Beauty & barber shops,Beauty shops,X,812112.0,812112.0
+1746,7231,G5100,Beauty & barber shops,Beauty shops,X,812113.0,812113.0
+1747,7241,G5100,Beauty & barber shops,Barber shops,X,611511.0,611511.0
+1748,7241,G5100,Beauty & barber shops,Barber shops,X,812111.0,812111.0
+1749,7251,G5600,Miscellaneous repair services,Shoe repair and shoeshine parlors,X,811430.0,811430.0
+1750,7251,G5600,Miscellaneous repair services,Shoe repair and shoeshine parlors,X,812320.0,812320.0
+1751,7251,G5600,Miscellaneous repair services,Shoe repair and shoeshine parlors,X,812990.0,812990.0
+1752,7261,G5400,Funeral services,Funeral service and crematories,X,812210.0,812210.0
+1753,7261,G5400,Funeral services,Funeral service and crematories,X,812220.0,812220.0
+1754,7291,F5300,Tax return services,Tax return preparation services,,541213.0,541213.0
+1755,7299,G5000,Services,Miscellaneous personal services,X,532220.0,532220.0
+1756,7299,G5000,Services,Miscellaneous personal services,X,541990.0,541990.0
+1757,7299,G5000,Services,Miscellaneous personal services,X,561990.0,561990.0
+1758,7299,G5000,Services,Miscellaneous personal services,X,812191.0,812191.0
+1759,7299,G5000,Services,Miscellaneous personal services,X,812199.0,812199.0
+1760,7299,G5000,Services,Miscellaneous personal services,X,812930.0,812930.0
+1761,7299,G5000,Services,Miscellaneous personal services,X,812990.0,812990.0
+1762,7311,G5210,Advertising & public relations services,Advertising agencies,X,541810.0,541810.0
+1763,7312,G5230,Outdoor advertising services,Outdoor advertising services,,541850.0,541850.0
+1764,7313,G5210,Advertising & public relations services,"Radio, TV, publisher representatives",X,541840.0,541840.0
+1765,7319,G5210,Advertising & public relations services,"Advertising, NEC",X,481219.0,481219.0
+1766,7319,G5210,Advertising & public relations services,"Advertising, NEC",X,541830.0,541830.0
+1767,7319,G5210,Advertising & public relations services,"Advertising, NEC",X,541850.0,541850.0
+1768,7319,G5210,Advertising & public relations services,"Advertising, NEC",X,541870.0,541870.0
+1769,7319,G5210,Advertising & public relations services,"Advertising, NEC",X,541890.0,541890.0
+1770,7322,F5200,Credit reporting services & collection agencies,Adjustment and collection services,X,561440.0,561440.0
+1771,7323,F5200,Credit reporting services & collection agencies,Credit reporting services,X,561450.0,561450.0
+1772,7331,G5220,Direct mail advertising services,Direct mail advertising services,,511140.0,511140.0
+1773,7331,G5220,Direct mail advertising services,Direct mail advertising services,,541860.0,541860.0
+1774,7334,G5000,Services,Photocopying & duplicating services,X,323111.0,323114.0
+1775,7334,G5000,Services,Photocopying & duplicating services,X,561439.0,561439.0
+1776,7335,G5240,"Commercial photography, art & graphic design",Commercial photography,X,481219.0,481219.0
+1777,7335,G5240,"Commercial photography, art & graphic design",Commercial photography,X,541922.0,541922.0
+1778,7336,G5240,"Commercial photography, art & graphic design",Commercial art and graphic design,X,541430.0,541430.0
+1779,7338,G5200,Business services,Secretarial & court reporting,X,561410.0,561410.0
+1780,7338,G5200,Business services,Secretarial & court reporting,X,561492.0,561492.0
+1781,7342,G5700,Pest control,Disinfecting and exterminating,,561710.0,561710.0
+1782,7342,G5700,Pest control,Disinfecting and exterminating,,561720.0,561720.0
+1783,7349,G5200,Business services,"Building maintenance services, NEC",X,561720.0,561720.0
+1784,7349,G5200,Business services,"Building maintenance services, NEC",X,561790.0,561790.0
+1785,7352,H4100,Medical supplies manufacturing & sales,Medical equipment rental,X,532291.0,532291.0
+1786,7352,H4100,Medical supplies manufacturing & sales,Medical equipment rental,X,532490.0,532490.0
+1787,7353,B6000,Construction equipment,Heavy construction equipment rental,X,238910.0,238910.0
+1788,7353,B6000,Construction equipment,Heavy construction equipment rental,X,238990.0,238990.0
+1789,7353,B6000,Construction equipment,Heavy construction equipment rental,X,532412.0,532412.0
+1790,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532210.0,532210.0
+1791,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532299.0,532299.0
+1792,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532310.0,532310.0
+1793,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532411.0,532411.0
+1794,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532412.0,532412.0
+1795,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532420.0,532420.0
+1796,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,532490.0,532490.0
+1797,7359,G5300,Equipment rental & leasing,"Equipment rental & leasing, NEC",X,562991.0,562991.0
+1798,7361,G5250,Employment agencies,Employment agencies,X,541612.0,541612.0
+1799,7363,G5250,Employment agencies,Help supply services,X,561320.0,561320.0
+1800,7363,G5250,Employment agencies,Help supply services,X,561330.0,561330.0
+1801,7371,C5130,Data processing & computer services,Computer programming services,X,541511.0,541511.0
+1802,7372,C5120,Computer software,Prepackaged software,,334614.0,334611.0
+1803,7372,C5120,Computer software,Prepackaged software,,511210.0,511210.0
+1804,7373,C5130,Data processing & computer services,Computer integrated systems design,X,541512.0,541512.0
+1805,7374,C5130,Data processing & computer services,Data processing and preparation,X,518210.0,518210.0
+1806,7375,C5130,Data processing & computer services,Information retrieval services,X,,
+1807,7376,C5130,Data processing & computer services,Computer facilities management,X,541513.0,541513.0
+1808,7377,C5100,Computer manufacture & services,Computer rental and leasing,X,532420.0,532420.0
+1809,7378,C5100,Computer manufacture & services,Computer maintenance and repair,X,443142.0,443120.0
+1810,7378,C5100,Computer manufacture & services,Computer maintenance and repair,X,811212.0,811212.0
+1811,7379,C5130,Data processing & computer services,"Computer related services, NEC",X,518210.0,518210.0
+1812,7379,C5130,Data processing & computer services,"Computer related services, NEC",X,541512.0,541512.0
+1813,7379,C5130,Data processing & computer services,"Computer related services, NEC",X,541519.0,541519.0
+1814,7381,G5290,Security services,"Detective, guard, & armored car svcs",X,561611.0,561611.0
+1815,7381,G5290,Security services,"Detective, guard, & armored car svcs",X,561612.0,561612.0
+1816,7381,G5290,Security services,"Detective, guard, & armored car svcs",X,561613.0,561613.0
+1817,7382,G5290,Security services,Security systems services,X,561621.0,561621.0
+1818,7383,C1100,"Book, newspaper & periodical publishing",News syndicates,X,519110.0,519110.0
+1819,7383,C1100,"Book, newspaper & periodical publishing",News syndicates,X,711510.0,711510.0
+1820,7384,G5000,Services,Photofinishing laboratories,X,812921.0,812921.0
+1821,7384,G5000,Services,Photofinishing laboratories,X,812922.0,812922.0
+1822,7389,G5200,Business services,"Business services, NEC",X,312230.0,312229.0
+1823,7389,G5200,Business services,"Business services, NEC",X,313310.0,313311.0
+1824,7389,G5200,Business services,"Business services, NEC",X,314999.0,314999.0
+1825,7389,G5200,Business services,"Business services, NEC",X,325998.0,325998.0
+1826,7389,G5200,Business services,"Business services, NEC",X,425120.0,425120.0
+1827,7389,G5200,Business services,"Business services, NEC",X,488490.0,488490.0
+1828,7389,G5200,Business services,"Business services, NEC",X,491110.0,491110.0
+1829,7389,G5200,Business services,"Business services, NEC",X,512240.0,512240.0
+1830,7389,G5200,Business services,"Business services, NEC",X,512290.0,512290.0
+1831,7389,G5200,Business services,"Business services, NEC",X,518210.0,518210.0
+1832,7389,G5200,Business services,"Business services, NEC",X,519190.0,519190.0
+1833,7389,G5200,Business services,"Business services, NEC",X,522320.0,522320.0
+1834,7389,G5200,Business services,"Business services, NEC",X,541199.0,541199.0
+1835,7389,G5200,Business services,"Business services, NEC",X,541340.0,541340.0
+1836,7389,G5200,Business services,"Business services, NEC",X,541350.0,541350.0
+1837,7389,G5200,Business services,"Business services, NEC",X,541370.0,541370.0
+1838,7389,G5200,Business services,"Business services, NEC",X,541410.0,541410.0
+1839,7389,G5200,Business services,"Business services, NEC",X,541420.0,541420.0
+1840,7389,G5200,Business services,"Business services, NEC",X,541490.0,541490.0
+1841,7389,G5200,Business services,"Business services, NEC",X,541870.0,541870.0
+1842,7389,G5200,Business services,"Business services, NEC",X,541890.0,541890.0
+1843,7389,G5200,Business services,"Business services, NEC",X,541930.0,541930.0
+1844,7389,G5200,Business services,"Business services, NEC",X,541990.0,541990.0
+1845,7389,G5200,Business services,"Business services, NEC",X,561410.0,561410.0
+1846,7389,G5200,Business services,"Business services, NEC",X,561421.0,561421.0
+1847,7389,G5200,Business services,"Business services, NEC",X,561422.0,561422.0
+1848,7389,G5200,Business services,"Business services, NEC",X,561431.0,561431.0
+1849,7389,G5200,Business services,"Business services, NEC",X,561439.0,561439.0
+1850,7389,G5200,Business services,"Business services, NEC",X,561440.0,561440.0
+1851,7389,G5200,Business services,"Business services, NEC",X,561491.0,561491.0
+1852,7389,G5200,Business services,"Business services, NEC",X,561499.0,561499.0
+1853,7389,G5200,Business services,"Business services, NEC",X,561591.0,561591.0
+1854,7389,G5200,Business services,"Business services, NEC",X,561599.0,561599.0
+1855,7389,G5200,Business services,"Business services, NEC",X,561790.0,561790.0
+1856,7389,G5200,Business services,"Business services, NEC",X,561910.0,561910.0
+1857,7389,G5200,Business services,"Business services, NEC",X,561920.0,561920.0
+1858,7389,G5200,Business services,"Business services, NEC",X,561990.0,561990.0
+1859,7389,G5200,Business services,"Business services, NEC",X,711310.0,711310.0
+1860,7389,G5200,Business services,"Business services, NEC",X,711320.0,711320.0
+1861,7389,G5200,Business services,"Business services, NEC",X,711410.0,711410.0
+1862,7389,G5200,Business services,"Business services, NEC",X,812320.0,812320.0
+1863,7389,G5200,Business services,"Business services, NEC",X,812990.0,812990.0
+1864,7513,T2500,Car & truck rental agencies,Truck rental and leasing,X,532120.0,532120.0
+1865,7514,T2500,Car & truck rental agencies,Passenger car rental,X,532111.0,532111.0
+1866,7515,T2500,Car & truck rental agencies,Passenger car leasing,X,532112.0,532112.0
+1867,7519,G5300,Equipment rental & leasing,Utility trailer rental,X,532120.0,532120.0
+1868,7521,F4500,Building operators and managers,Automobile parking,X,812930.0,812930.0
+1869,7532,T2400,Auto repair,Top & body repair & paint shops,X,811121.0,811121.0
+1870,7533,T2400,Auto repair,Auto exhaust system repair shops,X,811112.0,811112.0
+1871,7534,T2400,Auto repair,Tire retreading and repair shops,X,326212.0,326212.0
+1872,7534,T2400,Auto repair,Tire retreading and repair shops,X,811198.0,811198.0
+1873,7536,T2400,Auto repair,Automotive glass replacement shops,X,811122.0,811122.0
+1874,7537,T2400,Auto repair,Automotive transmission repair shops,X,811113.0,811113.0
+1875,7538,T2400,Auto repair,General automotive repair shops,X,811111.0,811111.0
+1876,7539,T2400,Auto repair,"Automotive repair shops, NEC",X,811118.0,811118.0
+1877,7539,T2400,Auto repair,"Automotive repair shops, NEC",X,811198.0,811198.0
+1878,7542,T2000,Automotive & Trucking,Car washes,X,811192.0,811192.0
+1879,7549,T2000,Automotive & Trucking,"Automotive services, NEC",X,488410.0,488410.0
+1880,7549,T2000,Automotive & Trucking,"Automotive services, NEC",X,811122.0,811122.0
+1881,7549,T2000,Automotive & Trucking,"Automotive services, NEC",X,811191.0,811191.0
+1882,7549,T2000,Automotive & Trucking,"Automotive services, NEC",X,811198.0,811198.0
+1883,7622,G5600,Miscellaneous repair services,Radio and television repair,X,238290.0,238290.0
+1884,7622,G5600,Miscellaneous repair services,Radio and television repair,X,443142.0,443112.0
+1885,7622,G5600,Miscellaneous repair services,Radio and television repair,X,811211.0,811211.0
+1886,7622,G5600,Miscellaneous repair services,Radio and television repair,X,811213.0,811213.0
+1887,7623,G5600,Miscellaneous repair services,Refrigeration service and repair,X,443141.0,443111.0
+1888,7623,G5600,Miscellaneous repair services,Refrigeration service and repair,X,811310.0,811310.0
+1889,7623,G5600,Miscellaneous repair services,Refrigeration service and repair,X,811412.0,811412.0
+1890,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,443141.0,443111.0
+1891,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,811211.0,811211.0
+1892,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,811212.0,811212.0
+1893,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,811213.0,811213.0
+1894,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,811219.0,811219.0
+1895,7629,G5600,Miscellaneous repair services,"Electrical repair shops, NEC",X,811412.0,811412.0
+1896,7631,G5600,Miscellaneous repair services,"Watch, clock, and jewelry repair",X,448310.0,448310.0
+1897,7631,G5600,Miscellaneous repair services,"Watch, clock, and jewelry repair",X,811490.0,811490.0
+1898,7641,G5600,Miscellaneous repair services,Reupholstery and furniture repair,X,811420.0,811420.0
+1899,7692,G5600,Miscellaneous repair services,Welding repair,X,811310.0,811310.0
+1900,7694,G5600,Miscellaneous repair services,Armature rewinding shops,X,335312.0,335312.0
+1901,7694,G5600,Miscellaneous repair services,Armature rewinding shops,X,811310.0,811310.0
+1902,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,115210.0,115210.0
+1903,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,238220.0,238220.0
+1904,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,442299.0,442299.0
+1905,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,444130.0,444130.0
+1906,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,444210.0,444210.0
+1907,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,451110.0,451110.0
+1908,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,488390.0,488390.0
+1909,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,561622.0,561622.0
+1910,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,561790.0,561790.0
+1911,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,562991.0,562991.0
+1912,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,562998.0,562998.0
+1913,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,711510.0,711510.0
+1914,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811211.0,811211.0
+1915,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811212.0,811212.0
+1916,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811219.0,811219.0
+1917,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811310.0,811310.0
+1918,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811411.0,811411.0
+1919,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811412.0,811412.0
+1920,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811430.0,811430.0
+1921,7699,G5600,Miscellaneous repair services,"Repair services, NEC",X,811490.0,811490.0
+1922,7812,C2400,Motion picture/TV production & distribution,Motion picture & video production,X,512110.0,512110.0
+1923,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,334614.0,334612.0
+1924,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,512191.0,512191.0
+1925,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,512199.0,512199.0
+1926,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,532220.0,532220.0
+1927,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,532490.0,532490.0
+1928,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,541214.0,541214.0
+1929,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,541690.0,541690.0
+1930,7819,C2400,Motion picture/TV production & distribution,Services allied to motion pictures,X,711510.0,711510.0
+1931,7822,C2400,Motion picture/TV production & distribution,Motion picture and tape distribution,X,423990.0,423990.0
+1932,7822,C2400,Motion picture/TV production & distribution,Motion picture and tape distribution,X,512120.0,512120.0
+1933,7829,C2400,Motion picture/TV production & distribution,Motion picture distribution services,X,512120.0,512120.0
+1934,7829,C2400,Motion picture/TV production & distribution,Motion picture distribution services,X,512199.0,512199.0
+1935,7829,C2400,Motion picture/TV production & distribution,Motion picture distribution services,X,519120.0,519120.0
+1936,7832,C2700,Movie Theaters,"Motion picture theaters, ex drivein",X,512131.0,512131.0
+1937,7833,C2700,Movie Theaters,Drivein motion picture theaters,X,512132.0,512132.0
+1938,7841,G6800,Video tape rental,Video tape rental,,532230.0,532230.0
+1939,7911,G6100,Amusement/recreation centers,"Dance halls, studios, and schools",X,611610.0,611610.0
+1940,7911,G6100,Amusement/recreation centers,"Dance halls, studios, and schools",X,713990.0,713990.0
+1941,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,512290.0,512290.0
+1942,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,532490.0,532490.0
+1943,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,561599.0,561599.0
+1944,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711110.0,711110.0
+1945,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711120.0,711120.0
+1946,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711310.0,711310.0
+1947,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711320.0,711320.0
+1948,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711410.0,711410.0
+1949,7922,C2900,Live theater & other entertainment productions,Theatrical producers and services,,711510.0,711510.0
+1950,7929,C2800,"Bands, orchestras & other live music production",Entertainers & entertainment groups,,711130.0,711130.0
+1951,7929,C2800,"Bands, orchestras & other live music production",Entertainers & entertainment groups,,711190.0,711190.0
+1952,7929,C2800,"Bands, orchestras & other live music production",Entertainers & entertainment groups,,711510.0,711510.0
+1953,7933,G6100,Amusement/recreation centers,Bowling alleys,X,713950.0,713950.0
+1954,7941,G6400,"Professional sports, arenas & related equip & svcs","Sports clubs, managers, & promoters",,711211.0,711211.0
+1955,7941,G6400,"Professional sports, arenas & related equip & svcs","Sports clubs, managers, & promoters",,711310.0,711310.0
+1956,7941,G6400,"Professional sports, arenas & related equip & svcs","Sports clubs, managers, & promoters",,711320.0,711320.0
+1957,7941,G6400,"Professional sports, arenas & related equip & svcs","Sports clubs, managers, & promoters",,711410.0,711410.0
+1958,7948,G6500,"Casinos, racetracks & gambling","Racing, including track operation",,711212.0,711212.0
+1959,7948,G6500,"Casinos, racetracks & gambling","Racing, including track operation",,711219.0,711219.0
+1960,7991,G5800,Physical fitness centers,Physical fitness facilities,,713940.0,713940.0
+1961,7992,G6100,Amusement/recreation centers,Public golf courses,X,713910.0,713910.0
+1962,7993,G6100,Amusement/recreation centers,Coinoperated amusement devices,X,713120.0,713120.0
+1963,7993,G6100,Amusement/recreation centers,Coinoperated amusement devices,X,713290.0,713290.0
+1964,7993,G6100,Amusement/recreation centers,Coinoperated amusement devices,X,713990.0,713990.0
+1965,7996,G6700,Amusement parks,Amusement parks,,713110.0,713110.0
+1966,7997,G6100,Amusement/recreation centers,Membership sports & recreation clubs,X,481219.0,481219.0
+1967,7997,G6100,Amusement/recreation centers,Membership sports & recreation clubs,X,488119.0,488119.0
+1968,7997,G6100,Amusement/recreation centers,Membership sports & recreation clubs,X,713910.0,713910.0
+1969,7997,G6100,Amusement/recreation centers,Membership sports & recreation clubs,X,713940.0,713940.0
+1970,7997,G6100,Amusement/recreation centers,Membership sports & recreation clubs,X,713990.0,713990.0
+1971,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,487110.0,487110.0
+1972,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,487210.0,487210.0
+1973,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,487990.0,487990.0
+1974,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,532292.0,532292.0
+1975,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,561599.0,561599.0
+1976,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,611620.0,611620.0
+1977,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,611699.0,611699.0
+1978,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,711190.0,711190.0
+1979,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,711219.0,711219.0
+1980,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,711310.0,711310.0
+1981,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,711320.0,711320.0
+1982,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,712190.0,712190.0
+1983,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,713210.0,713210.0
+1984,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,713290.0,713290.0
+1985,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,713920.0,713920.0
+1986,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,713940.0,713940.0
+1987,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,713990.0,713990.0
+1988,7999,G6100,Amusement/recreation centers,"Amusement and recreation, NEC",X,812990.0,812990.0
+1989,8011,H1100,Physicians,Offices & clinics of medical doctors,,621111.0,621111.0
+1990,8011,H1100,Physicians,Offices & clinics of medical doctors,,621112.0,621112.0
+1991,8011,H1100,Physicians,Offices & clinics of medical doctors,,621491.0,621491.0
+1992,8011,H1100,Physicians,Offices & clinics of medical doctors,,621493.0,621493.0
+1993,8021,H1400,Dentists,Offices and clinics of dentists,,621210.0,621210.0
+1994,8031,H1130,Other physician specialists,Offices of osteopathic physicians,X,621111.0,621111.0
+1995,8031,H1130,Other physician specialists,Offices of osteopathic physicians,X,621112.0,621112.0
+1996,8041,H1500,Chiropractors,Offices and clinics of chiropractors,,621310.0,621310.0
+1997,8042,H1120,Optometrists & Ophthalmologists,Offices and clinics of optometrists,,621320.0,621320.0
+1998,8043,H1130,Other physician specialists,Offices and clinics of podiatrists,X,621391.0,621391.0
+1999,8049,H1700,Other non-physician health practitioners,"Offices of health practitioners, NEC",,621330.0,621330.0
+2000,8049,H1700,Other non-physician health practitioners,"Offices of health practitioners, NEC",,621340.0,621340.0
+2001,8049,H1700,Other non-physician health practitioners,"Offices of health practitioners, NEC",,621399.0,621399.0
+2002,8051,H2200,Nursing homes,Skilled nursing care facilities,X,623110.0,623110.0
+2003,8051,H2200,Nursing homes,Skilled nursing care facilities,X,623210.0,623210.0
+2004,8051,H2200,Nursing homes,Skilled nursing care facilities,X,623311.0,623311.0
+2005,8052,H2200,Nursing homes,Intermediate care facilities,X,623110.0,623110.0
+2006,8052,H2200,Nursing homes,Intermediate care facilities,X,623210.0,623210.0
+2007,8052,H2200,Nursing homes,Intermediate care facilities,X,623311.0,623311.0
+2008,8059,H3000,Health care services,"Nursing and personal care, NEC",,623110.0,623110.0
+2009,8059,H3000,Health care services,"Nursing and personal care, NEC",,623210.0,623210.0
+2010,8059,H3000,Health care services,"Nursing and personal care, NEC",,623311.0,623311.0
+2011,8062,H2100,Hospitals,"Hospitals, general medical & surgical",X,622110.0,622110.0
+2012,8063,H2100,Hospitals,Psychiatric hospitals,X,622210.0,622210.0
+2013,8069,H2100,Hospitals,"Specialty hospitals, exc psychiatric",X,622110.0,622110.0
+2014,8069,H2100,Hospitals,"Specialty hospitals, exc psychiatric",X,622210.0,622210.0
+2015,8069,H2100,Hospitals,"Specialty hospitals, exc psychiatric",X,622310.0,622310.0
+2016,8071,H3400,Medical laboratories,Medical laboratories,X,621511.0,621511.0
+2017,8071,H3400,Medical laboratories,Medical laboratories,X,621512.0,621512.0
+2018,8072,H3400,Medical laboratories,Dental laboratories,X,339116.0,339116.0
+2019,8082,H3100,Home care services,Home health care services,,621610.0,621610.0
+2020,8092,H3200,Outpatient health services (incl drug & alcohol),Kidney dialysis centers,X,621492.0,621492.0
+2021,8093,H3200,Outpatient health services (incl drug & alcohol),"Specialty outpatient facilities, NEC",X,621399.0,621399.0
+2022,8093,H3200,Outpatient health services (incl drug & alcohol),"Specialty outpatient facilities, NEC",X,621410.0,621410.0
+2023,8093,H3200,Outpatient health services (incl drug & alcohol),"Specialty outpatient facilities, NEC",X,621420.0,621420.0
+2024,8093,H3200,Outpatient health services (incl drug & alcohol),"Specialty outpatient facilities, NEC",X,621498.0,621498.0
+2025,8099,H0000,"Health, Education & Human Resources","Health and allied services, NEC",,541430.0,541430.0
+2026,8099,H0000,"Health, Education & Human Resources","Health and allied services, NEC",,541922.0,541922.0
+2027,8099,H0000,"Health, Education & Human Resources","Health and allied services, NEC",,621410.0,621410.0
+2028,8099,H0000,"Health, Education & Human Resources","Health and allied services, NEC",,621991.0,621991.0
+2029,8099,H0000,"Health, Education & Human Resources","Health and allied services, NEC",,621999.0,621999.0
+2030,8111,K1000,Attorneys & law firms,Legal services,,541110.0,541110.0
+2031,8211,H5100,Schools & colleges,Elementary and secondary schools,X,611110.0,611110.0
+2032,8221,H5100,Schools & colleges,"Colleges and universities, NEC",X,611310.0,611310.0
+2033,8222,H5100,Schools & colleges,Junior colleges,X,611210.0,611210.0
+2034,8231,X4200,"Museums, art galleries, libraries, etc.",Libraries,X,519120.0,519120.0
+2035,8243,H5200,"Technical, business and vocational schools & svcs",Data processing schools,X,611420.0,611420.0
+2036,8243,H5200,"Technical, business and vocational schools & svcs",Data processing schools,X,611519.0,611519.0
+2037,8244,H5200,"Technical, business and vocational schools & svcs",Business and secretarial schools,X,611410.0,611410.0
+2038,8249,H5200,"Technical, business and vocational schools & svcs","Vocational schools, NEC",X,611512.0,611512.0
+2039,8249,H5200,"Technical, business and vocational schools & svcs","Vocational schools, NEC",X,611513.0,611513.0
+2040,8249,H5200,"Technical, business and vocational schools & svcs","Vocational schools, NEC",X,611519.0,611519.0
+2041,8299,H5000,Education,"Schools & educational services, NEC",,611430.0,611430.0
+2042,8299,H5000,Education,"Schools & educational services, NEC",,611512.0,611512.0
+2043,8299,H5000,Education,"Schools & educational services, NEC",,611519.0,611519.0
+2044,8299,H5000,Education,"Schools & educational services, NEC",,611610.0,611610.0
+2045,8299,H5000,Education,"Schools & educational services, NEC",,611620.0,611620.0
+2046,8299,H5000,Education,"Schools & educational services, NEC",,611630.0,611630.0
+2047,8299,H5000,Education,"Schools & educational services, NEC",,611691.0,611691.0
+2048,8299,H5000,Education,"Schools & educational services, NEC",,611692.0,611692.0
+2049,8299,H5000,Education,"Schools & educational services, NEC",,611699.0,611699.0
+2050,8299,H5000,Education,"Schools & educational services, NEC",,611710.0,611710.0
+2051,8322,H6000,Welfare & Social Work,Individual and family social services,X,624110.0,624110.0
+2052,8322,H6000,Welfare & Social Work,Individual and family social services,X,624120.0,624120.0
+2053,8322,H6000,Welfare & Social Work,Individual and family social services,X,624190.0,624190.0
+2054,8322,H6000,Welfare & Social Work,Individual and family social services,X,624210.0,624210.0
+2055,8322,H6000,Welfare & Social Work,Individual and family social services,X,624221.0,624221.0
+2056,8322,H6000,Welfare & Social Work,Individual and family social services,X,624229.0,624229.0
+2057,8322,H6000,Welfare & Social Work,Individual and family social services,X,624230.0,624230.0
+2058,8322,H6000,Welfare & Social Work,Individual and family social services,X,922150.0,922150.0
+2059,8331,H6000,Welfare & Social Work,Job training and related services,X,624310.0,624310.0
+2060,8351,G5000,Services,Child day care services,X,624410.0,624410.0
+2061,8361,H2200,Nursing Homes,Residential care,X,623210.0,623210.0
+2062,8361,H2200,Nursing Homes,Residential care,X,623220.0,623220.0
+2063,8361,H2200,Nursing Homes,Residential care,X,623312.0,623312.0
+2064,8361,H2200,Nursing Homes,Residential care,X,623990.0,623990.0
+2065,8399,H6000,Welfare & Social Work,"Social services, NEC",X,813212.0,813212.0
+2066,8399,H6000,Welfare & Social Work,"Social services, NEC",X,813219.0,813219.0
+2067,8399,H6000,Welfare & Social Work,"Social services, NEC",X,813311.0,813311.0
+2068,8399,H6000,Welfare & Social Work,"Social services, NEC",X,813312.0,813312.0
+2069,8399,H6000,Welfare & Social Work,"Social services, NEC",X,813319.0,813319.0
+2070,8412,X4200,"Museums, art galleries, libraries, etc.",Museums and art galleries,X,712110.0,712110.0
+2071,8412,X4200,"Museums, art galleries, libraries, etc.",Museums and art galleries,X,712120.0,712120.0
+2072,8422,X4200,"Museums, art galleries, libraries, etc.",Botanical and zoological gardens,X,712130.0,712130.0
+2073,8422,X4200,"Museums, art galleries, libraries, etc.",Botanical and zoological gardens,X,712190.0,712190.0
+2074,8611,G1000,General business associations,Business associations,,813910.0,813910.0
+2075,8621,,Professional organizations,X,,813920.0,813920.0
+2076,8631,L0000,"Labor Unions, Unclassified",Labor organizations,,813930.0,813930.0
+2077,8641,,Civic and social associations,X,,813319.0,813319.0
+2078,8641,,Civic and social associations,X,,813410.0,813410.0
+2079,8641,,Civic and social associations,X,,813990.0,813990.0
+2080,8641,,Civic and social associations,X,,921150.0,921150.0
+2081,8651,,Political organizations,X,,813940.0,813940.0
+2082,8661,X0000,Other,Religious organizations,,813110.0,813110.0
+2083,8699,,"Membership organizations, NEC",X,,561599.0,561599.0
+2084,8699,,"Membership organizations, NEC",X,,813312.0,813312.0
+2085,8699,,"Membership organizations, NEC",X,,813410.0,813410.0
+2086,8699,,"Membership organizations, NEC",X,,813910.0,813910.0
+2087,8699,,"Membership organizations, NEC",X,,813990.0,813990.0
+2088,8711,B4400,"Engineers, Type Unknown",Engineering services,,541330.0,541330.0
+2089,8712,B4200,Architectural services,Architectural services,,541310.0,541310.0
+2090,8713,B4300,Surveying,Survey services,,541360.0,541360.0
+2091,8713,B4300,Surveying,Survey services,,541370.0,541370.0
+2092,8721,F5100,Accountants,"Accounting, auditing, & bookkeeping",,541211.0,541211.0
+2093,8721,F5100,Accountants,"Accounting, auditing, & bookkeeping",,541214.0,541214.0
+2094,8721,F5100,Accountants,"Accounting, auditing, & bookkeeping",,541219.0,541219.0
+2095,8731,G5200,Business services,Commercial physical research,X,,
+2096,8732,G5200,Business services,Commercial nonphysical research,X,541720.0,541720.0
+2097,8732,G5200,Business services,Commercial nonphysical research,X,541910.0,541910.0
+2098,8733,X4000,Non-Profits,Noncommercial research organizations,X,541720.0,541720.0
+2099,8734,G5200,Business services,Testing laboratories,X,541380.0,541380.0
+2100,8734,G5200,Business services,Testing laboratories,X,541940.0,541940.0
+2101,8741,G5270,Management consultants & services,Management services,X,236115.0,236115.0
+2102,8741,G5270,Management consultants & services,Management services,X,236116.0,236116.0
+2103,8741,G5270,Management consultants & services,Management services,X,236118.0,236118.0
+2104,8741,G5270,Management consultants & services,Management services,X,236210.0,236210.0
+2105,8741,G5270,Management consultants & services,Management services,X,236220.0,236220.0
+2106,8741,G5270,Management consultants & services,Management services,X,237110.0,237110.0
+2107,8741,G5270,Management consultants & services,Management services,X,237120.0,237120.0
+2108,8741,G5270,Management consultants & services,Management services,X,237130.0,237130.0
+2109,8741,G5270,Management consultants & services,Management services,X,237310.0,237310.0
+2110,8741,G5270,Management consultants & services,Management services,X,237990.0,237990.0
+2111,8741,G5270,Management consultants & services,Management services,X,561110.0,561110.0
+2112,8742,G5270,Management consultants & services,Management consulting services,X,541611.0,541611.0
+2113,8742,G5270,Management consultants & services,Management consulting services,X,541612.0,541612.0
+2114,8742,G5270,Management consultants & services,Management consulting services,X,541613.0,541613.0
+2115,8742,G5270,Management consultants & services,Management consulting services,X,541614.0,541614.0
+2116,8743,G5210,Advertising & public relations services,Public relations services,X,541820.0,541820.0
+2117,8744,,Facilities support management services,X,,561210.0,561210.0
+2118,8748,G5200,Business services,"Business consulting services, NEC",X,541320.0,541320.0
+2119,8748,G5200,Business services,"Business consulting services, NEC",X,541330.0,541330.0
+2120,8748,G5200,Business services,"Business consulting services, NEC",X,541618.0,541618.0
+2121,8748,G5200,Business services,"Business consulting services, NEC",X,541690.0,541690.0
+2122,8748,G5200,Business services,"Business consulting services, NEC",X,611710.0,611710.0
+2123,8811,G5000,Services,Private households,X,814110.0,814110.0
+2124,8999,,"Services, NEC",X,,512210.0,512210.0
+2125,8999,,"Services, NEC",X,,512230.0,512230.0
+2126,8999,,"Services, NEC",X,,541612.0,541612.0
+2127,8999,,"Services, NEC",X,,541620.0,541620.0
+2128,8999,,"Services, NEC",X,,541690.0,541690.0
+2129,8999,,"Services, NEC",X,,541990.0,541990.0
+2130,8999,,"Services, NEC",X,,711510.0,711510.0
+2131,9111,X3000,Civil servant/public employee,Executive offices,X,921110.0,921110.0
+2132,9121,X3000,Civil servant/public employee,Legislative bodies,X,921120.0,921120.0
+2133,9131,X3000,Civil servant/public employee,Executive and legislative combined,X,921140.0,921140.0
+2134,9199,X3000,Civil servant/public employee,"General government, NEC",X,921190.0,921190.0
+2135,9211,X3200,Courts & Justice System,Courts,X,922110.0,922110.0
+2136,9221,L1400,Police & firefighters unions & associations,Police protection,X,922120.0,922120.0
+2137,9222,X3200,Courts & Justice System,Legal counsel and prosecution,X,922130.0,922130.0
+2138,9223,X3200,Courts & Justice System,Correctional institutions,X,922140.0,922140.0
+2139,9224,L1400,Police & firefighters unions & associations,Fire protection,X,922160.0,922160.0
+2140,9229,X3000,Civil servant/public employee,"Public order and safety, NEC",X,922190.0,922190.0
+2141,9311,X3000,Civil servant/public employee,"Finance, taxation, and monetary policy",X,921130.0,921130.0
+2142,9411,X3000,Civil servant/public employee,Administration of educational programs,X,923110.0,923110.0
+2143,9431,X3000,Civil servant/public employee,Administration of public health programs,X,923120.0,923120.0
+2144,9441,X3000,Civil servant/public employee,Admin of social and manpower programs,X,923130.0,923130.0
+2145,9451,X3000,Civil servant/public employee,Administration of veterans' affairs,X,923140.0,923140.0
+2146,9511,X3000,Civil servant/public employee,Air and water and solid waste mgmt,X,924110.0,924110.0
+2147,9512,X3000,Civil servant/public employee,"Land, mineral, wildlife conservation",X,924120.0,924120.0
+2148,9531,X3000,Civil servant/public employee,Administration of housing programs,X,925110.0,925110.0
+2149,9532,X3000,Civil servant/public employee,Urban and community development,X,925120.0,925120.0
+2150,9611,X3000,Civil servant/public employee,Admin of general economic programs,X,926110.0,926110.0
+2151,9621,X3000,Civil servant/public employee,"Regulation, admin of transportation",X,488111.0,488111.0
+2152,9621,X3000,Civil servant/public employee,"Regulation, admin of transportation",X,926120.0,926120.0
+2153,9631,X3000,Civil servant/public employee,"Regulation, admin of utilities",X,926130.0,926130.0
+2154,9641,X3000,Civil servant/public employee,Regulation of agricultural marketing,X,926140.0,926140.0
+2155,9651,X3000,Civil servant/public employee,Regulation misc commercial sectors,X,926150.0,926150.0
+2156,9661,X3000,Civil servant/public employee,Space research and technology,X,927110.0,927110.0
+2157,9711,X5000,Military,National Security,,928110.0,928110.0
+2158,9721,X3000,Civil servant/public employee,International affairs,X,928120.0,928120.0
+2159,9999,,Nonclassifiable establishments,X,,,
